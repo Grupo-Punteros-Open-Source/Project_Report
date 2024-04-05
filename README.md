@@ -200,7 +200,7 @@ Usuarios de GitHub:
 
 |          Integrante          |      Usuario de Github      |
 |:-----------------------------:|:-------------------:|
-|   De la Piedra Quintanilla, Erwin Miquel   |    U202112179    |
+|   De la Piedra Quintanilla, Erwin Miquel   |    Miquel    |
 |  Pinto Fuentes Rivera, Alvaro Felipe  |    Alvaro    |
 |   Espinoza Saenz,Christian Renato  |    Christian    |
 |  Méndez Vargas, Sebastian Orlando   |    Chivicita   |
@@ -266,13 +266,12 @@ Es un idioma de programación ampliamente empleado en diversas áreas, incluyend
 
 Es el lenguaje utilizado para elaborar casos de prueba en función de los requerimientos establecidos por la empresa. Su aplicación se lleva a cabo durante el proceso de pruebas o testing.
 
-### 5.1.4. Software Deployment Configuration
-
 - Dividir el bloque de Given When Then en partes separadas para mejorar su legibilidad y subdivisiones apropiadas.
 - Cuando se presentan las variables de entrada y salida junto con sus ejemplos, se utilizan tablas para su representación. Sin embargo, no es necesario utilizar varias tablas para cada parte del código; es suficiente con una tabla general al final del escenario.
 - Si hay más de un escenario en un archivo, se debe realizar una separación adecuada entre ellos para distinguirlos claramente. Esto se puede lograr dejando dos líneas en blanco para indicar el final de un escenario y el inicio del siguiente.
 - Añadir líneas en blanco dentro de cada paso (Step) para mejorar la legibilidad y la organización de la información.
 
+### 5.1.4. Software Deployment Configuration
 
 Para la gestión del despliegue de la aplicación, optaremos por Git, un sistema de control de versiones distribuido ampliamente utilizado en proyectos de desarrollo de software. Esta herramienta esencial facilita el trabajo colaborativo y el seguimiento de los cambios realizados por los miembros del equipo. Una de sus ventajas destacadas es su capacidad para registrar los cambios en los archivos de un proyecto a lo largo del tiempo. Con Git, podemos crear ramas, efectuar cambios en ellas y fusionarlos eficientemente, lo que permite que varios desarrolladores trabajen en diferentes aspectos del proyecto simultáneamente sin conflictos.
 
