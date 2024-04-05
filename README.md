@@ -410,4 +410,112 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
 
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
+
 # Capítulo V: Product Implementation, Validation & Deployment.
+## 5.1 Software Configuration Management
+### 5.1.1. Software Development Environment Configuration
+
+**Project Management:**
+
+En la administración de nuestro proyecto, empleamos WhatsApp como el principal medio de comunicación, donde un grupo dedicado facilita el intercambio de ideas y opiniones sobre todos los aspectos del trabajo. También, utilizamos Discord para llevar a cabo reuniones asincrónicas relacionadas con el proyecto. Para la documentación esencial, confiamos en Google Drive, permitiéndonos crear y compartir documentos de manera colaborativa, lo que optimiza nuestro flujo de trabajo y proporciona un seguimiento claro de las contribuciones individuales. En cuanto al manejo de repositorios, nos inclinamos hacia GitHub, que brinda acceso a todos los miembros del equipo para colaborar en el desarrollo y mantenimiento de nuestros proyectos.
+
+**Requirements Management:**
+
+Para registrar los requisitos optamos por emplear Pivotal Tracker para registrar los requisitos del proyecto, también conocidos como historias de usuario. En esta plataforma, organizamos las historias según su prioridad en el Product Backlog. Este proceso fue colaborativo, con la contribución de todos los miembros del equipo, quienes aportaron a la definición de las historias de usuario y participaron en discusiones sobre las funcionalidades que se consideraron necesarias para la aplicación web.
+
+**Product UX/UI Design:**
+
+Para la creación de productos de UX, utilizamos UXPressia, una herramienta que nos permite elaborar artefactos como User Personas, Empathy Mapping, Impact Mapping, entre otros. Esta elección nos ha permitido modelar los diseños de la experiencia de usuario, lo que resulta beneficioso para obtener una comprensión más profunda de nuestros segmentos objetivo. Además, hemos empleado Figma para desarrollar los prototipos de la aplicación web, creando wireframes y mock-ups.
+
+**Software Development:**
+
+EL IDE que hemos estado utilizando Visual Studio Code como nuestro principal entorno de desarrollo. Es una herramienta que todos conocemos bien y que nos encanta por su flexibilidad y facilidad de uso. Además, ofrece un gran apoyo para una amplia gama de lenguajes de programación, lo que nos ha facilitado mucho las cosas. También nos permite conectar nuestros repositorios en línea de GitHub. En cuanto al desarrollo en sí, hemos estado trabajando con lenguajes como HTML, CSS y JavaScript, que ya conocíamos de antemano y nos han sido muy útiles para llevar a cabo nuestras ideas.
+
+**Software Testing:**
+
+Para llevar a cabo estas pruebas, hemos empleado el lenguaje Gherkin, que se basa en el formato de escenario Given-When-Then y nos permite analizar las variables de entrada y salida. Este lenguaje se destaca por su simplicidad y claridad al utilizar una estructura que se asemeja al lenguaje natural, lo que facilita su comprensión para todos los involucrados en el proceso.
+
+### 5.1.2. Source Code Management
+
+Usuarios de GitHub:
+
+|          Integrante          |      Usuario de Github      |
+|:-----------------------------:|:-------------------:|
+|   De la Piedra Quintanilla, Erwin Miquel   |    Miquel    |
+|  Pinto Fuentes Rivera, Alvaro Felipe  |    Alvaro    |
+|   Espinoza Saenz,Christian Renato  |    Christian    |
+|  Méndez Vargas, Sebastian Orlando   |    Chivicita   |
+|   Matos Ferrnandez, Christian André   |    FerKlox34   |
+
+*URL de repositorio Landing Page*: [https://github.com/Grupo-Punteros-Open-Source/Landing_Page](https://github.com/Grupo-Punteros-Open-Source/Landing_Page)
+
+*URL de repositorio Web Services*: [hhttps://github.com/Grupo-Punteros-Open-Source/Web_Services](https://github.com/Grupo-Punteros-Open-Source/Web_Services)
+
+*URL de repositorio de Frontend Web Applications*: [https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications)
+
+Para llevar a cabo el desarrollo del proyecto, seguiremos el modelo de flujo de trabajo GitFlow. Este enfoque se basa en el control de versiones Git y se compone de varias ramas, cada una con un propósito específico: Main, Feature y Develop. La rama Main se utiliza para trabajar con las versiones finales del sprint y realizar despliegues de la aplicación web. Por lo tanto, todas las versiones almacenadas en esta rama deben ser funcionales y estables para el usuario. Las ramas Feature se emplean para desarrollar características específicas, como por ejemplo, un registro de usuario. Cada una de estas ramas se gestiona de forma independiente para mantener un orden basado en el Product Backlog, lo que significa que cualquier problema que surja al trabajar en una característica no afectará al programa en su totalidad. Por último, está la rama Develop, donde se fusionan todas las características ya trabajadas. Esta práctica asegura que todo funcione según lo previsto antes de realizar un despliegue oficial hacia la rama Main.
+
+### 5.1.3. Source Code Style Guide & Conventions
+
+Durante el desarrollo proyecto, se emplearán diversos lenguajes para la creación del Landing Page, Web Services y Frontend Web Application. Para mantener la coherencia y uniformidad en el desarrollo, nos regiremos por las pautas y convenciones que se detallan a continuación.
+
+**HTML**
+
+Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más.
+
+- Incluir la declaración del tipo de documento en la primera línea con `<!DOCTYPE html>`, manteniendo la estructura básica del HTML con `<html>`, `<head>`, `<body>`.
+
+- Indicar el título de la página para informar al usuario sobre el contenido de la página utilizando el elemento `<title>` dentro de `<head>`.
+
+- Adoptar una indentación coherente para mejorar la legibilidad del código, asegurándose de tabular correctamente cada nivel de anidamiento.
+
+- Asegurarse de cerrar siempre los elementos que lo requieran, como divisiones, párrafos, títulos, utilizando la etiqueta de cierre correspondiente (por ejemplo, `</div>` para cerrar una `<div>`).
+
+- Incluir el atributo `"alt"` para las imágenes, proporcionando una descripción alternativa que se muestra cuando la imagen no se puede cargar.
+
+**CS**
+
+Es el idioma empleado para establecer el diseño de una página web, incluyendo los estilos, tipos de letra, colores, contenedores y otros aspectos visuales.
+
+- Utilizar la indentación de manera adecuada.
+- Utilizar nombres cortos y en minúsculas para los elementos.
+- Especificar los colores en código hexadecimal (por ejemplo, #024A86).
+- Incluir comentarios para describir el propósito y uso de los estilos.
+- Asegurarse de que el diseño sea responsive para que los usuarios puedan visualizarlo cómodamente en cualquier dispositivo.
+
+**JavaScript**
+
+Es el idioma de programación más popular en el ámbito del desarrollo web, ya que posibilita la creación de páginas interactivas con animaciones atractivas para los usuarios.
+
+- Utilizar nombres breves y apropiados para las variables y funciones.
+- Agregar comentarios para explicar la función de cada parte del código en la página web.
+- Asegurarse de poner un punto y coma al final de cada línea de código.
+- Definir constantes en lugar de variables cuando su valor no cambiará.
+- Emplear operadores de comparación estrictos en lugar de comparaciones regulares siempre que sea factible (por ejemplo, usar === en lugar de ==).
+
+**C#**
+
+Es un idioma de programación ampliamente empleado en diversas áreas, incluyendo la programación web, móvil, y otros campos.
+
+- Utilizar CamelCase para nombrar las variables, funciones y clases, asegurándose de que sean significativos y breves.
+- Emplear comillas dobles ("") para delimitar las cadenas de texto.
+- Aplicar una correcta indentación para mantener un código coherente y ordenado.
+- Incluir comentarios en cada bloque de código para explicar su funcionalidad.
+- Definir constantes para variables cuyos valores permanecerán constantes a lo largo del código.
+
+**Gherkin**
+
+Es el lenguaje utilizado para elaborar casos de prueba en función de los requerimientos establecidos por la empresa. Su aplicación se lleva a cabo durante el proceso de pruebas o testing.
+
+- Dividir el bloque de Given When Then en partes separadas para mejorar su legibilidad y subdivisiones apropiadas.
+- Cuando se presentan las variables de entrada y salida junto con sus ejemplos, se utilizan tablas para su representación. Sin embargo, no es necesario utilizar varias tablas para cada parte del código; es suficiente con una tabla general al final del escenario.
+- Si hay más de un escenario en un archivo, se debe realizar una separación adecuada entre ellos para distinguirlos claramente. Esto se puede lograr dejando dos líneas en blanco para indicar el final de un escenario y el inicio del siguiente.
+- Añadir líneas en blanco dentro de cada paso (Step) para mejorar la legibilidad y la organización de la información.
+
+### 5.1.4. Software Deployment Configuration
+
+Para la gestión del despliegue de la aplicación, optaremos por Git, un sistema de control de versiones distribuido ampliamente utilizado en proyectos de desarrollo de software. Esta herramienta esencial facilita el trabajo colaborativo y el seguimiento de los cambios realizados por los miembros del equipo. Una de sus ventajas destacadas es su capacidad para registrar los cambios en los archivos de un proyecto a lo largo del tiempo. Con Git, podemos crear ramas, efectuar cambios en ellas y fusionarlos eficientemente, lo que permite que varios desarrolladores trabajen en diferentes aspectos del proyecto simultáneamente sin conflictos.
+
+Por otro lado, contamos con GitHub, una plataforma que sirve para alojar repositorios de Git. Es uno de los servicios más populares entre los desarrolladores a nivel global, ya que posibilita la gestión de repositorios tanto públicos como privados para almacenar el código en la nube. Además de almacenar el código, GitHub mantiene el historial de los repositorios, lo que permite a los usuarios acceder a todas las versiones trabajadas y revertir a una versión anterior si es necesario. Ofrece otras herramientas útiles como los pull requests, que son solicitudes de revisión de una rama y su posterior fusión con otra rama.
+
+Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma remota desde su entorno de desarrollo integrado (IDE), manteniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub. De esta manera, pueden realizar commits para enviar los cambios que hayan realizado.
