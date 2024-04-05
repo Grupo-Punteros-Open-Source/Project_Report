@@ -167,6 +167,247 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 
 # Capítulo I: Introducción
 # Capítulo II: Requirements Elicitation & Analysis.
+## 2.1 Competidores
+
+Para realizar el análisis competitivo hemos tomado en consideración competidores directos e indirectos:
+
+- **Mitchell1**: Mitchell1 es una empresa líder en la industria automotriz que ofrece software y soluciones tecnológicas para talleres mecánicos y concesionarios de automóviles. Su producto principal, ProDemand, es un sistema de información de reparación que proporciona a los técnicos automotrices acceso a datos detallados sobre reparación y mantenimiento de vehículos, incluyendo diagramas de cableado, procedimientos de diagnóstico y otra información técnica esencial.  
+
+<div align="center">
+  <img src="img/logo_mitchell1.jpg" alt="Logo de Mitchell1" width="10%">
+</div>
+
+- **ALLDATA**: AllData es otra empresa líder en la industria automotriz que proporciona software y soluciones tecnológicas para talleres mecánicos y profesionales del automóvil. Al igual que Mitchell1, AllData ofrece acceso a una amplia base de datos de información técnica sobre reparación y mantenimiento de vehículos. Sus productos incluyen diagramas de cableado, especificaciones de componentes, procedimientos de reparación, boletines técnicos y otra documentación útil para ayudar a los técnicos a diagnosticar y reparar vehículos de manera efectiva. 
+
+<div align="center">
+  <img src="img/logo_alldata.jpeg" alt="Logo de ALLDATA" width="10%">
+</div>
+
+- **Shop-Ware**: Shop-Ware es una empresa de software que ofrece una plataforma de gestión de talleres para la industria automotriz. Su plataforma integra una variedad de herramientas y funciones diseñadas para ayudar a los talleres mecánicos a administrar eficientemente sus operaciones diarias. Esto incluye funciones como programación de citas, gestión de órdenes de trabajo, seguimiento de inventario, facturación, gestión de clientes y más.  
+
+<div align="center">
+  <img src="img/logo_shop-ware.png" alt="Logo de Shop-Ware" width="10%">
+</div>
+
+### 2.1.1 Análisis competitivo
+
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">AutoPro Tracker</td>
+    <td valign="top">Mitchell1</td>
+    <td valign="top">ALLDATA</td>
+    <td valign="top">Shop-Ware</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="img/logo_AutoproTracker.jpg" alt="Logo de AutoPro Tracker" height="100px"></td>
+    <td valign="top"><img src="img/logo_mitchell1.jpg" alt="Logo de Mitchell1" height="100px"></td>
+    <td valign="top"><img src="img/logo_alldata.jpeg" alt="Logo de ALLDATA" height="100px"></td>
+    <td valign="top"><img src="img/logo_shop-ware.png" alt="Logo de Shop-Ware" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Plataforma de gestión de procesos para talleres de reparación de vehículos, centrada en simplificar operaciones y mejorar la experiencia del cliente.</td>
+    <td valign="top">Ofrece soluciones de gestión de talleres para la industria automotriz.</td>
+    <td valign="top">Software de gestión de talleres y bases de datos de información técnica para la industria automotriz.</td>
+    <td valign="top">Plataforma de gestión de talleres basada en la nube diseñada específicamente para la industria automotriz.
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Integración de seguimiento de kilometraje y notificaciones automáticas, interfaz fácil de usar y enfoque centrado en el cliente</td>
+    <td valign="top">Su experiencia en la industria y sus sólidas bases de datos técnicas son su principal ventaja competitiva.</td>
+    <td valign="top">Su amplia base de datos de información técnica y su experiencia en la industria automotriz son su principal ventaja competitiva.</td>
+    <td valign="top">Su principal ventaja competitiva radica en su enfoque en la tecnología de la nube y su capacidad para proporcionar herramientas intuitivas y eficientes para la gestión de talleres.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños, enfocándose en mejorar la eficiencia y calidad del servicio.</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños.</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños y fabricantes de automóviles</td>
+    <td valign="top">Talleres de reparación de vehículos de todos los tamaños, desde pequeños talleres independientes hasta grandes cadenas de servicios automotrices.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Marketing en línea, demostraciones de producto, participación en eventos de la industria y asociaciones estratégicas.</td>
+    <td valign="top">Utilizan marketing directo, publicidad en línea y participación en ferias de la industria automotriz.</td>
+    <td valign="top">Utilizan publicidad en línea, asociaciones con fabricantes de automóviles y distribuidores para promocionar sus productos</td>
+    <td valign="top">Shop-Ware utiliza una combinación de marketing en línea, demostraciones de producto, participación en eventos de la industria y asociaciones estratégicas para promover sus soluciones.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Plataforma de gestión de procesos con seguimiento de kilometraje, notificaciones automáticas y estimaciones de reparación.</td>
+    <td valign="top">Ofrecen ProDemand y Manager SE, bases de datos técnicas y software de gestión de talleres.</td>
+    <td valign="top">Ofrecen bases de datos de información técnica y software de gestión de talleres.</td>
+    <td valign="top">Ofrece una plataforma de gestión de talleres basada en la nube que incluye funciones como programación, estimación, facturación, seguimiento de inventario y comunicación con los clientes.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Varían según características y tamaño del taller, con opciones de suscripción mensual o anual.</td>
+    <td valign="top">Varían según el producto y pueden incluir tarifas de suscripción o costos de licencia.</td>
+    <td valign="top">Los precios varían según el producto y pueden incluir tarifas de suscripción mensuales o costos de licencia.</td>
+    <td valign="top">Los precios varían según el tamaño del taller y las características específicas de la solución, con opciones de suscripción mensual o anual</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial y asociaciones con distribuidores de la industria automotriz.
+    </td>
+    <td valign="top">Principalmente a través de su sitio web y distribuidores autorizados, con posibilidad de acceso móvil. </td>
+    <td valign="top">Principalmente a través de su sitio web oficial y asociaciones con fabricantes de automóviles y distribuidores.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial y mediante asociaciones con distribuidores de la industria automotriz.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+        <ul>
+          <li>Enfoque centrado en el cliente.</li>
+          <li>Integración de tecnología para mejorar la eficiencia operativa.</li>
+          <li>Facilidad de uso y accesibilidad de la plataforma.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Experiencia en la industria</li>
+          <li>Bases de datos técnicas sólidas.</li>
+          <li>Buen soporte al cliente.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Experiencia en la industria automotriz.</li>
+          <li>Asociaciones estratégicas.</li>
+        </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li>Tecnología basada en la nube.</li>
+        <li>Herramientas intuitivas y eficientes.</li>
+        <li>Enfoque en mejorar la comunicación con los clientes.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+        <ul>
+          <li>Posible necesidad de educación sobre el uso del sistema para nuevos usuarios.</li>
+          <li>Dependencia de la conectividad a Internet para acceder al sistema.</li>
+        </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li>Curva de aprendizaje para nuevos usuarios.</li>
+        <li>Expansión geográfica.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li>Curva de aprendizaje para nuevos usuarios.</li>
+        <li>Posible dependencia de asociaciones con fabricantes de automóviles.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+        <li> Posible resistencia al cambio por parte de algunos talleres.</li>
+        <li>Dependencia de la conectividad a Internet para acceder al sistema.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+        <ul>
+          <li>Expansión a nuevos mercados geográficos.</li>
+          <li>Desarrollo de nuevas características para satisfacer las necesidades emergentes de la industria automotriz.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Expansión geográfica.</li>
+          <li> Desarrollo de nuevas características.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Expansión a nuevos mercados geográficos.</li>
+          <li>Desarrollo de nuevas características y funcionalidades</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Expansión a nuevos mercados geográficos.</li>
+          <li>Desarrollo de nuevas características para satisfacer las necesidades emergentes de la industria automotriz.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente en el mercado de soluciones de gestión de talleres.</li>
+          <li>Cambios en las tendencias tecnológicas que podrían afectar la demanda de productos y servicios</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente.</li>
+          <li>Cambios tecnológicos.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente en el mercado de soluciones de gestión de talleres.</li>
+          <li>Cambios en las preferencias del cliente y en la tecnología.</li>
+      </ul>
+    </td>
+    <td valign="top">
+        <ul>
+          <li>Competencia creciente en el mercado de soluciones de gestión de talleres.</li>
+          <li>Cambios en las tendencias tecnológicas que podrían afectar la demanda de productos y servicios de Shop-Ware.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+### 2.1.2. Estrategias y tácticas frente a competidores.
+
+**Estrategia 1: Desarrollo de Capacitación Personalizada**
+
+  - Táctica: Ofrecer capacitación personalizada a los talleres sobre cómo utilizar eficazmente nuestra plataforma de gestión de procesos.
+
+  - Explicación: Al proporcionar capacitación personalizada, podemos asegurarnos de que los talleres comprendan completamente todas las características y funcionalidades de nuestra plataforma. Esto les permitirá aprovechar al máximo la solución y optimizar su eficiencia operativa.
+
+**Estrategia 2: Participación en Eventos de la Industria**
+
+  - Táctica: Asistir y participar activamente en ferias comerciales, conferencias y eventos de la industria automotriz.
+
+  - Explicación: Participar en eventos de la industria nos brinda la oportunidad de establecer contactos con propietarios de talleres, gerentes y profesionales de la industria. Además, podemos demostrar nuestra plataforma en vivo, responder preguntas y recopilar comentarios directos de clientes potenciales. Esta estrategia nos ayuda a aumentar la visibilidad de nuestra marca y a establecer relaciones sólidas en el mercado automotriz.
+
+**Estrategia 3: Marketing de Contenidos**
+
+  - Táctica: Crear y distribuir contenido relevante y útil, como blogs, videos tutoriales y guías de mejores prácticas, que aborden los desafíos comunes enfrentados por los talleres de reparación de vehículos.
+
+  - Explicación: El marketing de contenidos nos permite establecernos como autoridad en la industria y construir confianza con nuestra audiencia al proporcionarles información valiosa y soluciones a sus problemas. Esto puede ayudar a atraer nuevos clientes y fomentar la retención de clientes existentes.
+
+**Estrategia 4: Programa de Fidelización de Clientes**
+
+  - Táctica: Implementar un programa de fidelización de clientes donde los talleres acumulen puntos o descuentos por el uso continuo de nuestra plataforma y por referir nuevos clientes.
+
+  - Explicación: Este programa incentiva a los talleres a mantenerse comprometidos con nuestra plataforma a largo plazo, al tiempo que los recompensa por su lealtad y contribución al crecimiento de nuestra base de usuarios. Además, fomenta la retención de clientes existentes y estimula el boca a boca positivo, lo que puede generar un aumento en la adquisición de nuevos clientes.
+
+
+
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
 # Capítulo V: Product Implementation, Validation & Deployment.
