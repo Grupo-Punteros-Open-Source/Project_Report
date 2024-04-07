@@ -406,8 +406,90 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
 
   - Explicación: Este programa incentiva a los talleres a mantenerse comprometidos con nuestra plataforma a largo plazo, al tiempo que los recompensa por su lealtad y contribución al crecimiento de nuestra base de usuarios. Además, fomenta la retención de clientes existentes y estimula el boca a boca positivo, lo que puede generar un aumento en la adquisición de nuevos clientes.
 
+### 2.2.2. Registro de entrevistas
+**Segmento Objetivo: Dueño de taller**
+**Entrevista 1**
+Entrevistador: Alvaro Pinto Fuentes Rivera
+Entrevistado: Felipe Pinto Velaochaga
+Datos del Entrevistado:
+Edad: 41
+Estado civil: Casado
+Ocupación: Ingeniero Mecatrónico
+
+Link de la entrevista en youtube: https://youtu.be/rQgD14XBJcs
 
 
+### 2.2.3. Análisis de entrevistas.
+
+**Segmento Objetivo: Dueño de taller**
+
+**Entrevista 1**
+Descripción:
+Felipe Pinto es gerente de un taller de 41 años que utiliza principalmente una computadora para su trabajo mediante la cual puede aplicar procesos de gestión que realmente son bastante anticuados ya que utiliza software genérico como excel cosa que a una empresa en crecimiento limitan la efectividad y agilidad del taller, que de forma directamente proporcional afecta a las ganancias de la empresa, él es consciente de que mediante el uso de una aplicacion puede aumentar la eficiencia de la gestión. Comentó algunas de las carácteristicas que le gustaría ver en la aplicacion, siendo dentro de ellas la posibilidad de tener un registro de los servicios previos realizados a un vehiculo, puesto que muchas veces los vehiculos vienen de otros talleres que han realizado un mal servicio o algun cambio del cual el cliente no da razón, por lo que para evitar problemas posteriores serían de gran ayuda. Adicionalmente, luego de comentarle la idea del proyecto mencionando que la función anteriormente mencionada estaría disponible, afirmó que si invertiría en la suscripción puesto considera que una aplicacion web que le ayude con procesos básicos de gestión en su taller es algo bastante importante.
+
+## 2.3. Needfinding.
+### 2.3.1. User Personas.
+Para la creación de nuestras User Personas decidimos tomar el modelo ya generado como plantilla de UXPressia, ya que de esta forma se nos facilitaba representar a nuestros segmentos objetivos, a continuación nuestro
+<div align="center">
+  <img src="img/UserPersona1.png" alt="UserPersona1" width="10%">
+</div>
+
+<div align="center">
+  <img src="img/UserPersona2.png" alt="UserPersona1" width="10%">
+</div>
+
+### 2.3.1. User Task Matrix.
+<table>
+        <tr>
+          <th colspan="5" valign="top">Actividades</th>
+        </tr>
+        <tr>
+          <th colspan="2" valign="top">DIEGO</th>
+          <th colspan="3" valign="top">WILLIAM</th>
+        </tr>
+        <tr>
+          <th valign="top"></th>
+          <th>Frecuencia</th>
+          <th>Importancia</th>
+          <th>Frecuencia</th>
+          <th>Importancia</th>
+        </tr>
+        <tr>
+          <td valign="top">Preocupación por el estado del vehículo</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Rara Vez</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Intranquilidad por no poder conocer el estado actual del vehículo</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+        </tr>
+        <tr>
+          <td valign="top">Frustración por no lograr una mejor comunicación</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Ansiedad por la salida del vehículo del taller</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Se plantea hacer uso de un software especializado en vehículos</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+</table>
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
 # Capítulo V: Product Implementation, Validation & Deployment.
