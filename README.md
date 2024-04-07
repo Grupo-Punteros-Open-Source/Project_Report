@@ -166,6 +166,8 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 - [Anexos](#anexos)
 
 # Capítulo I: Introducción
+## 1.1 Startup Profile.
+
 # Capítulo II: Requirements Elicitation & Analysis.
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
