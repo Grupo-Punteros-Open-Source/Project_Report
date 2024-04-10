@@ -406,6 +406,162 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
 
   - Explicación: Este programa incentiva a los talleres a mantenerse comprometidos con nuestra plataforma a largo plazo, al tiempo que los recompensa por su lealtad y contribución al crecimiento de nuestra base de usuarios. Además, fomenta la retención de clientes existentes y estimula el boca a boca positivo, lo que puede generar un aumento en la adquisición de nuevos clientes.
 
+## 2.2 Entrevistas
+### 2.2.1
+Preguntas para: Propietarios de vehículos
+
+1. ¿Con qué frecuencia realiza mantenimiento preventivo a su vehículo?
+2. ¿Cuál es su método actual para llevar un registro del mantenimiento de su vehículo?
+3. ¿Qué aspectos considera más importantes al elegir un servicio de mantenimiento para su vehículo?
+4. ¿Ha enfrentado alguna dificultad al seguir un programa de mantenimiento regular para su vehículo?
+5. ¿Cuál es su opinión sobre la importancia de mantener registros precisos del mantenimiento del vehículo?
+6. ¿Qué tipo de notificaciones o recordatorios le serían útiles para el mantenimiento de su vehículo?
+7. ¿Está dispuesto a pagar por servicios adicionales en una aplicación web que faciliten la gestión del mantenimiento de su vehículo?
+8. ¿Qué funcionalidades le gustaría ver en una aplicación móvil para gestionar el mantenimiento de su vehículo?
+9. ¿Cómo cree que una aplicación móvil puede ayudarle a mantener su vehículo en buen estado y prolongar su vida útil?
+10. ¿Qué características de seguridad considera importantes al utilizar una aplicación web para el mantenimiento de su vehículo?
+
+Preguntas para: Técnicos y administradores del taller
+
+1. ¿Qué métodos utiliza actualmente para gestionar las operaciones del taller?
+2. ¿Qué desafíos enfrenta al coordinar las citas de los clientes y el trabajo en el taller?
+3. ¿Qué herramientas o software utiliza para programar citas y llevar un registro de las reparaciones?
+4. ¿Cómo maneja actualmente la comunicación con los clientes sobre el progreso de las reparaciones?
+5. ¿Qué información le gustaría recibir automáticamente de una aplicación móvil sobre el estado de las reparaciones en curso?
+6. ¿Cuál es su opinión sobre la importancia de mantener un registro digital de los vehículos y sus historiales de mantenimiento en el taller?
+7. ¿Cómo cree que una aplicación móvil puede mejorar la eficiencia y productividad del taller?
+8. ¿Qué características considera esenciales en una aplicación para ayudarle a gestionar eficientemente las operaciones del taller?
+9. ¿Qué funcionalidades adicionales le gustaría ver en una aplicación móvil para facilitar la gestión del taller?
+10. ¿Está dispuesto a invertir en una aplicación móvil personalizada para su taller si mejora significativamente la eficiencia y la experiencia del cliente?
+
+### 2.2.2 Registro de entrevistas
+
+Segmento Objetivo: Dueño de taller
+
+Entrevista 1
+Entrevistador: Alvaro Pinto Fuentes Rivera
+Entrevistado: Felipe Pinto Velaochaga
+Datos del Entrevistado:
+Edad: 41
+
+https://youtu.be/rzfGQtKLjmc
+
+Segmento Objetivo: Cliente 
+
+Entrevista 1
+Entrevistador: Christian Renato Espinoza Saenz
+Entrevistado: Sebastian Palacios
+Datos del Entrevistado:
+Edad:22 años
+
+https://youtu.be/rQgD14XBJcs
+
+Segmento Objetivo: Cliente 
+
+Entrevista 2
+Entrevistador: Christian Matos
+Entrevistado: Jorge Quiñones
+Datos del Entrevistado:
+Edad:19 años
+
+Segmento Objetivo: Cliente
+
+Entrevista 3
+Entrevistador: Sebastian Méndez
+Entrevistado: Leonardo Vargas
+Datos del Entrevistado:
+Edad: 26 años
+
+https://youtu.be/dC2bl38vZRA
+
+### 2.2.3 Análisis de entrevistas.
+
+**Segmento Objetivo: Dueño de taller**
+
+Entrevista 1:
+
+Descripción:
+Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computadora con windows en la que se apoya en herramientas de software bastante anticuadas, como hojas de cálculo de Excel, para llevar a cabo las operaciones de gestión diarias de su empresa. Sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa como, por ejemplo, el aceite que usa.
+
+**Segmento Objetivo: Cliente**
+
+Entrevista 2:
+Descripción:
+
+Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
+
+Entrevista 3:
+Descripción:
+
+Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de la importancia que tiene para él llevar un registro al día del mantenimiento de su vehículo. Tras finalizar la entrevista, Leonardo indicó que él requiere de anotar y tener varias consideraciones para con su vehículo y así evitar cualquier inconveniente mientras esté viajando. Asimismo, considera que le gustaría poder contar con un servicio de mantenimiento confiable debido a una mala experiencia que tuvo con un taller que cambió partes de un vehículo de uno de sus familiares. Luego, agregó que el uso de una aplicación móvil le facilitaría mucho más el registro de eventos relacionados al mantenimiento de su vehículo, ya que él siempre está al pendiente de su teléfono. Por último, nos comentó que le gustaría conseguir esta aplicación por un bajo costo y que cuente, más que nada, con notificaciones cada que se genere cualquier actividad en su vehículo.
+
+## 2.3 Needfinding.
+### 2.3.1. User Personas.
+
+**Segmento Objetivo: Propietario de un vehiculo**
+
+<div align="center">
+  <img src="img/UserPersona1.png" alt="UserPersona1" width="10%">
+</div>
+
+**Segmento Objetivo: Gerente de Taller**
+<div align="center">
+  <img src="img/UserPersona2.png" alt="UserPersona2" width="10%">
+</div>
+
+### 2.3.2. User Task Matrix
+
+<table>
+        <tr>
+          <th colspan="5" valign="top">Actividades</th>
+        </tr>
+        <tr>
+          <th colspan="2" valign="top">DIEGO</th>
+          <th colspan="3" valign="top">WILLIAM</th>
+        </tr>
+        <tr>
+          <th valign="top"></th>
+          <th>Frecuencia</th>
+          <th>Importancia</th>
+          <th>Frecuencia</th>
+          <th>Importancia</th>
+        </tr>
+        <tr>
+          <td valign="top">Preocupación por el estado del vehículo</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Rara Vez</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Intranquilidad por no poder conocer el estado actual del vehículo</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+        </tr>
+        <tr>
+          <td valign="top">Frustración por no lograr una mejor comunicación</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Ansiedad por la salida del vehículo del taller</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Se plantea hacer uso de un software especializado en vehículos</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+</table>
 
 
 # Capítulo III: Requirements Specification.
