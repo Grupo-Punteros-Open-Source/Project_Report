@@ -181,5 +181,6 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
   
 ### Segmento Clientes de Automotrices:
   <img src="img/Impact map 1-primer segmento.png" alt="Impac Map segmento 2">
+  
 # Capítulo IV: Product Design.
 # Capítulo V: Product Implementation, Validation & Deployment.
