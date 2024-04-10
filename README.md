@@ -171,13 +171,16 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 ## 3.1 To-Be Scenario Mapping.
 ### Segmento Técnicos/Administradores de Automotrices:
   <img src="img/to be segmento 2.png" alt="To-be segmento 1">
-### Segmento Clientes de Automotrices
+  
+### Segmento Clientes de Automotrices:
   <img src="img/to be segmento 1.png" alt="To-be segmento 2">
 
 ## 3.3 Impact Mapping
 ### Segmento Técnicos/Administradores de Automotrices:
   <img src="img/Impact map 1-Segundo segmento.png" alt="Impac Map segmento 1">
+  
 ### Segmento Clientes de Automotrices
   <img src="img/Impact map 1-primer segmento.png" alt="Impac Map segmento 2">
+  
 # Capítulo IV: Product Design.
 # Capítulo V: Product Implementation, Validation & Deployment.
