@@ -175,14 +175,49 @@ Visión: Nos visualizamos como líderes en la transformación digital del sector
 
 Logotipo de la Startup:
 <p align="justify">
-  <img src="img/image2.jpg" alt="Logo Startup" width="50%">
+  <img src="img/StartUp Logo.jpg" alt="Logo Startup" width="50%">
 </p>
 Logotipo del servicio:
 <p align="justify">
-  <img src="img/image3.jpg" alt="Logo del servicio" width="50%">
+  <img src="img/Service Logo.jpg" alt="Logo del servicio" width="50%">
 </p>
 
 ### 1.1.2. Perfiles de los integrantes del equipo.
+
+<table border="1">
+  <tr>
+    <td><strong>Méndez Vargas, Sebastian Orlando (U20201F140)</strong></td>
+    <td>Soy Sebastian Méndez, tengo 21 años y disfruto de temas relacionados a la tecnología moderna (IA, machine learning, etc). Aprendo mucho al trabajar en equipos y soy creativo a la hora de proponer ideas y soluciones tecnológicas. Me considero como una persona sociable y que le gusta compartir ideas con sus compañeros, todo sea por dar lo mejor de nosotros en cada trabajo. Tengo experiencia en lenguajes de programación como Java, Python y JavaScript. 
+</td>
+    <td><p align="center">
+  <img src="img/Perfil Sebastian Mendez.jpg" alt="Logo del servicio" width="100%"></p></td>
+  </tr>
+  <tr>
+    <td><strong>Matos Fernandez, Christian Matos (U202217239)</strong></td>
+    <td>Me llamo Christian Matos, y estoy en mi quinto ciclo de Ingeniería de Software. Poseo experiencia en programación en lenguajes como Python, C++, y JavaScript. Disfruto contribuir con mis habilidades y trabajar en equipo para alcanzar nuestros objetivos comunes.
+</td>
+    <td><p align="center">
+  <img src="img/Perfil Christian Matos.jpg" alt="Logo del servicio" width="100%"></p></td>
+  </tr>
+  <tr>
+    <td><strong>Espinoza Saenz,Christian Renato(U202213208)</strong></td>
+    <td>Mi nombre es Christian Espinoza, soy un estudiante de 19 años que cursa el 5to ciclo de la carrera Ingeniería de Software. Poseo ideas únicas e innovadoras para que el trabajo logre sobresalir. Tengo experiencia en la creación de distintos tipos de diagramas, editar diferentes tipos de multimedia como videos, y un conocimiento general en programación de C++, HTML, CSS y SQL, que será beneficioso para el proyecto.</td>
+    <td><p align="center">
+  <img src="img/Perfil Christian Espinoza.jpg" alt="Logo del servicio" width="100%"></p></td>
+  </tr>
+  <tr>
+    <td><strong>Pinto Fuentes Rivera, Alvaro Felipe(U202213384)</strong></td>
+    <td>Hola, mi nombre es Alvaro, soy un estudiante del quinto ciclo de la carrera Ingeniería de Software. Me gusta mucho leer, sobretodo el género de fantasía y ciencia ficción, mi frase favorita de un libro es el credo "Vida antes que muerte, fuerza antes que debilidad y viaje antes que destino", también soy un gran fan del cine y pasó la mayor parte de mi tiempo libre escribiendo por diversión. Poseo un nivel bueno de programación en los lenguajes de C# y C++, creo que podré resultar de gran ayuda para resolver cualquier tipo de problema durante el desarrollo del proyecto, así como podré brindar ideas creativas para el equipo.</td>
+    <td><p align="center">
+  <img src="img/Perfil Alvaro Pinto.jpg" alt="Logo del servicio" width="100%"></p></td>
+  </tr>
+  <tr>
+    <td><strong>De la Piedra Quintanilla, Erwin Miquel (U202112179)</strong></td>
+    <td>Me llamo Miquel De la Piedra, tengo 20 años y me gusta mucho el cine, en especial las críticas de esta. Posee conocimientos relacionados a la programación en C++, Python, HTML y CSS, considero que estos conocimientos ayudarán a la realización de este trabajo, además de mejorar nuestros métodos de organización y trabajo en equipo.</td>
+    <td><p align="center">
+  <img src="img/Perfil Miquel De la Piedra.jpg" alt="Logo del servicio" width="100%"></p></td>
+  </tr>
+</table>
 
 ## 1.2. Solution Profile.
 ### 1.2.1. Antecedentes y Problemática.
