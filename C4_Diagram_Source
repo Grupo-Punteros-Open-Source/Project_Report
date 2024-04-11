@@ -1,0 +1,96 @@
+workspace {
+
+    model {
+        cliente = person "Propietario del vehículo" "Usuario que posee un vehículo y busca darle un mantenimiento confiable y seguro"
+        taller = person "Técnico y administrador" "Empleado o gerente de un taller que requiera de herramientas que le faciliten operar de forma eficiente y ordenada"
+        cloud = softwareSystem "Google Cloud Storage" "Servicio en la nube para vincular datos de usuarios" "google"
+        app = softwareSystem "AutoPro Tracker" "Sistema de gestión de procesos para talleres de reparación de vehículos" "autopro" {
+            landing = container "Landing Page" "Brinda una visualización de las características del programa y envía al usuario a la aplicación web" "HTML, CSS y JavaScript" "Web"
+            web = container "Web App" "Brinda todas las funcinoalidades de la aplicación desde un web browser" "JavaScript y Angular" "Web"
+            mobile = container "Mobile App" "Brinda todas las funcinoalidades de la aplicación desde un dispositivo móvil" "" "Mobile"
+            db = container "Base de Datos" "Almacena la información de los registros de usuario, autorización de credenciales e inicios de sesión" "MySQL" "database"
+            api = container "Aplicaciones API" "Brinda a la aplicación las funcionalidades principales con JSON, HTTP y Rest" {
+                register = component "Componente de Registro" "Permite a los usuarios registrarse a AutoPro Tracker"
+                files = component "Web Service para subir archivos locales" "Permite a los usuarios subir archivos locales como imágenes o documentos" "REST/ASP.NetCORE"
+                conector1 = component "Conector externo" "Conector para Google Cloud Storage" "Conector"
+                conector2 = component "Conector a Base de datos" "Conector BD" "Conector"
+                llamada = component "Componente de Llamadas" "Permite a los usuarios realizar llamadas por la aplicación"
+                servicio = component "Componente para iniciar mantenimiento" "Permite a los técnicos gestionar un mantenimiento de vehículo a través de la aplicación"
+                web -> register "Llama a"
+                mobile -> register "Llama a"
+                conector1 -> cloud
+            }
+            cliente -> web "Solicita un servicio de mantenimiento con un técnico"
+            cliente -> landing "Visita usando" "HTTPS"
+            cliente -> mobile "Solicita un servicio de mantenimiento con un técnico"
+            taller -> web "Gestiona todo el proceso por el que pasa el vehículo"
+            taller -> landing "Visita usando" "HTTPS"
+            taller -> mobile "Gestiona todo el proceso por el que pasa el vehículo"
+            web -> api "API Request" "JSON/HTTPS"
+            mobile -> api "API Request" "JSON/HTTPS"
+            api -> db "Lee y escribe"
+            api -> cloud "Obtiene datos únicos de los usuarios"
+        }
+    }
+
+    views {
+        systemContext app "Context" "Diagrama de Contexto para el producto AutoPro Tracker" {
+            include *
+        }
+        
+        container app "Containers" "Diagrama de Contenedores para el producto AutoPro Tracker"{
+            include *
+        }
+        
+        component api "Components" "Diagrama de Componente para el producto AutoPro Tracker"{
+            include * cliente taller cloud
+        }
+        
+        styles {
+            element "Software System" {
+                color #FFFFFF
+                shape roundedBox
+                stroke #909090
+                strokeWidth 3
+            }
+            element "google" {
+                background #8AB5E3
+                shape Box
+                stroke #909090
+                strokeWidth 3
+            }
+            element "autopro" {
+                background #113851
+            }
+            element "Person" {
+                background #2F8AEC
+                height 700
+                width 500
+                shape Person
+                stroke #909090
+                strokeWidth 3
+            }
+            element "Container"{
+                background #BD76E3
+                stroke #000000
+                strokeWidth 3
+                height 300
+                width 400
+            }
+            element "Web" {
+                shape WebBrowser
+            }
+            element "Mobile" {
+                shape MobileDevicePortrait
+            }
+            element "database" {
+                background #86EC7D
+                shape Cylinder
+                
+            }
+            element "Component" {
+                shape Component
+            }
+        }
+    }
+}
