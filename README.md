@@ -212,6 +212,22 @@ Se hará uso de un espaciado pertinente para no abrumar al cliente con textos ab
 **Tono de comunicación:**
 El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
 
+### 4.1.2 Web Style Guidelines
+**Colores:**
+En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el azul eléctrico como color principal, buscamos transmitir una sensación de energía, modernidad y confianza a nuestros visitantes.Adicionalmente utilizamos colores complementarios como #406378,#6a90a9 ,#b2c3d3,#d7dce0 y el color negro para dar contraste en los menus.
+<div align="center">
+  <img src="img/paletaColores.png" alt="paletaColores" width="10%">
+</div>
+
+**Tipografía:**
+Además, hemos optado por emplear la tipografía Reboto Mono debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web, adicionalmente pensamos usar los distintos tamaños de letra según sea necesario en el texto de cara a dar una mejor perspectiva de jerarquía en el texto, así podremos separar los títulos, subtítulos y el cuerpo de una mejor forma.
+<div align="center">
+  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="10%">
+</div>
+**Formas:**
+Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto para proporcionar una apariencia más ordenada y pulida, lo que contribuye a una experiencia visual más agradable para los usuarios.
+
+
 ## 4.2 Information Architecture
 ### 4.2.1 Organizations Systems:
 Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón F que nos otorgan una mejor distribución de textos. En términos de esquemas de categorización usaremos el estilo por tópicos ya que separaremos por secciones en pestañas diferentes.
@@ -250,5 +266,25 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
   <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="10%">
 </div>
 
+### 4.2.3 Searching Systems
+Se  implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
+
+El primero de estos sistemas se encuentra en la sección de "Invoices" de la aplicación. Aquí, los usuarios tienen acceso a una lista completa de todas las facturas emitidas. Para agilizar la localización de una factura específica, se ha incorporado una barra de búsqueda que permite introducir términos clave para encontrar rápidamente la factura deseada.
+
+Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Vehicles". En esta sección, los usuarios pueden buscar vehículos utilizando diversos criterios. Además de la búsqueda por el nombre del propietario, se han implementado filtros adicionales que permiten refinar la búsqueda según la marca, modelo, número de reparaciones y servicios recientes del vehículo. Esta funcionalidad proporciona a los usuarios una manera eficiente de encontrar información específica sobre los vehículos registrados en la plataforma.
+
+### 4.2.4. Navigation Systems
+Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
+-Home: Página de inicio del menú.
+-Vehicle: Acceso a información del vehículo y estado de reparación.
+-Chat: Comunicación con el taller encargado de la reparación.
+-Profile: Visualización de datos personales.
+-Configuration: Configuración de la aplicación.
+Para el gerente del taller, el menú es similar, pero con secciones adicionales:
+-Inventory: Gestión de los materiales disponibles.
+-Invoice: Administración de las facturas emitidas.
+-Support: Solicitud de ayuda en caso de errores.
+-Configuration: Configuración de opciones.
+Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que el usuario no se sienta perdido con lo que tiene en pantalla. Esto permite que pueda realizar acciones que lo llevan a otras ventanas de forma intuitiva.
 
 # Capítulo V: Product Implementation, Validation & Deployment.
