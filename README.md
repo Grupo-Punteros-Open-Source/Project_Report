@@ -168,7 +168,6 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 # Capítulo I: Introducción
 # Capítulo II: Requirements Elicitation & Analysis.
 # Capítulo III: Requirements Specification.
-
 # Capítulo IV: Product Design.
 ## 4.1. Style Guidelines
 ### 4.1.1 General Style Guidelines
