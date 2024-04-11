@@ -170,7 +170,7 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
 
-##
+## 4.1. Style Guidelines
 ### 4.1.1 General Style Guidelines
 **Paleta de colores:**
 Nuestra selección en la paleta de colores se basa en la atención a la legibilidad y buen aspecto de nuestra landing page. El color #002e43 se usa como color principal para resaltar elemento importantes, luego el color #406378 se usa para subtítulos y otros apartados de una ligera menor relevancia, en el caso del color #6a90a9 se utiliza en el cuerpo y en otras áreas para contrastar con los títulos y subtítulos, finalmente para los colores #b2c3d3 y #d7dce0 se usarán de fondo. Estos colores se usarán de forma inteligente para poder presentar una jerarquía visual clara e intuitiva.
@@ -286,5 +286,46 @@ Para el gerente del taller, el menú es similar, pero con secciones adicionales:
 -Support: Solicitud de ayuda en caso de errores.
 -Configuration: Configuración de opciones.
 Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que el usuario no se sienta perdido con lo que tiene en pantalla. Esto permite que pueda realizar acciones que lo llevan a otras ventanas de forma intuitiva.
+
+
+
+## 4.6. Domain Driven Software Architecture
+Para la construcción de los siguientes diagramas, se hizo uso de la herramienta Structurizr, la cual permite crear los mismos mediante líneas de código.
+
+### 4.6.1. Software Architecture Context Diagram
+
+<div align="center">
+  <img src="img/DContext.png" alt="DiagramaContexto" width="100%">
+</div>
+
+**Elementos del diagrama**
+
+<div align="center">
+  <img src="img/KContext.png" alt="Keycontexto" width="100%">
+</div>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="img/DContainers.png" alt="DiagramaContenedores" width="100%">
+</div>
+
+**Elementos del diagrama**
+
+<div align="center">
+  <img src="img/KContainers.png" alt="KeyContenedores" width="100%">
+</div>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<div align="center">
+  <img src="img/DComponents.png" alt="DiagramaComponentes" width="100%">
+</div>
+
+**Elementos del diagrama**
+
+<div align="center">
+  <img src="img/KComponents.png" alt="KeyComponentes" width="100%">
+</div>
 
 # Capítulo V: Product Implementation, Validation & Deployment.
