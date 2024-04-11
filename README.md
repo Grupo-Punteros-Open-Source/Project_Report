@@ -311,6 +311,10 @@ En este contexto, se necesita con urgencia una solución tecnológica que centra
 
 **Competencia en el mercado:** Se asume que existen competidores potenciales en el mercado, tanto locales como internacionales, que ofrecen soluciones similares o alternativas para la gestión de clientes en el sector automotriz en Perú.
 
+<u>Bussines Outcomes:</u>
+
+Incremento en la eficiencia operativa y en la satisfacción del cliente para las empresas automotrices en Perú, como resultado de la implementación de la plataforma tecnológica. Esto se reflejará en una reducción en los tiempos de espera para los clientes, una mejor gestión de la comunicación y los registros, así como una mayor fidelización de los clientes.
+
 <u>User Assumptions:</u>
 
 ¿Quién es el usuario?
@@ -337,6 +341,10 @@ El servicio será utilizado por los técnicos de la compañía, al momento de re
 ¿Cómo debe verse nuestro producto y cómo debe comportarse?
 
 El producto debe mostrar una interfaz eficiente y sencilla para los trabajadores, que les brinde todas las facilidades para llevar un registro adecuado, mientras que para los clientes debe verse adicionalmente llamativo, para lograr captar la atención de estos. Finalmente, el comportamiento se dirige a los términos de privacidad y seguridad de datos personales de los usuarios así como de la automotriz.
+
+<u>User Outcomes:</u>
+
+Los técnicos y administradores de automotrices experimentarán una mayor facilidad y eficiencia en la gestión de clientes y registros, gracias a una interfaz intuitiva y funcionalidades avanzadas proporcionadas por la plataforma. Los clientes de las automotrices disfrutarán de una experiencia más conveniente y transparente, con acceso a información detallada sobre el estado de sus vehículos y una comunicación más clara y oportuna con la empresa automotriz.
 
 <u>Feature Assumptions:</u>
 
