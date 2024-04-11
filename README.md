@@ -407,7 +407,7 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
   - Explicación: Este programa incentiva a los talleres a mantenerse comprometidos con nuestra plataforma a largo plazo, al tiempo que los recompensa por su lealtad y contribución al crecimiento de nuestra base de usuarios. Además, fomenta la retención de clientes existentes y estimula el boca a boca positivo, lo que puede generar un aumento en la adquisición de nuevos clientes.
 
 ## 2.2 Entrevistas
-### 2.2.1
+### 2.2.1 Diseño de entrevistas
 Preguntas para: Propietarios de vehículos
 
 1. ¿Con qué frecuencia realiza mantenimiento preventivo a su vehículo?
@@ -670,6 +670,31 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
           <td>Aliviado por tener de vuelta su vehículo en el estado que haya salido</td>
         </tr>
 </table>
+
+## 2.4. Ubiquitous Language
+
+**Entidad: Propietario de vehículo**
+
+- Definición: Persona que posee un vehículo y utiliza los servicios de las compañías automotrices.
+- Atributos:
+  - Datos Personales: Información personal del cliente, incluyendo nombre, dirección, número de contacto, etc.
+  - Detalles del Vehículo: Información específica sobre el vehículo del cliente, como marca, modelo, año, número de serie, etc.
+  - Historial de Servicio: Registro de todas las interacciones y servicios proporcionados al cliente.
+- Comportamientos:
+  - Solicitar Servicios: Acción de pedir una revisión técnica o mantenimiento para su vehículo.
+  - Comunicarse con la Empresa: Interacción para obtener información sobre servicios, precios, horarios, etc.
+
+**Entidad: Técnico y administrador del taller**
+
+- Definición: Empresa que ofrece servicios relacionados con vehículos automotores.
+- Atributos:
+  - Datos de la Empresa: Información básica sobre la compañía automotriz, como nombre, ubicación, contacto, etc.
+  - Servicios Ofrecidos: Lista de servicios disponibles para los clientes.
+  - Recursos Disponibles: Equipos, personal y herramientas utilizados para llevar a cabo los servicios.
+- Comportamientos:
+  - Programar Citas: Acción de asignar fechas y horarios para servicios solicitados por los clientes.
+  - Informar Precios y Tiempos: Proporcionar detalles sobre los costos y la duración de los servicios.
+  - Registrar Interacciones: Documentar todas las comunicaciones y servicios proporcionados a los clientes.
 
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
