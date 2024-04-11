@@ -234,36 +234,36 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
 
 <div align="center">
   <img src="img/FPattern.png" alt="FPattern" width="100%">
-</div>
+</div> 
 
 
 ### 4.2.2 Labeling Systems:
 **Aplicación web celulares:**
 
 <div align="center">
-  <img src="img/labelingWebMobile1.png" alt="labelingWebMobile1" width="10%">
+  <img src="img/labelingWebMobile1.png" alt="labelingWebMobile1" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/labelingWebMobile2.png" alt="labelingWebMobile2" width="10%">
+  <img src="img/labelingWebMobile2.png" alt="labelingWebMobile2" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/labelingWebMobile3.png" alt="labelingWebMobile3" width="10%">
+  <img src="img/labelingWebMobile3.png" alt="labelingWebMobile3" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/labelingWebMobile4.png" alt="labelingWebMobile4" width="10%">
+  <img src="img/labelingWebMobile4.png" alt="labelingWebMobile4" width="100%">
 </div>
 
 **Aplicación web Escritorio:**
 
 <div align="center">
-  <img src="img/labelingWebDesktop1.png" alt="labelingWebDesktop1" width="10%">
+  <img src="img/labelingWebDesktop1.png" alt="labelingWebDesktop1" width="100%">
 </div>
 
 <div align="center">
-  <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="10%">
+  <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
 </div>
 
 ### 4.2.3 Searching Systems
