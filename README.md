@@ -175,7 +175,7 @@ Visión: Nos visualizamos como líderes en la transformación digital del sector
 
 Logotipo de la Startup:
 <p align="justify">
-  <img src="img/StartUp Logo.jpg" alt="Logo Startup" width="50%">
+  <img src="img/Startup Logo.jpg" alt="Logo Startup" width="50%">
 </p>
 Logotipo del servicio:
 <p align="justify">
