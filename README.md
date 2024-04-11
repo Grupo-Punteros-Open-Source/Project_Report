@@ -516,8 +516,9 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
           <th colspan="5" valign="top">Actividades</th>
         </tr>
         <tr>
+          <th valign="top"></th>
           <th colspan="2" valign="top">DIEGO</th>
-          <th colspan="3" valign="top">WILLIAM</th>
+          <th colspan="2" valign="top">WILLIAM</th>
         </tr>
         <tr>
           <th valign="top"></th>
@@ -563,6 +564,83 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
         </tr>
 </table>
 
+### 2.3.3. User Journey Mapping
+
+**Segmento Objetivo: Propietario de un vehiculo**
+
+<div align="center">
+  <img src="img/UserJourneyMapping1.JPG" alt="UserPersona1" width="10%">
+</div>
+
+**Segmento Objetivo: Gerente de Taller**
+<div align="center">
+  <img src="img/UserJourneyMapping2.JPG" alt="UserPersona2" width="10%">
+</div>
+
+### 2.3.4. Empathy Mapping
+
+**Segmento Objetivo: Propietario de un vehiculo**
+
+<div align="center">
+  <img src="img/EmpathyMapping1.JPG" alt="UserPersona1" width="10%">
+</div>
+
+**Segmento Objetivo: Gerente de Taller**
+<div align="center">
+  <img src="img/EmpathyMapping2.JPG" alt="UserPersona2" width="10%">
+</div>
+
+### 2.3.5. As-is Scenario Mapping
+
+<table>
+        <tr>
+          <th valign="top"></th>
+          <th colspan="2" valign="top">DIEGO</th>
+          <th colspan="2" valign="top">WILLIAM</th>
+        </tr>
+        <tr>
+          <th valign="top"></th>
+          <th>DOING</th>
+          <th>THINKING</th>
+          <th>FEELING</th>
+          <th></t
+        </tr>
+        <tr>
+          <td valign="top">Preocupación por el estado del vehículo</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Rara Vez</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Intranquilidad por no poder conocer el estado actual del vehículo</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+        </tr>
+        <tr>
+          <td valign="top">Frustración por no lograr una mejor comunicación</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Ansiedad por la salida del vehículo del taller</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+        <tr>
+          <td valign="top">Se plantea hacer uso de un software especializado en vehículos</td>
+          <td>Rara vez</td>
+          <td>Media</td>
+          <td>Con frecuencia</td>
+          <td>Alta</td>
+        </tr>
+</table>
 
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
