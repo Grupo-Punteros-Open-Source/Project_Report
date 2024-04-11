@@ -322,4 +322,11 @@ Para la construcción de los siguientes diagramas, se hizo uso de la herramienta
   <img src="img/KComponents.png" alt="KeyComponentes" width="100%">
 </div>
 
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+### 4.7.2. Class Dictionary.
+
+
+
+
 # Capítulo V: Product Implementation, Validation & Deployment.
