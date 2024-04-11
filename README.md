@@ -572,12 +572,12 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/UserJourneyMapping1.JPG" alt="UserPersona1" width="10%">
+  <img src="img/UserJourneyMapping1.JPG" alt="UserPersona1" width="100%">
 </div>
 
 **Segmento Objetivo: Gerente de Taller**
 <div align="center">
-  <img src="img/UserJourneyMapping2.JPG" alt="UserPersona2" width="10%">
+  <img src="img/UserJourneyMapping2.JPG" alt="UserPersona2" width="100%">
 </div>
 
 ### 2.3.4. Empathy Mapping
@@ -585,12 +585,12 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/EmpathyMapping1.JPG" alt="UserPersona1" width="10%">
+  <img src="img/EmpathyMapping1.JPG" alt="UserPersona1" width="100%">
 </div>
 
 **Segmento Objetivo: Gerente de Taller**
 <div align="center">
-  <img src="img/EmpathyMapping2.JPG" alt="UserPersona2" width="10%">
+  <img src="img/EmpathyMapping2.JPG" alt="UserPersona2" width="100%">
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
