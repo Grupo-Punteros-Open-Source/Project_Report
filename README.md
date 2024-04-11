@@ -720,6 +720,20 @@ Para la creación de nuestras User Personas decidimos tomar el modelo ya generad
         </tr>
 </table>
 # Capítulo III: Requirements Specification.
+## 3.1 To-Be Scenario Mapping.
+### Segmento Técnicos/Administradores de Automotrices:
+  <img src="img/to be segmento 2.png" alt="To-be segmento 1">
+  
+### Segmento Clientes de Automotrices:
+  <img src="img/to be segmento 1.png" alt="To-be segmento 2">
+
+## 3.3 Impact Mapping
+### Segmento Técnicos/Administradores de Automotrices:
+  <img src="img/Impact map 1-Segundo segmento.png" alt="Impac Map segmento 1">
+  
+### Segmento Clientes de Automotrices:
+  <img src="img/Impact map 1-primer segmento.png" alt="Impac Map segmento 2">
+  
 # Capítulo IV: Product Design.
 
 # Capítulo V: Product Implementation, Validation & Deployment.
@@ -830,4 +844,5 @@ Para la gestión del despliegue de la aplicación, optaremos por Git, un sistema
 Por otro lado, contamos con GitHub, una plataforma que sirve para alojar repositorios de Git. Es uno de los servicios más populares entre los desarrolladores a nivel global, ya que posibilita la gestión de repositorios tanto públicos como privados para almacenar el código en la nube. Además de almacenar el código, GitHub mantiene el historial de los repositorios, lo que permite a los usuarios acceder a todas las versiones trabajadas y revertir a una versión anterior si es necesario. Ofrece otras herramientas útiles como los pull requests, que son solicitudes de revisión de una rama y su posterior fusión con otra rama.
 
 Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma remota desde su entorno de desarrollo integrado (IDE), manteniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub. De esta manera, pueden realizar commits para enviar los cambios que hayan realizado.
+
 
