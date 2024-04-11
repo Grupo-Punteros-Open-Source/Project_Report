@@ -474,6 +474,7 @@ Edad: 26 años
 
 https://youtu.be/dC2bl38vZRA
 
+
 ### 2.2.3 Análisis de entrevistas.
 
 **Segmento Objetivo: Dueño de taller**
@@ -495,18 +496,20 @@ Descripción:
 
 Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de la importancia que tiene para él llevar un registro al día del mantenimiento de su vehículo. Tras finalizar la entrevista, Leonardo indicó que él requiere de anotar y tener varias consideraciones para con su vehículo y así evitar cualquier inconveniente mientras esté viajando. Asimismo, considera que le gustaría poder contar con un servicio de mantenimiento confiable debido a una mala experiencia que tuvo con un taller que cambió partes de un vehículo de uno de sus familiares. Luego, agregó que el uso de una aplicación móvil le facilitaría mucho más el registro de eventos relacionados al mantenimiento de su vehículo, ya que él siempre está al pendiente de su teléfono. Por último, nos comentó que le gustaría conseguir esta aplicación por un bajo costo y que cuente, más que nada, con notificaciones cada que se genere cualquier actividad en su vehículo.
 
+
+
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
 
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/UserPersona1.png" alt="UserPersona1" width="10%">
+  <img src="img/UserPersona1.png" alt="UserPersona1" width="100%">
 </div>
 
 **Segmento Objetivo: Gerente de Taller**
 <div align="center">
-  <img src="img/UserPersona2.png" alt="UserPersona2" width="10%">
+  <img src="img/UserPersona2.png" alt="UserPersona2" width="100%">
 </div>
 
 ### 2.3.2. User Task Matrix
