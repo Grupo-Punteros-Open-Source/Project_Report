@@ -232,27 +232,22 @@ Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto pa
 Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón F que nos otorgan una mejor distribución de textos. En términos de esquemas de categorización usaremos el estilo por tópicos ya que separaremos por secciones en pestañas diferentes.
 
 <div align="center">
-  <img src="img/FPattern.png" alt="FPattern" width="100%">
+  <img src="img/F-Pattern.png" alt="FPattern" width="100%">
 </div> 
-
 
 ### 4.2.2 Labeling Systems:
 **Aplicación web celulares:**
 
 <div align="center">
-  <img src="img/labelingWebMobile1.png" alt="labelingWebMobile1" width="100%">
+  <img src="img/labelingWebMobile1.png" alt="labelingWebMobile1" width="50%">
 </div>
 
 <div align="center">
-  <img src="img/labelingWebMobile2.png" alt="labelingWebMobile2" width="100%">
+  <img src="img/labelingWebMobile2.png" alt="labelingWebMobile2" width="50%">
 </div>
 
 <div align="center">
-  <img src="img/labelingWebMobile3.png" alt="labelingWebMobile3" width="100%">
-</div>
-
-<div align="center">
-  <img src="img/labelingWebMobile4.png" alt="labelingWebMobile4" width="100%">
+  <img src="img/labelingWebMobile3.png" alt="labelingWebMobile3" width="50%">
 </div>
 
 **Aplicación web Escritorio:**
