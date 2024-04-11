@@ -643,46 +643,157 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
 
   - Explicación: Este programa incentiva a los talleres a mantenerse comprometidos con nuestra plataforma a largo plazo, al tiempo que los recompensa por su lealtad y contribución al crecimiento de nuestra base de usuarios. Además, fomenta la retención de clientes existentes y estimula el boca a boca positivo, lo que puede generar un aumento en la adquisición de nuevos clientes.
 
-### 2.2.2. Registro de entrevistas
-**Segmento Objetivo: Dueño de taller**
-**Entrevista 1**
+## 2.2 Entrevistas
+### 2.2.1 Diseño de entrevistas
+
+Preguntas para: Propietarios de vehículos
+
+1. ¿Con qué frecuencia realiza mantenimiento preventivo a su vehículo?
+2. ¿Cuál es su método actual para llevar un registro del mantenimiento de su vehículo?
+3. ¿Qué aspectos considera más importantes al elegir un servicio de mantenimiento para su vehículo?
+4. ¿Ha enfrentado alguna dificultad al seguir un programa de mantenimiento regular para su vehículo?
+5. ¿Cuál es su opinión sobre la importancia de mantener registros precisos del mantenimiento del vehículo?
+6. ¿Qué tipo de notificaciones o recordatorios le serían útiles para el mantenimiento de su vehículo?
+7. ¿Está dispuesto a pagar por servicios adicionales en una aplicación web que faciliten la gestión del mantenimiento de su vehículo?
+8. ¿Qué funcionalidades le gustaría ver en una aplicación móvil para gestionar el mantenimiento de su vehículo?
+9. ¿Cómo cree que una aplicación móvil puede ayudarle a mantener su vehículo en buen estado y prolongar su vida útil?
+10. ¿Qué características de seguridad considera importantes al utilizar una aplicación web para el mantenimiento de su vehículo?
+
+Preguntas para: Técnicos y administradores del taller
+
+1. ¿Qué métodos utiliza actualmente para gestionar las operaciones del taller?
+2. ¿Qué desafíos enfrenta al coordinar las citas de los clientes y el trabajo en el taller?
+3. ¿Qué herramientas o software utiliza para programar citas y llevar un registro de las reparaciones?
+4. ¿Cómo maneja actualmente la comunicación con los clientes sobre el progreso de las reparaciones?
+5. ¿Qué información le gustaría recibir automáticamente de una aplicación móvil sobre el estado de las reparaciones en curso?
+6. ¿Cuál es su opinión sobre la importancia de mantener un registro digital de los vehículos y sus historiales de mantenimiento en el taller?
+7. ¿Cómo cree que una aplicación móvil puede mejorar la eficiencia y productividad del taller?
+8. ¿Qué características considera esenciales en una aplicación para ayudarle a gestionar eficientemente las operaciones del taller?
+9. ¿Qué funcionalidades adicionales le gustaría ver en una aplicación móvil para facilitar la gestión del taller?
+10. ¿Está dispuesto a invertir en una aplicación móvil personalizada para su taller si mejora significativamente la eficiencia y la experiencia del cliente?
+
+### 2.2.2 Registro de entrevistas
+
+Segmento Objetivo: Administrador de taller
+
+Entrevista 1
+
 Entrevistador: Alvaro Pinto Fuentes Rivera
+
 Entrevistado: Felipe Pinto Velaochaga
+
 Datos del Entrevistado:
+
 Edad: 41
-Estado civil: Casado
-Ocupación: Ingeniero Mecatrónico
 
-Link de la entrevista en youtube: https://youtu.be/rQgD14XBJcs
+https://youtu.be/rzfGQtKLjmc
+
+Entrevista 2
+
+Entrevistador: Miquel De la Piedra
+
+Entrevistado: Sasha Chavez
+
+Datos del entrevistado:
+
+Edad: 39 años
+
+https://youtu.be/GFwCbNeiVgk
+
+Segmento Objetivo: Cliente 
+
+Entrevista 1
+
+Entrevistador: Christian Renato Espinoza Saenz
+
+Entrevistado: Sebastian Palacios
+
+Datos del Entrevistado:
+
+Edad:22 años
+
+https://youtu.be/rQgD14XBJcs
+
+Entrevista 2
+
+Entrevistador: Christian Matos
+
+Entrevistado: Jorge Quiñones
+
+Datos del Entrevistado:
+
+Edad:19 años
+
+Entrevista 3
+
+Entrevistador: Sebastian Méndez
+
+Entrevistado: Leonardo Vargas
+
+Datos del Entrevistado:
+
+Edad: 26 años
+
+https://youtu.be/dC2bl38vZRA
 
 
-### 2.2.3. Análisis de entrevistas.
+### 2.2.3 Análisis de entrevistas.
 
-**Segmento Objetivo: Dueño de taller**
+**Segmento Objetivo: Administrador de taller**
 
-**Entrevista 1**
+Entrevista 1:
+
 Descripción:
-Felipe Pinto es gerente de un taller de 41 años que utiliza principalmente una computadora para su trabajo mediante la cual puede aplicar procesos de gestión que realmente son bastante anticuados ya que utiliza software genérico como excel cosa que a una empresa en crecimiento limitan la efectividad y agilidad del taller, que de forma directamente proporcional afecta a las ganancias de la empresa, él es consciente de que mediante el uso de una aplicacion puede aumentar la eficiencia de la gestión. Comentó algunas de las carácteristicas que le gustaría ver en la aplicacion, siendo dentro de ellas la posibilidad de tener un registro de los servicios previos realizados a un vehiculo, puesto que muchas veces los vehiculos vienen de otros talleres que han realizado un mal servicio o algun cambio del cual el cliente no da razón, por lo que para evitar problemas posteriores serían de gran ayuda. Adicionalmente, luego de comentarle la idea del proyecto mencionando que la función anteriormente mencionada estaría disponible, afirmó que si invertiría en la suscripción puesto considera que una aplicacion web que le ayude con procesos básicos de gestión en su taller es algo bastante importante.
 
-## 2.3. Needfinding.
+Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computadora con windows en la que se apoya en herramientas de software bastante anticuadas, como hojas de cálculo de Excel, para llevar a cabo las operaciones de gestión diarias de su empresa. Sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa como, por ejemplo, el aceite que usa.
+
+Entrevista 2:
+
+Descripción:
+
+ Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
+
+
+**Segmento Objetivo: Cliente**
+
+Entrevista 1:
+
+Descripción:
+
+Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
+
+Entrevista 3:
+
+Descripción:
+
+Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de la importancia que tiene para él llevar un registro al día del mantenimiento de su vehículo. Tras finalizar la entrevista, Leonardo indicó que él requiere de anotar y tener varias consideraciones para con su vehículo y así evitar cualquier inconveniente mientras esté viajando. Asimismo, considera que le gustaría poder contar con un servicio de mantenimiento confiable debido a una mala experiencia que tuvo con un taller que cambió partes de un vehículo de uno de sus familiares. Luego, agregó que el uso de una aplicación móvil le facilitaría mucho más el registro de eventos relacionados al mantenimiento de su vehículo, ya que él siempre está al pendiente de su teléfono. Por último, nos comentó que le gustaría conseguir esta aplicación por un bajo costo y que cuente, más que nada, con notificaciones cada que se genere cualquier actividad en su vehículo.
+
+
+
+## 2.3 Needfinding.
 ### 2.3.1. User Personas.
-Para la creación de nuestras User Personas decidimos tomar el modelo ya generado como plantilla de UXPressia, ya que de esta forma se nos facilitaba representar a nuestros segmentos objetivos, a continuación nuestro
-<div align="center">
-  <img src="img/UserPersona1.png" alt="UserPersona1" width="10%">
-</div>
+
+**Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/UserPersona2.png" alt="UserPersona1" width="10%">
+  <img src="img/UserPersona1.png" alt="UserPersona1" width="100%">
 </div>
 
-### 2.3.1. User Task Matrix.
+**Segmento Objetivo: Gerente de Taller**
+<div align="center">
+  <img src="img/UserPersona2.png" alt="UserPersona2" width="100%">
+</div>
+
+### 2.3.2. User Task Matrix
+
 <table>
         <tr>
           <th colspan="5" valign="top">Actividades</th>
         </tr>
         <tr>
+          <th valign="top"></th>
           <th colspan="2" valign="top">DIEGO</th>
-          <th colspan="3" valign="top">WILLIAM</th>
+          <th colspan="2" valign="top">WILLIAM</th>
         </tr>
         <tr>
           <th valign="top"></th>
@@ -727,6 +838,102 @@ Para la creación de nuestras User Personas decidimos tomar el modelo ya generad
           <td>Alta</td>
         </tr>
 </table>
+
+### 2.3.3. User Journey Mapping
+
+**Segmento Objetivo: Propietario de un vehiculo**
+
+<div align="center">
+  <img src="img/UserJourneyMapping1.JPG" alt="UserPersona1" width="100%">
+</div>
+
+**Segmento Objetivo: Gerente de Taller**
+<div align="center">
+  <img src="img/UserJourneyMapping2.JPG" alt="UserPersona2" width="100%">
+</div>
+
+### 2.3.4. Empathy Mapping
+
+**Segmento Objetivo: Propietario de un vehiculo**
+
+<div align="center">
+  <img src="img/EmpathyMapping1.JPG" alt="UserPersona1" width="100%">
+</div>
+
+**Segmento Objetivo: Gerente de Taller**
+<div align="center">
+  <img src="img/EmpathyMapping2.JPG" alt="UserPersona2" width="100%">
+</div>
+
+### 2.3.5. As-is Scenario Mapping
+
+<table>
+        <tr>
+          <th colspan="4" valign="top">Diego Cano</th>
+        </tr>
+        <tr>
+          <th valign="top">PHASES</th>
+          <th>DOING</th>
+          <th>THINKING</th>
+          <th>FEELING</th>
+        </tr>
+        <tr>
+          <td valign="top">Registro del usuario</td>
+          <td>El cliente llega por primera vez a un taller y realiza un registro del vehículo</td>
+          <td>Piensa que el servicio no tendrá en cuenta las especificaciones de su vehículo</td>
+          <td>Siente que el servicio no destaca por sí solo.</td>
+        </tr>
+        <tr>
+          <td valign="top">Actualización del kilometraje</td>
+          <td>El cliente requiere de recordar el kilometraje usado hasta el momento en el que entra al taller para informar a un mecánico</td>
+          <td>Cree que podría haber una forma más eficiente de calcular el kilometraje usado</td>
+          <td>Desconfiado por no recordar exactamente el kilometraje de su vehículo</td>
+        </tr>
+        <tr>
+          <td valign="top">Servicio de mantenimiento</td>
+          <td>El cliente registra un turno de atención con un mecánico para el mantenimiento del vehículo</td>
+          <td>Considera que no se puede confiar plenamente en el trabajo de los mecánicos del taller</td>
+          <td>Se siente un poco aliviado por dejar su vehículo con un profesional</td>
+        </tr>
+        <tr>
+          <td valign="top">Seguimiento de la reparación</td>
+          <td>El cliente no recibe ninguna actualización del estado de su vehículo en tiempo real</td>
+          <td>Piensa que podrían hacerle modificaciones maliciosas a su vehículo</td>
+          <td>Ansioso por que su vehículo salga lo más pronto posible</td>
+        </tr>
+        <tr>
+          <td valign="top">Pago y recogida del vehículo</td>
+          <td>El cliente paga y recoge su vehículo una vez reparado</td>
+          <td>Piensa que, dependiendo del estado actual de su vehículo, quizás considere volver</td>
+          <td>Aliviado por tener de vuelta su vehículo en el estado que haya salido</td>
+        </tr>
+</table>
+
+## 2.4. Ubiquitous Language
+
+**Entidad: Propietario de vehículo**
+
+- Definición: Persona que posee un vehículo y utiliza los servicios de las compañías automotrices.
+- Atributos:
+  - Datos Personales: Información personal del cliente, incluyendo nombre, dirección, número de contacto, etc.
+  - Detalles del Vehículo: Información específica sobre el vehículo del cliente, como marca, modelo, año, número de serie, etc.
+  - Historial de Servicio: Registro de todas las interacciones y servicios proporcionados al cliente.
+- Comportamientos:
+  - Solicitar Servicios: Acción de pedir una revisión técnica o mantenimiento para su vehículo.
+  - Comunicarse con la Empresa: Interacción para obtener información sobre servicios, precios, horarios, etc.
+
+**Entidad: Técnico y administrador del taller**
+
+- Definición: Empresa que ofrece servicios relacionados con vehículos automotores.
+- Atributos:
+  - Datos de la Empresa: Información básica sobre la compañía automotriz, como nombre, ubicación, contacto, etc.
+  - Servicios Ofrecidos: Lista de servicios disponibles para los clientes.
+  - Recursos Disponibles: Equipos, personal y herramientas utilizados para llevar a cabo los servicios.
+- Comportamientos:
+  - Programar Citas: Acción de asignar fechas y horarios para servicios solicitados por los clientes.
+  - Informar Precios y Tiempos: Proporcionar detalles sobre los costos y la duración de los servicios.
+  - Registrar Interacciones: Documentar todas las comunicaciones y servicios proporcionados a los clientes.
+
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping.
 ## 3.2 User Stories
