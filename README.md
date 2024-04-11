@@ -168,22 +168,22 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 # Capítulo I: Introducción
 # Capítulo II: Requirements Elicitation & Analysis.
 # Capítulo III: Requirements Specification.
-# Capítulo IV: Product Design.
 
+# Capítulo IV: Product Design.
 ## 4.1. Style Guidelines
 ### 4.1.1 General Style Guidelines
 **Paleta de colores:**
 Nuestra selección en la paleta de colores se basa en la atención a la legibilidad y buen aspecto de nuestra landing page. El color #002e43 se usa como color principal para resaltar elemento importantes, luego el color #406378 se usa para subtítulos y otros apartados de una ligera menor relevancia, en el caso del color #6a90a9 se utiliza en el cuerpo y en otras áreas para contrastar con los títulos y subtítulos, finalmente para los colores #b2c3d3 y #d7dce0 se usarán de fondo. Estos colores se usarán de forma inteligente para poder presentar una jerarquía visual clara e intuitiva.
 
 <div align="center">
-  <img src="img/paletaColores.png" alt="paletaColores" width="10%">
+  <img src="img/paletaColores.png" alt="paletaColores" width="100%">
 </div>
 
 **Branding:**
 Para el branding de nuestra empresa se creó la marca VEHICUTECH INNOVATIONS, esta tiene por objetivo establecer una identidad presencia relevante e imponente en el mercado. Para una mejor identificación de nuestra empresa se creó el logo: 
 
 <div align="center">
-  <img src="img/logoVehicuTech.png" alt="logoVehicuTech" width="10%">
+  <img src="img/logoVehicuTech.png" alt="logoVehicuTech" width="100%">
 </div>
 
 **Tipografía:**
@@ -202,7 +202,7 @@ Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente
   * B3:
 
 <div align="center">
-  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="10%">
+  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="100%">
 </div>
 
 
