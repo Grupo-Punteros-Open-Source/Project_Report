@@ -216,13 +216,13 @@ El tono usado en el proyecto será del tipo formal, además de que se usará un 
 **Colores:**
 En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el azul eléctrico como color principal, buscamos transmitir una sensación de energía, modernidad y confianza a nuestros visitantes.Adicionalmente utilizamos colores complementarios como #406378,#6a90a9 ,#b2c3d3,#d7dce0 y el color negro para dar contraste en los menus.
 <div align="center">
-  <img src="img/paletaColores.png" alt="paletaColores" width="10%">
+  <img src="img/paletaColores.png" alt="paletaColores" width="100%">
 </div>
 
 **Tipografía:**
 Además, hemos optado por emplear la tipografía Reboto Mono debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web, adicionalmente pensamos usar los distintos tamaños de letra según sea necesario en el texto de cara a dar una mejor perspectiva de jerarquía en el texto, así podremos separar los títulos, subtítulos y el cuerpo de una mejor forma.
 <div align="center">
-  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="10%">
+  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="100%">
 </div>
 **Formas:**
 Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto para proporcionar una apariencia más ordenada y pulida, lo que contribuye a una experiencia visual más agradable para los usuarios.
@@ -233,7 +233,7 @@ Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto pa
 Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón F que nos otorgan una mejor distribución de textos. En términos de esquemas de categorización usaremos el estilo por tópicos ya que separaremos por secciones en pestañas diferentes.
 
 <div align="center">
-  <img src="img/FPattern.png" alt="FPattern" width="10%">
+  <img src="img/FPattern.png" alt="FPattern" width="100%">
 </div>
 
 
