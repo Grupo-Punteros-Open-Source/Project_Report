@@ -594,51 +594,43 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 
 <table>
         <tr>
-          <th valign="top"></th>
-          <th colspan="2" valign="top">DIEGO</th>
-          <th colspan="2" valign="top">WILLIAM</th>
+          <th colspan="4" valign="top">Diego Cano</th>
         </tr>
         <tr>
-          <th valign="top"></th>
+          <th valign="top">PHASES</th>
           <th>DOING</th>
           <th>THINKING</th>
           <th>FEELING</th>
-          <th></t
         </tr>
         <tr>
-          <td valign="top">Preocupación por el estado del vehículo</td>
-          <td>Con frecuencia</td>
-          <td>Alta</td>
-          <td>Rara Vez</td>
-          <td>Alta</td>
+          <td valign="top">Registro del usuario</td>
+          <td>El cliente llega por primera vez a un taller y realiza un registro del vehículo</td>
+          <td>Piensa que el servicio no tendrá en cuenta las especificaciones de su vehículo</td>
+          <td>Siente que el servicio no destaca por sí solo.</td>
         </tr>
         <tr>
-          <td valign="top">Intranquilidad por no poder conocer el estado actual del vehículo</td>
-          <td>Rara vez</td>
-          <td>Media</td>
-          <td>Rara vez</td>
-          <td>Media</td>
+          <td valign="top">Actualización del kilometraje</td>
+          <td>El cliente requiere de recordar el kilometraje usado hasta el momento en el que entra al taller para informar a un mecánico</td>
+          <td>Cree que podría haber una forma más eficiente de calcular el kilometraje usado</td>
+          <td>Desconfiado por no recordar exactamente el kilometraje de su vehículo</td>
         </tr>
         <tr>
-          <td valign="top">Frustración por no lograr una mejor comunicación</td>
-          <td>Con frecuencia</td>
-          <td>Alta</td>
-          <td>Con frecuencia</td>
-          <td>Alta</td>
+          <td valign="top">Servicio de mantenimiento</td>
+          <td>El cliente registra un turno de atención con un mecánico para el mantenimiento del vehículo</td>
+          <td>Considera que no se puede confiar plenamente en el trabajo de los mecánicos del taller</td>
+          <td>Se siente un poco aliviado por dejar su vehículo con un profesional</td>
         </tr>
         <tr>
-          <td valign="top">Ansiedad por la salida del vehículo del taller</td>
-          <td>Con frecuencia</td>
-          <td>Alta</td>
-          <td>Con frecuencia</td>
-          <td>Alta</td>
+          <td valign="top">Seguimiento de la reparación</td>
+          <td>El cliente no recibe ninguna actualización del estado de su vehículo en tiempo real</td>
+          <td>Piensa que podrían hacerle modificaciones maliciosas a su vehículo</td>
+          <td>Ansioso por que su vehículo salga lo más pronto posible</td>
         </tr>
         <tr>
-          <td valign="top">Se plantea hacer uso de un software especializado en vehículos</td>
-          <td>Rara vez</td>
-          <td>Media</td>
-          <td>Con frecuencia</td>
-          <td>Alta</td>
+          <td valign="top">Pago y recogida del vehículo</td>
+          <td>El cliente paga y recoge su vehículo una vez reparado</td>
+          <td>Piensa que, dependiendo del estado actual de su vehículo, quizás considere volver</td>
+          <td>Aliviado por tener de vuelta su vehículo en el estado que haya salido</td>
         </tr>
 </table>
 
