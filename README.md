@@ -220,6 +220,7 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
     <td valign="top">Software de gestión de talleres y bases de datos de información técnica para la industria automotriz.</td>
     <td valign="top">Plataforma de gestión de talleres basada en la nube diseñada específicamente para la industria automotriz.
 </td>
+
   </tr>
   <tr>
     <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
@@ -408,6 +409,7 @@ Para realizar el análisis competitivo hemos tomado en consideración competidor
 
 ## 2.2 Entrevistas
 ### 2.2.1 Diseño de entrevistas
+
 Preguntas para: Propietarios de vehículos
 
 1. ¿Con qué frecuencia realiza mantenimiento preventivo a su vehículo?
@@ -436,7 +438,7 @@ Preguntas para: Técnicos y administradores del taller
 
 ### 2.2.2 Registro de entrevistas
 
-Segmento Objetivo: Dueño de taller
+Segmento Objetivo: Administrador de taller
 
 Entrevista 1
 
@@ -695,6 +697,7 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
   - Programar Citas: Acción de asignar fechas y horarios para servicios solicitados por los clientes.
   - Informar Precios y Tiempos: Proporcionar detalles sobre los costos y la duración de los servicios.
   - Registrar Interacciones: Documentar todas las comunicaciones y servicios proporcionados a los clientes.
+
 
 # Capítulo III: Requirements Specification.
 # Capítulo IV: Product Design.
