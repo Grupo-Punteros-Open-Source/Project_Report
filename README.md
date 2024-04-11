@@ -1025,7 +1025,7 @@ Se presentan los siguientes user stories:
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 <div align="center">
-  <img src="img/Diagrama de clase.png" alt="KeyComponentes" width="100%">
+  <img src="img/Diagrama de clases.png" alt="KeyComponentes" width="100%">
 </div>
 
 ### 4.7.2. Class Dictionary.
