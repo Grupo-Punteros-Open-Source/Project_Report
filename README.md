@@ -785,7 +785,7 @@ Link del Video de la Entrevista:[link](link)
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevistaSebastian.PNG" alt="Entrevista 5" width="100%">
 
 Resumen:
 
