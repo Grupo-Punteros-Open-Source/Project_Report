@@ -687,10 +687,10 @@ Datos del Entrevistado:
 - Edad: 41
 - Distrito: Ate
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:03
+- Minuto de Fin: 05:23
 
 <img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
@@ -711,10 +711,10 @@ Datos del entrevistado:
 - Edad: 39 años
 - Distrito: Miraflores
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 05:24
+- Minuto de Fin: 12:46
 
 <img src="img/entrevista2.png" alt="Entrevista" width="100%">
 
@@ -735,10 +735,10 @@ Datos del Entrevistado:
 - Edad: 64 años
 - Distrito: Surco
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](lhttps://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 12:48
+- Minuto de Fin: 22:05
 
 <img src="img/entrevista3.png" alt="Entrevista" width="100%">
 
@@ -756,13 +756,13 @@ Entrevistado: Sebastian Palacios
 
 Datos del Entrevistado:
 
-- Edad: 26 años
+- Edad: 22 años
 - Distrito: San Juan de Miraflores
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 28:40
+- Minuto de Fin: 34:02
 
 <img src="img/entrevista christiane.png" alt="Entrevista" width="100%">
 
@@ -781,10 +781,10 @@ Entrevistado: Jorge Quiñones
 - Edad: 19 años
 - Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 34:03
+- Minuto de Fin: 37:55
 
 <img src="img/entrevista5.png" alt="Entrevista" width="100%">
 
@@ -804,10 +804,10 @@ Entrevistado: Leonardo Vargas
 - Edad: 20 años
 - Distrito: 
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 22:12
+- Minuto de Fin: 28:39
 
 <img src="img/entrevista6.PNG" alt="Entrevista" width="100%">
 
