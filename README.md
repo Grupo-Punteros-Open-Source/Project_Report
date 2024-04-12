@@ -1021,6 +1021,67 @@ Se presentan los siguientes user stories:
   <img src="img/Impact map 1-primer segmento.png" alt="Impac Map segmento 2">
   
 # Capítulo IV: Product Design.
+## 4.1 Style Guidelines
+### 4.1.1 General Style Guidelines
+**Paleta de colores**
+Nuestra selección en la paleta de colores se basa en la atención a la legibilidad y buen aspecto de nuestra landing page. El color #002e43 se usa como color principal para resaltar elemento importantes, luego el color #406378 se usa para subtítulos y otros apartados de una ligera menor relevancia, en el caso del color #6a90a9 se utiliza en el cuerpo y en otras áreas para contrastar con los títulos y subtítulos, finalmente para los colores #b2c3d3 y #d7dce0 se usarán de fondo. Estos colores se usarán de forma inteligente para poder presentar una jerarquía visual clara e intuitiva.
+
+<div align="center">
+  <img src="img/paletaColores.png" alt="paletaColores" width="50%">
+</div>
+
+**Branding**
+Para el branding de neustra empresa se creó la marca VEHICUTECH INNOVATIONS, esta tiene por objetivo establecer una identidad presencia relevante e imponente en el mercado. Para una mejor identificación de nuestra empresa se creó el logo: 
+
+<div align="center">
+  <img src="img/logoVehicuTech.png" alt="logoVehicuTech" width="50%">
+</div>
+
+**Tipografía:**
+Para dar una aire diferente a nuestra marca se ha optado por el uso de la fuente “Reboto Mono” que presenta una gran variedad de estilos. Esta fuente debe ser símbolo de nuestra marca y de cumplir el objetivo de transmitir información con una identidad visual sólida y reconocible. Adicionalmente, esta tipografía es apropiada para lograr un diseño cohesivo y equilibrado que contribuye a nuestro reconocimiento en el mercado objetivo.
+
+<div align="center">
+  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="100%">
+</div>
+
+**Spacing:**
+Se hará uso de un espaciado pertinente para no abrumar al cliente con textos abarrotados que no contribuyen a la estética y contrariamente desmotivan a leer. Además, un correcto uso del espaciado en el texto también puede dar la impresión de una página más limpia y moderna, que es uno de los objetivos que hemos planteado para crear un mejor ambiente para el cliente.
+
+**Tono de comunicación:**
+El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
+
+## 4.2 Information Architecture
+### 4.2.1 Organization Systems:
+Usaremos la organización visual de contenido de forma jerárquica para el inicio de forma, más específicamente el patrón H o también llamado Hierarchical que nos otorga una estructura organizativa clara y jerárquica para los componentes de nuestor sistema, además este contribuye a la reutilización de componentes y escalabilidad lo que acelera el proceso de desarrollo. En términos de esquemas de categorización usaremos el estilo por tópicos ya que cada sección toca un tema o funcionalidad diferente, también dentro de cada pestaña podemos encontrar todas las funcionalidades relacionadas a dicha pestaña.
+
+<div align="center">
+  <img src="img/Z-Pattern.png" alt="ZPattern" width="50%">
+</div> 
+
+### 4.2.2 Labeling Systems:
+**Aplicación web celulares:**
+
+<div align="center">
+  <img src="img/labelingWebMobile1.png" alt="labelingWebMobile1" width="50%">
+</div>
+
+<div align="center">
+  <img src="img/labelingWebMobile2.png" alt="labelingWebMobile2" width="50%">
+</div>
+
+<div align="center">
+  <img src="img/labelingWebMobile3.png" alt="labelingWebMobile3" width="50%">
+</div>
+
+**Aplicación web Escritorio:**
+
+<div align="center">
+  <img src="img/labelingWebDesktop1.png" alt="labelingWebDesktop1" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
+</div>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
