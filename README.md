@@ -685,14 +685,14 @@ Entrevistado: Felipe Pinto Velaochaga
 Datos del Entrevistado:
 
 - Edad: 41
-- Distrito:
+- Distrito: Ate
 
 Link del Video de la Entrevista:[link](link)
 
-- Minuto de Inicio:
+- Minuto de Inicio: 
 - Minuto de Fin: 
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
 Resumen de la Entrevista:
 
@@ -702,27 +702,51 @@ Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computador
 
 Fecha Entrevista: 04/04/2024
 
-Entrevistador: Miquel De la Piedra
+Entrevistador: Miquel De la Piedra Quintanilla
 
 Entrevistado: Sasha Chavez
 
 Datos del entrevistado:
 
 - Edad: 39 años
-- Distrito: 
+- Distrito: Miraflores
 
 Link del Video de la Entrevista:[link](link)
 
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevista2.png" alt="Entrevista" width="100%">
 
 Resumen: 
 
  Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
-<u>**Entrevista: 3 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+<u>**Entrevista: 3 - Segmento Objetivo: Administrador de taller**</u>
+
+Fecha Entrevista: 05/04/2024
+
+Entrevistador: Miquel De la Piedra Quintanilla
+
+Entrevistado: Alfredo Baca Lara
+
+Datos del Entrevistado:
+
+- Edad: 64 años
+- Distrito: Surco
+
+Link del Video de la Entrevista:[link](link)
+
+- Minuto de Inicio:
+- Minuto de Fin: 
+
+<img src="img/entrevista3.png" alt="Entrevista" width="100%">
+
+Resumen: 
+
+  Alfredo Baca Lara, es una administradora de automotriz de 64 años, mediante las preguntas, hemos logrado determinar que no se encuentran tan acostumbrados al uso de software tan avanzados para el manejo de sus registros, además que utilizan medios informales como mensajes directos, correos y llamadas para comunicarse con sus clientes. Durante la entrevista se comentó acerca de la aplicación del proyecto. Alfredo mostró un pensamiento de aceptación, ya que nos dice que hoy en día todo funciona con la ayuda de la tecnología y esto seria de gran ayuda para mejorar el método de registro que poseen.
+
+<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
 Fecha Entrevista: 05/04/2024
 
@@ -740,13 +764,13 @@ Link del Video de la Entrevista:[link](link)
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevista4.jpg" alt="Entrevista" width="100%">
 
 Resumen:
 
 Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
 
-<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
 Fecha Entrevista: 06/04/2024
 
@@ -762,14 +786,14 @@ Link del Video de la Entrevista:[link](link)
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/entrevista4.png" alt="Logo Startup" width="100%">
+<img src="img/entrevista5.png" alt="Entrevista" width="100%">
 
 Resumen:
 
 Jorge Quñones, estudiante universitario, mantiene su vehículo cada 5 o 6 meses, priorizando talleres con buena reputación y atención. A veces olvida los servicios por falta de recordatorios, pero valora el mantenimiento para prolongar la vida útil del auto y su posible valor de reventa. Considera esenciales notificaciones de kilometraje, historial detallado de servicios, y anhela herramientas como chat de soporte y diagnósticos. Busca una aplicación web que le recuerde y organice sus servicios programados junto con toda la información relacionada con sus vehículos y mantenimiento.
 
 
-<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+<u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
 Fecha Entrevista: 06/04/2024
 
@@ -785,7 +809,7 @@ Link del Video de la Entrevista:[link](link)
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/entrevistaSebastian.PNG" alt="Entrevista 5" width="100%">
+<img src="img/entrevista6.PNG" alt="Entrevista" width="100%">
 
 Resumen:
 
@@ -1687,7 +1711,7 @@ Basándonos en los flujos de usuario definidos previamente, desarrollamos el pro
 **Link del video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte)
 
 <div align="center">
-  <img src="img" alt="CapturaVideoWebApplicationPrototyping" width="75%">
+  <img src="img/CapturaVideoWebApplicationPrototyping.png" alt="CapturaVideoWebApplicationPrototyping" width="75%">
 </div>
 
 ## 4.6. Domain-Driven Software Architecture
