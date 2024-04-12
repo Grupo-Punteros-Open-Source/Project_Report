@@ -816,8 +816,8 @@ Entrevistador: Sebastian Méndez
 
 Entrevistado: Leonardo Vargas
 
-- Edad: 20 años
-- Distrito: 
+- Edad: 26 años
+- Distrito: Ate
 
 Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
