@@ -700,14 +700,14 @@ Entrevistado: Felipe Pinto Velaochaga
 Datos del Entrevistado:
 
 - Edad: 41
-- Distrito:
+- Distrito: Ate
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 00:03
+- Minuto de Fin: 05:23
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
 Resumen de la Entrevista:
 
@@ -717,27 +717,51 @@ Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computador
 
 Fecha Entrevista: 04/04/2024
 
-Entrevistador: Miquel De la Piedra
+Entrevistador: Miquel De la Piedra Quintanilla
 
 Entrevistado: Sasha Chavez
 
 Datos del entrevistado:
 
 - Edad: 39 años
-- Distrito: 
+- Distrito: Miraflores
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 05:24
+- Minuto de Fin: 12:46
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevista2.png" alt="Entrevista" width="100%">
 
 Resumen: 
 
  Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
-<u>**Entrevista: 3 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+<u>**Entrevista: 3 - Segmento Objetivo: Administrador de taller**</u>
+
+Fecha Entrevista: 05/04/2024
+
+Entrevistador: Miquel De la Piedra Quintanilla
+
+Entrevistado: Alfredo Baca Lara
+
+Datos del Entrevistado:
+
+- Edad: 64 años
+- Distrito: Surco
+
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](lhttps://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+
+- Minuto de Inicio: 12:48
+- Minuto de Fin: 22:05
+
+<img src="img/entrevista3.png" alt="Entrevista" width="100%">
+
+Resumen: 
+
+  Alfredo Baca Lara, es una administradora de automotriz de 64 años, mediante las preguntas, hemos logrado determinar que no se encuentran tan acostumbrados al uso de software tan avanzados para el manejo de sus registros, además que utilizan medios informales como mensajes directos, correos y llamadas para comunicarse con sus clientes. Durante la entrevista se comentó acerca de la aplicación del proyecto. Alfredo mostró un pensamiento de aceptación, ya que nos dice que hoy en día todo funciona con la ayuda de la tecnología y esto seria de gran ayuda para mejorar el método de registro que poseen.
+
+<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
 Fecha Entrevista: 05/04/2024
 
@@ -747,21 +771,21 @@ Entrevistado: Sebastian Palacios
 
 Datos del Entrevistado:
 
-- Edad: 26 años
-- Distrito: 
+- Edad: 22 años
+- Distrito: San Juan de Miraflores
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 28:40
+- Minuto de Fin: 34:02
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevista christiane.png" alt="Entrevista" width="100%">
 
 Resumen:
 
 Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
 
-<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
 Fecha Entrevista: 06/04/2024
 
@@ -772,19 +796,19 @@ Entrevistado: Jorge Quiñones
 - Edad: 19 años
 - Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 34:03
+- Minuto de Fin: 37:55
 
-<img src="img/entrevista4.png" alt="Logo Startup" width="100%">
+<img src="img/entrevista5.png" alt="Entrevista" width="100%">
 
 Resumen:
 
 Jorge Quñones, estudiante universitario, mantiene su vehículo cada 5 o 6 meses, priorizando talleres con buena reputación y atención. A veces olvida los servicios por falta de recordatorios, pero valora el mantenimiento para prolongar la vida útil del auto y su posible valor de reventa. Considera esenciales notificaciones de kilometraje, historial detallado de servicios, y anhela herramientas como chat de soporte y diagnósticos. Busca una aplicación web que le recuerde y organice sus servicios programados junto con toda la información relacionada con sus vehículos y mantenimiento.
 
 
-<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+<u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
 Fecha Entrevista: 06/04/2024
 
@@ -795,12 +819,12 @@ Entrevistado: Leonardo Vargas
 - Edad: 20 años
 - Distrito: 
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 22:12
+- Minuto de Fin: 28:39
 
-<img src="img/entrevistaSebastian.PNG" alt="Entrevista 5" width="100%">
+<img src="img/entrevista6.PNG" alt="Entrevista" width="100%">
 
 Resumen:
 
@@ -1229,14 +1253,39 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
   <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
 </div>
 
-### 4.2.3 Searching Systems
+### 4.2.3. SEO Tags and Meta Tag
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AutoPro Tracker.
+
+Landing Page:
+
+**Title:**  AutoPro Tracker
+
+**Description:**  AutoPro Tracker- VehicleTec Oficial Landing Page
+
+**Keywords:** Inventory,workshops,service,mechanics,tracking.
+
+**Authors:** AutoPro Tracker team
+
+Web application:
+
+**Title:**  AutoPro Tracker
+
+**Description:**  AutoPro Tracker- VehicleTec Oficial Web Site
+
+**Keywords:** Workshops, mechanics, products, inventory, tracking, service, technicians,warehousing,vehicles,repairs.
+
+**Authors:** AutoPro Tracker team
+
+
+ 
+### 4.2.4. Searching Systems
 Se  implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
 
 El primero de estos sistemas se encuentra en la sección de "Invoices" de la aplicación. Aquí, los usuarios tienen acceso a una lista completa de todas las facturas emitidas. Para agilizar la localización de una factura específica, se ha incorporado una barra de búsqueda que permite introducir términos clave para encontrar rápidamente la factura deseada.
 
 Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Vehicles". En esta sección, los usuarios pueden buscar vehículos utilizando diversos criterios. Además de la búsqueda por el nombre del propietario, se han implementado filtros adicionales que permiten refinar la búsqueda según la marca, modelo, número de reparaciones y servicios recientes del vehículo. Esta funcionalidad proporciona a los usuarios una manera eficiente de encontrar información específica sobre los vehículos registrados en la plataforma.
 
-### 4.2.4. Navigation Systems
+### 4.2.5. Navigation Systems
 Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
 
 -Home: Página de inicio del menú.
@@ -1677,7 +1726,7 @@ Basándonos en los flujos de usuario definidos previamente, desarrollamos el pro
 **Link del video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte)
 
 <div align="center">
-  <img src="img" alt="CapturaVideoWebApplicationPrototyping" width="75%">
+  <img src="img/CapturaVideoWebApplicationPrototyping.png" alt="CapturaVideoWebApplicationPrototyping" width="75%">
 </div>
 
 ## 4.6. Domain-Driven Software Architecture
