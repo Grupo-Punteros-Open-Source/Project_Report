@@ -74,6 +74,13 @@ Abril 2024
 # **Project Report Collaboration Insights**
 URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](https://github.com/Grupo-Punteros-Open-Source/Project_Report)
 
+Commits en reporte avance TB1
+
+<div align="center">
+  <img src="img/commits.png" alt="Commits" width="100%">
+</div>
+
+
 # **Tabla de Contenido**
 
 - [Registro de Versiones](#registro-de-versiones)
@@ -164,6 +171,14 @@ URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](htt
 - [Video About-the-Team](#video-about-the-team)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
+
+# Student Outcome
+
+|Criterio específico|Acciones realizadas|Conclusiones|
+| :- | :- | :- |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** Participe activamente y de manera colaborativa en equipos multidisciplinarios durante el desarrollo del proyecto. Además, he estado pendiente de todas las reuniones y avances a lo largo del trabajo, manteniendo así la puntualidad de las fechas establecidas con el equipo.</p><p></p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1:** Aporté al grupo constantemente con ideas en las reuniones y cumpliendo con los puntos del reporte que me fueron asignados dentro del tiempo establecido. También apoyé a compañeros con sus partes en caso de que tuvieran alguna dificultad de forma que cumplieramos todos con las fechas establecidas de progreso. </p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** Realice diferentes aportes en las reuniones planificadas de nuestro grupo en donde avanzamos el trabajo dividiéndolo para que todos colaboren.</p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** Pude cumplir con las tareas que me fueron asignadas, además de ayudar a establecer bien nuestra startup y producto. Apoyé a mis compañeros y trabajamos colaborativamente en cada reunión. Por último, logramos cumplir con todos los requerimientos a tiempo y estamos listos para próximas iteraciones.</p><p></p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** En las reuniones, he organizado la distribución de tareas para el informe, asignando responsabilidades a cada miembro del equipo. Además, he participado activamente en las actividades del equipo, garantizando una colaboración simultánea y eficiente para lograr una entrega rápida y de calidad.</p>|**TB1:** En esta fase inicial, la comunicación eficiente ha sido crucial debido a la gran cantidad de contenido que debíamos presentar. Asimismo, llevar a cabo reuniones de grupo ha sido beneficioso para mejorar nuestra eficiencia en la gestión de los progresos y cumplir con los requisitos establecidos.|
+|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** Durante este proyecto, me informe e investigue acerca del sector automotriz en lima, esto me llevó a conocer a diversos expertos en este campo, los cuales pude entrevistar y conocer mejor acerca de sus áreas, brindando así un mayor conocimiento de este sector, mejorando mi perspectiva para la realización del proyecto.</p><p></p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1:** Para el desarrollo de este informe reforcé mis conocimientos sobre el rubro del software de gestión de negocios, en este caso más específicamente sobre los procesos de gestión de un taller automotriz. Gracias a mi investigación sobre aplicaciones similares, líderes en el mercado y entrevistas aprendí más sobre las necesidades que deben suplir estas soluciones de software destinadas al sector empresarial.</p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** Al planificar la estructura de la solución, se llevó a cabo una investigación exhaustiva del sector automotriz, permitiendo una comprensión más profunda de sus dinámicas y necesidades. Esta exploración detallada proporcionó un conocimiento que facilita la identificación de ventajas competitivas y áreas de oportunidad dentro del mercado, con un enfoque particular en las condiciones específicas de nuestro país.</p><p></p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** A la hora de entrevistar, llegué a la conclusión de que, en el ámbito automotriz, a veces ocurren cosas detrás del telón que le son ocultadas a los clientes. Es por esta razón que luego de entrevistar a usuarios que brindan mantenimiento a sus vehículos, pude empatizar con ellos y sus experiencias, lo cual influyó en nuestra decisión como equipo de adaptar nuestra solución al problema por el que pasan ellos.</p><p></p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** Para este proyecto, llevé a cabo una investigación exhaustiva en el ámbito empresarial relacionado con el transporte de carga. Durante este proceso, pude entrevistar a expertos con una vasta experiencia en este sector, lo que me brindó una comprensión más profunda de sus necesidades y me proporcionó una nueva perspectiva para el desarrollo de nuestra aplicación.</p>|<p>**TB1:** En esta fase de entrega, llevamos a cabo una investigación exhaustiva sobre los principales competidores en el ámbito de las aplicaciones para la gestión del transporte terrestre. Además, nos hemos comunicado con individuos involucrados en este sector para obtener una perspectiva valiosa que nos ha ayudado en el desarrollo del proyecto.</p><p></p>|
+
 
 # Capítulo I: Introducción
 ## 1.1 Startup Profile.
@@ -687,10 +702,10 @@ Datos del Entrevistado:
 - Edad: 41
 - Distrito: Ate
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:03
+- Minuto de Fin: 05:23
 
 <img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
@@ -711,10 +726,10 @@ Datos del entrevistado:
 - Edad: 39 años
 - Distrito: Miraflores
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 05:24
+- Minuto de Fin: 12:46
 
 <img src="img/entrevista2.png" alt="Entrevista" width="100%">
 
@@ -735,10 +750,10 @@ Datos del Entrevistado:
 - Edad: 64 años
 - Distrito: Surco
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](lhttps://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 12:48
+- Minuto de Fin: 22:05
 
 <img src="img/entrevista3.png" alt="Entrevista" width="100%">
 
@@ -756,15 +771,15 @@ Entrevistado: Sebastian Palacios
 
 Datos del Entrevistado:
 
-- Edad: 26 años
-- Distrito: 
+- Edad: 22 años
+- Distrito: San Juan de Miraflores
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 28:40
+- Minuto de Fin: 34:02
 
-<img src="img/entrevista4.jpg" alt="Entrevista" width="100%">
+<img src="img/entrevista christiane.png" alt="Entrevista" width="100%">
 
 Resumen:
 
@@ -781,10 +796,10 @@ Entrevistado: Jorge Quiñones
 - Edad: 19 años
 - Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 34:03
+- Minuto de Fin: 37:55
 
 <img src="img/entrevista5.png" alt="Entrevista" width="100%">
 
@@ -801,13 +816,13 @@ Entrevistador: Sebastian Méndez
 
 Entrevistado: Leonardo Vargas
 
-- Edad: 20 años
-- Distrito: 
+- Edad: 26 años
+- Distrito: Ate
 
-Link del Video de la Entrevista:[link](link)
+Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
 
-- Minuto de Inicio:
-- Minuto de Fin: 
+- Minuto de Inicio: 22:12
+- Minuto de Fin: 28:39
 
 <img src="img/entrevista6.PNG" alt="Entrevista" width="100%">
 
@@ -1238,14 +1253,39 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
   <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
 </div>
 
-### 4.2.3 Searching Systems
+### 4.2.3. SEO Tags and Meta Tag
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AutoPro Tracker.
+
+Landing Page:
+
+**Title:**  AutoPro Tracker
+
+**Description:**  AutoPro Tracker- VehicleTec Oficial Landing Page
+
+**Keywords:** Inventory,workshops,service,mechanics,tracking.
+
+**Authors:** AutoPro Tracker team
+
+Web application:
+
+**Title:**  AutoPro Tracker
+
+**Description:**  AutoPro Tracker- VehicleTec Oficial Web Site
+
+**Keywords:** Workshops, mechanics, products, inventory, tracking, service, technicians,warehousing,vehicles,repairs.
+
+**Authors:** AutoPro Tracker team
+
+
+ 
+### 4.2.4. Searching Systems
 Se  implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
 
 El primero de estos sistemas se encuentra en la sección de "Invoices" de la aplicación. Aquí, los usuarios tienen acceso a una lista completa de todas las facturas emitidas. Para agilizar la localización de una factura específica, se ha incorporado una barra de búsqueda que permite introducir términos clave para encontrar rápidamente la factura deseada.
 
 Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Vehicles". En esta sección, los usuarios pueden buscar vehículos utilizando diversos criterios. Además de la búsqueda por el nombre del propietario, se han implementado filtros adicionales que permiten refinar la búsqueda según la marca, modelo, número de reparaciones y servicios recientes del vehículo. Esta funcionalidad proporciona a los usuarios una manera eficiente de encontrar información específica sobre los vehículos registrados en la plataforma.
 
-### 4.2.4. Navigation Systems
+### 4.2.5. Navigation Systems
 Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
 
 -Home: Página de inicio del menú.
@@ -1686,7 +1726,7 @@ Basándonos en los flujos de usuario definidos previamente, desarrollamos el pro
 **Link del video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte)
 
 <div align="center">
-  <img src="img" alt="CapturaVideoWebApplicationPrototyping" width="75%">
+  <img src="img/CapturaVideoWebApplicationPrototyping.png" alt="CapturaVideoWebApplicationPrototyping" width="75%">
 </div>
 
 ## 4.6. Domain-Driven Software Architecture
@@ -2140,7 +2180,7 @@ Sección Planes:
 
 Sección Contact Us:
 
-<img src="img/contact_us.png" alt="Logo del servicio" width="100%">
+<img src="img/mocks-up_contact_us.png" alt="Logo del servicio" width="100%">
 
 <img src="img/responsive_contact_us.png" alt="Logo del servicio" width="50%">
 
@@ -2183,11 +2223,11 @@ Durante la implementación del Landing Page, todos los miembros del equipo reali
 Nos dividimos de la siguiente forma para trabajar en el Landing Page:
 
 
--Christian Matos: Navbar , Home y Plans
--Miquel de la Piedra: About Us
--Alvaro Pinto: Community
--Christian Espinoza: Contact_Us
--Sebastian Mendez: Our App
+- Christian Matos: Navbar , Home y Plans
+- Miquel de la Piedra: About Us
+- Alvaro Pinto: Community
+- Christian Espinoza: Contact_Us
+- Sebastian Mendez: Our App
 
 <img src="img/i3.png" alt="Logo del servicio" width="100%">
 
@@ -2195,4 +2235,20 @@ Nos dividimos de la siguiente forma para trabajar en el Landing Page:
 En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop y feature, en ese orden.
 
 <img src="img/i4.png" alt="Logo del servicio" width="100%">
+
+# Conclusiones
+
+1. *Identificación de una Necesidad Real*: A través de la investigación y el desarrollo de este proyecto, queda claro que existe una necesidad real en el mercado automotriz peruano de una solución tecnológica que mejore la gestión de clientes y la comunicación en las automotrices.
+
+2. *Potencial de Mejora en la Experiencia del Cliente*: La implementación de una plataforma tecnológica tiene el potencial de mejorar significativamente la experiencia del cliente en las automotrices, proporcionando un acceso más rápido y transparente a la información y servicios relacionados con sus vehículos.
+
+3. *Oportunidades de Diferenciación*: La atención a las necesidades específicas del mercado automotriz peruano y la incorporación de características únicas en la plataforma ofrecen oportunidades de diferenciación frente a la competencia y pueden ser clave para el éxito a largo plazo.
+
+4. *Importancia de la Validación Continua*: La validación continua de supuestos y la retroalimentación de los usuarios son fundamentales para el desarrollo exitoso de la plataforma. Es crucial adaptarse y mejorar constantemente en función de los comentarios y datos obtenidos durante el proceso.
+
+5. *Impacto en la Eficiencia Operativa*: Finalmente, se espera que la implementación de la plataforma tenga un impacto positivo en la eficiencia operativa de las automotrices, reduciendo los tiempos de espera, mejorando la comunicación interna y externa, y aumentando la satisfacción tanto de los clientes como del personal técnico y administrativo.
+
+# Bibliografía
+
+# Anexos.
 
