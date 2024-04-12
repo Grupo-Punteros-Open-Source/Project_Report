@@ -2250,5 +2250,19 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 
 # Bibliografía
 
+BillWagner. (2023). .NET documentation C# Coding Conventions - C#. Microsoft Learn.[https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions) 
+
+Google HTML/CSS Style Guide. (s.f.). [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+
+HTML style guide and coding conventions. (s.f.). [https://google.github.io/styleguide/htmlcssguide.html](https://google.github.io/styleguide/htmlcssguide.html)
+
+JavaScript Style Guide. (s.f.).[https://www.w3schools.com/js/js_conventions.asp](https://www.w3schools.com/js/js_conventions.asp)
+
+Mollahosseini, A. (2021). Make your Gherkin Specifications More Readable. BDD Framework for NET. [https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
+
 # Anexos.
+
+Videos de exposiciones
+
+- Exposición TB1: []()
 
