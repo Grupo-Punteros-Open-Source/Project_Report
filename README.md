@@ -674,9 +674,9 @@ Preguntas para: Técnicos y administradores del taller
 
 ### 2.2.2 Registro de entrevistas
 
-Segmento Objetivo: Administrador de taller
+<u>**Entrevista: 1 - Segmento Objetivo: Administrador de taller**</u>
 
-Entrevista 1
+Fecha Entrevista: 02/04/2024
 
 Entrevistador: Alvaro Pinto Fuentes Rivera
 
@@ -684,11 +684,23 @@ Entrevistado: Felipe Pinto Velaochaga
 
 Datos del Entrevistado:
 
-Edad: 41
+- Edad: 41
+- Distrito:
 
-https://youtu.be/rzfGQtKLjmc
+Link del Video de la Entrevista:[link](link)
 
-Entrevista 2
+- Minuto de Inicio:
+- Minuto de Fin: 
+
+<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+
+Resumen de la Entrevista:
+
+Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computadora con windows en la que se apoya en herramientas de software bastante anticuadas, como hojas de cálculo de Excel, para llevar a cabo las operaciones de gestión diarias de su empresa. Sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa como, por ejemplo, el aceite que usa.
+
+<u>**Entrevista: 2 - Segmento Objetivo: Administrador de taller**</u>
+
+Fecha Entrevista: 04/04/2024
 
 Entrevistador: Miquel De la Piedra
 
@@ -696,13 +708,23 @@ Entrevistado: Sasha Chavez
 
 Datos del entrevistado:
 
-Edad: 39 años
+- Edad: 39 años
+- Distrito: 
 
-https://youtu.be/GFwCbNeiVgk
+Link del Video de la Entrevista:[link](link)
 
-Segmento Objetivo: Cliente 
+- Minuto de Inicio:
+- Minuto de Fin: 
 
-Entrevista 1
+<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+
+Resumen: 
+
+ Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
+
+<u>**Entrevista: 3 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+
+Fecha Entrevista: 05/04/2024
 
 Entrevistador: Christian Renato Espinoza Saenz
 
@@ -710,64 +732,102 @@ Entrevistado: Sebastian Palacios
 
 Datos del Entrevistado:
 
-Edad:22 años
+- Edad: 26 años
+- Distrito: 
 
-https://youtu.be/rQgD14XBJcs
+Link del Video de la Entrevista:[link](link)
 
-Entrevista 2
+- Minuto de Inicio:
+- Minuto de Fin: 
+
+<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+
+Resumen:
+
+Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
+
+<u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+
+Fecha Entrevista: 06/04/2024
 
 Entrevistador: Christian Matos
 
 Entrevistado: Jorge Quiñones
 
-Datos del Entrevistado:
+- Edad: 19 años
+- Distrito: San Juan de Lurigancho
 
-Edad:19 años
+Link del Video de la Entrevista:[link](link)
 
-Entrevista 3
+- Minuto de Inicio:
+- Minuto de Fin: 
+
+<img src="img/entrevista4.png" alt="Logo Startup" width="100%">
+
+Resumen:
+
+Jorge Quñones, estudiante universitario, mantiene su vehículo cada 5 o 6 meses, priorizando talleres con buena reputación y atención. A veces olvida los servicios por falta de recordatorios, pero valora el mantenimiento para prolongar la vida útil del auto y su posible valor de reventa. Considera esenciales notificaciones de kilometraje, historial detallado de servicios, y anhela herramientas como chat de soporte y diagnósticos. Busca una aplicación web que le recuerde y organice sus servicios programados junto con toda la información relacionada con sus vehículos y mantenimiento.
+
+
+<u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
+
+Fecha Entrevista: 06/04/2024
 
 Entrevistador: Sebastian Méndez
 
 Entrevistado: Leonardo Vargas
 
-Datos del Entrevistado:
+- Edad: 20 años
+- Distrito: 
 
-Edad: 26 años
+Link del Video de la Entrevista:[link](link)
 
-https://youtu.be/dC2bl38vZRA
+- Minuto de Inicio:
+- Minuto de Fin: 
 
+<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
 
-### 2.2.3 Análisis de entrevistas.
-
-**Segmento Objetivo: Administrador de taller**
-
-Entrevista 1:
-
-Descripción:
-
-Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computadora con windows en la que se apoya en herramientas de software bastante anticuadas, como hojas de cálculo de Excel, para llevar a cabo las operaciones de gestión diarias de su empresa. Sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa como, por ejemplo, el aceite que usa.
-
-Entrevista 2:
-
-Descripción:
-
- Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
-
-
-**Segmento Objetivo: Cliente**
-
-Entrevista 1:
-
-Descripción:
-
-Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
-
-Entrevista 3:
-
-Descripción:
+Resumen:
 
 Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de la importancia que tiene para él llevar un registro al día del mantenimiento de su vehículo. Tras finalizar la entrevista, Leonardo indicó que él requiere de anotar y tener varias consideraciones para con su vehículo y así evitar cualquier inconveniente mientras esté viajando. Asimismo, considera que le gustaría poder contar con un servicio de mantenimiento confiable debido a una mala experiencia que tuvo con un taller que cambió partes de un vehículo de uno de sus familiares. Luego, agregó que el uso de una aplicación móvil le facilitaría mucho más el registro de eventos relacionados al mantenimiento de su vehículo, ya que él siempre está al pendiente de su teléfono. Por último, nos comentó que le gustaría conseguir esta aplicación por un bajo costo y que cuente, más que nada, con notificaciones cada que se genere cualquier actividad en su vehículo.
 
+
+### 2.2.3 Análisis de entrevistas.
+<u>**Segmento Objetivo: Administrador de taller**</u>
+
+Entiendo, quieres identificar los puntos en común y las diferencias entre las entrevistas de Felipe Pinto y Sasha Chávez sin asignarles un puntaje específico. Aquí está el análisis:
+
+**Coincidencias:**
+
+1. **Reconocimiento de la necesidad de actualización tecnológica:** Tanto Felipe como Sasha reconocen que las herramientas tecnológicas actuales en sus talleres son anticuadas y limitadas en eficiencia.
+
+2. **Necesidades específicas del proyecto:** Tanto Felipe como Sasha identificaron aspectos específicos que les parecen importantes en la propuesta del proyecto, como el registro o historial de vehículos para Felipe y la mejora de la comunicación con los clientes para Sasha.
+
+**Diferencias:**
+
+1. **Uso actual de herramientas tecnológicas:** Felipe mencionó que utiliza hojas de cálculo de Excel, mientras que Sasha utiliza un software pagado para llevar un registro de datos de clientes.
+
+2. **Comunicación con los clientes:** Mientras que Felipe no mencionó problemas específicos en la comunicación con los clientes, Sasha expresó que la comunicación es informal y busca una solución para mejorarla.
+
+<u>**Segmento Objetivo: Propietario de Vehiculos**</u>
+
+**Coincidencias:**
+
+1. **Importancia del registro de mantenimiento:** Tanto Sebastián Palacios como Leonardo Vargas reconocen la importancia de llevar un registro detallado del mantenimiento de sus vehículos para evitar problemas futuros y asegurar un funcionamiento óptimo.
+
+2. **Interés en una aplicación móvil para el mantenimiento del vehículo:** Ambos expresan interés en utilizar una aplicación móvil para facilitar el registro y seguimiento del mantenimiento de sus vehículos.
+
+3. **Deseo de notificaciones para recordatorios de mantenimiento:** Tanto Sebastián como Leonardo mencionan la importancia de recibir notificaciones para recordarles cuándo es necesario realizar mantenimiento en sus vehículos.
+
+**Diferencias:**
+
+1. **Frecuencia y prácticas de mantenimiento:** Sebastián Palacios habla sobre sus prácticas de mantenimiento preventivo y su disposición a realizar mantenimiento regularmente, mientras que Jorge Quñones menciona que a veces olvida llevar su vehículo a mantenimiento debido a la falta de recordatorios.
+
+2. **Experiencias pasadas y confiabilidad del servicio:** Leonardo Vargas menciona una mala experiencia previa con un taller de reparación, lo que lo hace buscar un servicio de mantenimiento confiable. Por otro lado, Jorge Quñones prioriza talleres con buena reputación y atención, pero no menciona una experiencia negativa específica.
+
+3. **Costo y preferencias en una aplicación móvil:** Leonardo Vargas enfatiza en la importancia de un costo bajo para la aplicación móvil y la necesidad de notificaciones frecuentes, mientras que Sebastián Palacios menciona su disposición a pagar por servicios adicionales en una aplicación móvil sin mencionar preferencias específicas sobre el costo.
+
+En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importancia del registro de mantenimiento, el interés en una aplicación móvil y la necesidad de notificaciones para recordatorios, difieren en sus prácticas y frecuencia de mantenimiento, experiencias pasadas con talleres de reparación, y preferencias sobre el costo y las características de la aplicación móvil.
 
 
 ## 2.3 Needfinding.
