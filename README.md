@@ -1432,6 +1432,15 @@ Administradores del Taller:
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+
+**Link del video:**
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte
+
+<div align="center">
+  <img src="img/CapturaVideoWebApplicationPrototyping.png" alt="CapturaVideoWebApplicationPrototyping" width="75%">
+</div>
+
 ## 4.6. Domain-Driven Software Architecture
 Para la construcción de los siguientes diagramas, se hizo uso de la herramienta Structurizr, la cual permite crear los mismos mediante líneas de código.
 
