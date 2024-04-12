@@ -757,14 +757,14 @@ Entrevistado: Sebastian Palacios
 Datos del Entrevistado:
 
 - Edad: 26 años
-- Distrito: 
+- Distrito: San Juan de Miraflores
 
 Link del Video de la Entrevista:[link](link)
 
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/entrevista4.jpg" alt="Entrevista" width="100%">
+<img src="img/entrevista christiane.png" alt="Entrevista" width="100%">
 
 Resumen:
 
