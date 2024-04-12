@@ -785,7 +785,7 @@ Link del Video de la Entrevista:[link](link)
 - Minuto de Inicio:
 - Minuto de Fin: 
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/entrevistaSebastian.PNG" alt="Entrevista 5" width="100%">
 
 Resumen:
 
@@ -917,12 +917,12 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/EmpathyMapping1.JPG" alt="UserPersona1" width="100%">
+  <img src="img/EmpathyMapping1.JPG" alt="EmpathyMapping1" width="100%">
 </div>
 
 **Segmento Objetivo: Gerente de Taller**
 <div align="center">
-  <img src="img/EmpathyMapping2.JPG" alt="UserPersona2" width="100%">
+  <img src="img/EmpathyMapping2.JPG" alt="EmpathyMapping2" width="100%">
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
@@ -1160,34 +1160,26 @@ Se hará uso de un espaciado pertinente para no abrumar al cliente con textos ab
 **Tono de comunicación:**
 El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
 
-### 4.1.2 General Style Guidelines
+### 4.1.2 Web Style Guidelines
 
-**Selección de colores:**
-En nuestra elección de colores, nos centramos en garantizar la legibilidad y la estética atractiva de nuestra página de inicio. Utilizamos el color #002e43 como primario para resaltar elementos importantes, mientras que el color #406378 se reserva para subtítulos y otras secciones de menor relevancia. El tono #6a90a9 se emplea en el cuerpo del texto y en otras áreas para contrastar con los títulos y subtítulos. Por último, los colores #b2c3d3 y #d7dce0 se destinan al fondo. Esta selección de colores se utiliza de manera estratégica para presentar una jerarquía visual clara y fácil de entender.
-
-<div align="center">
-  <img src="img/paletaColores.png" alt="paletaColores" width="50%">
-</div>
-
-**Branding:**
-Para establecer una identidad sólida y destacada en el mercado, hemos creado la marca VEHICUTECH INNOVATIONS. Como parte de nuestro branding, hemos diseñado un logo que nos permitirá una identificación clara y memorable.
+*Colores:*
+En nuestro enfoque para diseñar nuestra página web, hemos elegido cuidadosamente una paleta de colores que refleje la identidad y los valores de nuestra marca. Con el azul eléctrico como color principal, buscamos transmitir una sensación de energía, modernidad y confianza a nuestros visitantes.Adicionalmente utilizamos colores complementarios como #406378,#6a90a9 ,#b2c3d3,#d7dce0 y el color negro para dar contraste en los menus.
 
 <div align="center">
-  <img src="img/logoVehicuTech.png" alt="logoVehicuTech" width="50%">
+  <img src="img/paletaColores.png" alt="paletaColores" width="60%">
 </div>
 
-**Tipografía:**
-Optamos por la fuente “Reboto Mono” para dar un toque distintivo a nuestra marca. Esta fuente ofrece una amplia variedad de estilos y se convertirá en un símbolo de nuestra identidad visual, transmitiendo información de manera sólida y reconocible. Además, su uso contribuirá a un diseño cohesivo y equilibrado que refuerce nuestro posicionamiento en el mercado objetivo.
-
+*Tipografía:*
+Además, hemos optado por emplear la tipografía Reboto Mono debido a su estilo moderno y legible, que se alinea perfectamente con la estética contemporánea que deseamos transmitir en nuestra página web, adicionalmente pensamos usar los distintos tamaños de letra según sea necesario en el texto de cara a dar una mejor perspectiva de jerarquía en el texto, así podremos separar los títulos, subtítulos y el cuerpo de una mejor forma.
 <div align="center">
-  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="100%">
+  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="60%">
 </div>
 
-**Espaciado:**
-Nos aseguraremos de utilizar un espaciado adecuado para evitar saturar al cliente con textos densos que no contribuyan a la estética. Un espaciado bien utilizado no solo mejora la legibilidad, sino que también crea una impresión de limpieza y modernidad en nuestra página, uno de nuestros objetivos principales.
+*Formas:*
+Se decidió emplear figuras con bordes ligeramente redondeados en el proyecto para proporcionar una apariencia más ordenada y pulida, lo que contribuye a una experiencia visual más agradable para los usuarios.
 
-**Tono de comunicación:**
-Adoptaremos un tono formal y respetuoso en nuestra comunicación con los clientes, manteniendo un nivel profesional en todo momento. Sin embargo, en ciertas secciones, incorporaremos un tono entusiasta o sereno para generar interés en nuestro producto y atraer a los clientes a probarlo.
+Además, en el desarrollo de nuestros mock-ups y wireframes, se emplearon dos tipos de pantallas comunes: escritorio y móvil. La versión de escritorio estuvo más dirigida a nuestro segmento de administradores del taller, mientras que la versión móvil estuvo destinada al segmento de propietarios de vehículos.
+
 
 ## 4.2 Information Architecture
 ### 4.2.1 Organization Systems:
@@ -1221,6 +1213,38 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
 <div align="center">
   <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
 </div>
+
+### 4.2.3 Searching Systems
+Se  implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
+
+El primero de estos sistemas se encuentra en la sección de "Invoices" de la aplicación. Aquí, los usuarios tienen acceso a una lista completa de todas las facturas emitidas. Para agilizar la localización de una factura específica, se ha incorporado una barra de búsqueda que permite introducir términos clave para encontrar rápidamente la factura deseada.
+
+Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Vehicles". En esta sección, los usuarios pueden buscar vehículos utilizando diversos criterios. Además de la búsqueda por el nombre del propietario, se han implementado filtros adicionales que permiten refinar la búsqueda según la marca, modelo, número de reparaciones y servicios recientes del vehículo. Esta funcionalidad proporciona a los usuarios una manera eficiente de encontrar información específica sobre los vehículos registrados en la plataforma.
+
+### 4.2.4. Navigation Systems
+Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
+
+-Home: Página de inicio del menú.
+
+-Vehicle: Acceso a información del vehículo y estado de reparación.
+
+-Chat: Comunicación con el taller encargado de la reparación.
+
+-Profile: Visualización de datos personales.
+
+-Configuration: Configuración de la aplicación.
+
+Para el gerente del taller, el menú es similar, pero con secciones adicionales:
+
+-Inventory: Gestión de los materiales disponibles.
+
+-Invoice: Administración de las facturas emitidas.
+
+-Support: Solicitud de ayuda en caso de errores.
+
+-Configuration: Configuración de opciones.
+
+Adicionalmente, nos aseguramos de que la aplicación sea fácil de leer para que el usuario no se sienta perdido con lo que tiene en pantalla. Esto permite que pueda realizar acciones que lo llevan a otras ventanas de forma intuitiva.
 
 ## 4.3 Landing Page UI Design.
 ### 4.3.1. Landing Page Wireframe.
@@ -1408,6 +1432,44 @@ Administradores del Taller:
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+## 4.6. Domain-Driven Software Architecture
+Para la construcción de los siguientes diagramas, se hizo uso de la herramienta Structurizr, la cual permite crear los mismos mediante líneas de código.
+
+### 4.6.1. Software Architecture Context Diagram
+
+<div align="center">
+  <img src="img/DContext.png" alt="DiagramaContexto" width="100%">
+</div>
+
+**Elementos del diagrama:**
+
+<div align="center">
+  <img src="img/KContext.png" alt="KeyContexto" width="100%">
+</div>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="img/DContainers.png" alt="DiagramaContenedores" width="100%">
+</div>
+
+**Elementos del diagrama:**
+
+<div align="center">
+  <img src="img/KContainers.png" alt="KeyContenedores" width="100%">
+</div>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<div align="center">
+  <img src="img/DComponents.png" alt="DiagramaComponentes" width="100%">
+</div>
+
+**Elementos del diagrama:**
+
+<div align="center">
+  <img src="img/KComponents.png" alt="KeyComponentes" width="100%">
+</div>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
