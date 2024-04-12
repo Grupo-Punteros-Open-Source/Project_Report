@@ -917,12 +917,12 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/EmpathyMapping1.JPG" alt="UserPersona1" width="100%">
+  <img src="img/EmpathyMapping1.JPG" alt="EmpathyMapping1" width="100%">
 </div>
 
 **Segmento Objetivo: Gerente de Taller**
 <div align="center">
-  <img src="img/EmpathyMapping2.JPG" alt="UserPersona2" width="100%">
+  <img src="img/EmpathyMapping2.JPG" alt="EmpathyMapping2" width="100%">
 </div>
 
 ### 2.3.5. As-is Scenario Mapping
@@ -1309,6 +1309,44 @@ Our App:
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
+## 4.6. Domain-Driven Software Architecture
+Para la construcción de los siguientes diagramas, se hizo uso de la herramienta Structurizr, la cual permite crear los mismos mediante líneas de código.
+
+### 4.6.1. Software Architecture Context Diagram
+
+<div align="center">
+  <img src="img/DContext.png" alt="DiagramaContexto" width="100%">
+</div>
+
+**Elementos del diagrama:**
+
+<div align="center">
+  <img src="img/KContext.png" alt="KeyContexto" width="100%">
+</div>
+
+### 4.6.2. Software Architecture Container Diagrams
+
+<div align="center">
+  <img src="img/DContainers.png" alt="DiagramaContenedores" width="100%">
+</div>
+
+**Elementos del diagrama:**
+
+<div align="center">
+  <img src="img/KContainers.png" alt="KeyContenedores" width="100%">
+</div>
+
+### 4.6.3. Software Architecture Components Diagrams
+
+<div align="center">
+  <img src="img/DComponents.png" alt="DiagramaComponentes" width="100%">
+</div>
+
+**Elementos del diagrama:**
+
+<div align="center">
+  <img src="img/KComponents.png" alt="KeyComponentes" width="100%">
+</div>
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
