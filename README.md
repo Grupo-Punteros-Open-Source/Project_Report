@@ -1381,4 +1381,159 @@ Por otro lado, contamos con GitHub, una plataforma que sirve para alojar reposit
 
 Gracias a esta combinación, cada miembro del equipo podrá trabajar de forma remota desde su entorno de desarrollo integrado (IDE), manteniendo una copia del repositorio Git a través del repositorio en línea almacenado en GitHub. De esta manera, pueden realizar commits para enviar los cambios que hayan realizado.
 
+## 5.2. Landing Page, Services & Applications Implementation.
+### 5.2.1. Sprint 1
+#### 5.2.1.1. Sprint Planning 1.
+
+Se planeó el primer sprint a través de una reunión en Discord. Para ello, se hizo la siguiente tabla para registrar la información que se discutió.
+
+|**Sprint #**|Sprint 1|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-04-01|
+|Time|07:00 PM|
+|Location|Virtual|
+|Prepared by|Matos Fernandez, Christian Andre|
+|Attendees (to planning meeting)|<p>De la Piedra Quintanilla, Erwin Miquel</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>Espinoza Saenz,Christian Renato</p><p>Méndez Vargas, Sebastian Orlando</p><p>Matos Ferrnandez, Christian André</p><p></p>|
+|Sprint n - 1 Review Summary|No hubo sprint anterior|
+|Sprint n - 1 Retrospective Summary|No hubo sprint anterior|
+|**Sprint Goal & User Stories**||
+|Sprint 1 Goal|Realizar el Landing Page|
+|Sprint 1 Velocity|20|
+|Sum of Story Points|20|
+
+#### 5.2.1.2. Sprint Backlog 1.
+
+El propósito inicial de este sprint es completar el diseño del Landing Page estático. Además, estamos gestionando una tabla en Trello simultáneamente: [https://trello.com/b/ZEPqnriK/sprints](https://trello.com/b/ZEPqnriK/sprints)
+
+|Sprint #|Sprint 1|||||||
+| :- | :- | :- | :- | :- | :- | :- | :- |
+|User Story|Work-Item / Task|||||||
+|Id|Title|Id|Title|Description|Estimation (Hours)|Assigned To|Status (To-Do / In-Process / Review / Done)|
+|US23|NavBar |TS01|Implementación de Navbar|Se implementa el navbar de forma responsive.|2|Christian Matos|Done|
+|US24|Página de inicio|TS02|Implementación de página de inicio|Se implementa la página de inicio de forma responsive y con su archivo css correspondiente.|1|Christian Matos|Done|
+|US25|Sección “About us”|TS03|Implementación de sección Acerca De|Se implementa la página Acerca De, de forma responsive y con su archivo css correspondiente.|1|Miquel de la Piedra |Done|
+|US26|Sección “Community”|TS04|Implementación de sección Community|Se implementa la página Community, de forma responsive y con su archivo css correspondiente.|1|<p>Alvaro</p><p>Pinto</p>|Done|
+|US27|Sección “Contact\_Us”|TS05|Implementación de sección Contacto|Se implementa la página Contacto, de forma responsive y con su archivo css correspondiente.|2|Christan Espinoza|Done|
+|US28|Sección “Our App”|TS06|Implementación de sección Our App|Se implementa la página Our App, de forma responsive y con su archivo css correspondiente.|2|Sebastian Méndez|Done|
+|US29|Sección “Plans”|TS07|Implementación de sección Planes|Se implementa la página Planes, de forma responsive y con su archivo css correspondiente.|2|Christian Matos|Done|
+
+
+#### 5.2.1.3. Development Evidence for Sprint Review.
+
+Se realizaron los avances con los commits correspondientes en el repositorio de la siguiente forma.
+
+| Repository                                | Branch           | Commit Id | Commit Message                                       | Commit Message Body                                        | Commited on (Date) |
+|-------------------------------------------|------------------|-----------|------------------------------------------------------|-----------------------------------------------------------|---------------------|
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/index    | 2a03b8f   | feat: Navbar, index section added                   | Navbar, index section added                               | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | develop          | 483499e   | Merge pull request from Grupo-Punteros-Open-Source/feature/index | Navbar, index section added into develop                  | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/about_us| 8f1652e   | feat: about us section added                        | about us section added                                    | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | develop          | e8b20e9   | Merge pull request from Grupo-Punteros-Open-Source/feature/about_us | about us section added into develop                       | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/community| d246646   | feat: community section added                       | community section added                                   | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | develop          | ab007e5   | Merge pull request from Grupo-Punteros-Open-Source/feature/community | community section added into develop                      | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/contact_us | 35d3635 | feat: contact_us section added                      | contact_us section added                                  | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | develop          | 8b3817d   | Merge pull request from Grupo-Punteros-Open-Source/feature/contact_us | contact_us section added into develop                     | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/ourapp   | 35fd758   | feat: our app section added                         | our app section added                                     | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | develop          | 2a8ae52   | Merge pull request from Grupo-Punteros-Open-Source/feature/ourapp | our app section added into develop                        | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | feature/plans   | cc8aac1   | feat: plans section added                           | plans section added                                       | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | develop          | 61dd05f   | Merge pull request from Grupo-Punteros-Open-Source/feature/plans | plans section added into develop                         | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | main             | 16fa397   | Merge pull request from Grupo-Punteros-Open-Source/develop | upload Landing Page into main                             | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | main             | 000b74c   | fix: fixed languaje contact_us                      | fixed languaje contact_us                                 | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | main             | df835cc   | fix: fixed langueje contact_us on button            | fixed langueje contact_us on button                        | 11/04/2024         |
+| Grupo-Punteros-Open-Source/Landing-Page  | main             | 7588f93   | fix: fixed postions on about_us.css, our_app.css, plans.css | fixed postions on about_us.css, our_app.css, plans.css | 11/04/2024         |
+
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+
+#### 5.2.1.5. Execution Evidence for Sprint Review.
+
+En esta sección se mostrará el progreso alcanzado durante el primer sprint, centrado en la creación del Landing Page estático. Como parte de esto, se ha creado un video que incluye la explicación y las capturas que ilustran la página web.
+
+
+URL del video: [upc-pre-202401-si729-sw51-vehicletec-aboutthe-team-sprint-1.mp4](upc-pre-202401-si729-sw51-vehicletec-aboutthe-team-sprint-1.mp4)
+
+<img src="img/evidence.png" alt="Logo del servicio" width="100%">
+
+La barra de navegación y la página de inicio se desarrollaron inicialmente debido a su importancia crucial para la navegación del sitio. Además, son responsivos y pueden ajustarse a diferentes tamaños de pantalla.
+
+<img src="img/nav_index.png" alt="Logo del servicio" width="100%">
+
+<img src="img/responsive_index.png" alt="Logo del servicio" width="50%">
+
+Sección About Us:
+
+<img src="img/about_us.png" alt="Logo del servicio" width="100%">
+
+<img src="img/responsive_about_us.png" alt="Logo del servicio" width="50%">
+
+Sección Community:
+
+
+<img src="img/community.png" alt="Logo del servicio" width="100%">
+
+<img src="img/responsive_community.png" alt="Logo del servicio" width="50%">
+
+Sección Planes:
+
+<img src="img/plans.png" alt="Logo del servicio" width="100%">
+
+<img src="img/responsive_plans.png" alt="Logo del servicio" width="50%">
+
+Sección Contact Us:
+
+<img src="img/contact_us.png" alt="Logo del servicio" width="100%">
+
+<img src="img/responsive_contact_us.png" alt="Logo del servicio" width="50%">
+
+Sección Our App:
+
+<img src="img/ourapp.png" alt="Logo del servicio" width="100%">
+
+<img src="img/responsive_ourapp.png" alt="Logo del servicio" width="50%">
+
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este primer sprint, no hemos trabajado con servicios web, ya que nos hemos concentrado exclusivamente en la creación del Landing Page estático. Es por ello que en esta ocasión, no se trabajó la documentación relacionada con el uso de servicios web.
+
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
+Después de completar los commits y lanzar la versión de este sprint, procedemos con el despliegue. En la primera iteración, implementamos el despliegue del Landing Page estático a través de GitHub Pages. Esto implicó acceder a la configuración del repositorio y dirigirnos a la sección de Páginas.
+
+<img src="img/g1.png" alt="Logo del servicio" width="100%">
+
+En la sección "Branch", seleccionamos la rama principal, que es donde hemos realizado el lanzamiento del sprint, y luego guardamos los cambios.
+
+<img src="img/g2.png" alt="Logo del servicio" width="100%">
+
+Ahora solo nos toca aguardar a que GitHub genere la página web y nos proporcione el enlace para acceder y visualizar el Landing Page estático.
+
+<img src="img/g3.png" alt="Logo del servicio" width="100%">
+
+URL deployment Landing Page: [https://grupo-punteros-open-source.github.io/Landing_Page/index.html](https://grupo-punteros-open-source.github.io/Landing_Page/index.html)
+
+<img src="img/g4.png" alt="Logo del servicio" width="100%">
+
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Durante la implementación del Landing Page, todos los miembros del equipo realizaron commits relacionados con la rama de características en la que estaban trabajando.
+
+<img src="img/i1.png" alt="Logo del servicio" width="100%">
+<img src="img/i2.png" alt="Logo del servicio" width="100%">
+
+Nos dividimos de la siguiente forma para trabajar en el Landing Page:
+
+
+-Christian Matos: Navbar , Home y Plans
+-Miquel de la Piedra: About Us
+-Alvaro Pinto: Community
+-Christian Espinoza: Contact_Us
+-Sebastian Mendez: Our App
+
+<img src="img/i3.png" alt="Logo del servicio" width="100%">
+
+
+En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop y feature, en ese orden.
+
+<img src="img/i4.png" alt="Logo del servicio" width="100%">
 
