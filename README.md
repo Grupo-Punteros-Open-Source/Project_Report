@@ -685,14 +685,14 @@ Entrevistado: Felipe Pinto Velaochaga
 Datos del Entrevistado:
 
 - Edad: 41
-- Distrito:
+- Distrito: Ate
 
 Link del Video de la Entrevista:[link](link)
 
-- Minuto de Inicio:
+- Minuto de Inicio: 
 - Minuto de Fin: 
 
-<img src="img/Startup Logo.jpg" alt="Logo Startup" width="100%">
+<img src="img/CapturaEntrevistaAlvaro.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
 Resumen de la Entrevista:
 
