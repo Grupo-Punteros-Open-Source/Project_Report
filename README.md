@@ -1841,6 +1841,20 @@ Se realizaron los avances con los commits correspondientes en el repositorio de 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
+Se realizaron los acceptance tests para las historias de usuario trabajadas y se registraron en el repositorio de la siguiente forma.
+
+URL de repositorio: [https://github.com/Grupo-Punteros-Open-Source/Acceptance_Tests](https://github.com/Grupo-Punteros-Open-Source/Acceptance_Tests)
+
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|Grupo-2-Open Source/Acceptance-Tets|main|d30491d|<p>feat: feature us23 added</p><p></p>|feature us23 added|11/04/2024|
+|Grupo-2-Open Source/Acceptance-Tets|main|53a7cf7|feat: added feature file for US25|added feature file for US25|11/04/2024|
+|Grupo-2-Open Source/Acceptance-Tets|main|3075f2e|feat: added feature file for US28|added feature file for US28|11/04/2024|
+|Grupo-2-Open Source/Acceptance-Tets|main|771bbb5|feat: feature us26 added|feature us26 added|11/04/2024|
+|Grupo-2-Open Source/Acceptance-Tets|main|2ee9c63|feat: added feature file for US27|added feature file for US27|11/04/2024|
+|Grupo-2-Open Source/Acceptance-Tets|main|0444b75|feat: added feature file for US24|added feature file for US24|11/04/2024|
+|Grupo-2-Open Source/Acceptance-Tets|main|056c110|feat: added feature file for US29|added feature file for US29|11/04/2024|
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
