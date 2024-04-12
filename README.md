@@ -1129,7 +1129,6 @@ La gestión del Product Backlog se lleva a cabo mediante la plataforma Pivotal T
 |30|US15|Acceso simple y rápido al chat con los clientes|Como administrador de taller quiero poder tener una comunicación activa para informarle de cualquier tipo de suceso o nuevo problema que pueda surgir durante la reparación o revisión de su vehículo. Además de la posibilidad de incluir archivos como imágenes o multimedia.|3|
 |31|US16|Recompensas por fidelidad al taller|Como administrador de taller quiero retener a una buena clientela y que acudan únicamente a nuestros servicios.|3|
 |32|US14|Marketing Digital|Como administrador de taller quiero poder compartir con mis clientes mis ofertas y otros anuncios de la empresa para atraerlos.|2|
-
   
 # Capítulo IV: Product Design.
 ## 4.1 Style Guidelines
@@ -1160,6 +1159,35 @@ Se hará uso de un espaciado pertinente para no abrumar al cliente con textos ab
 
 **Tono de comunicación:**
 El tono usado en el proyecto será del tipo formal, además de que se usará un lenguaje respetuoso, con el objetivo de mantener una comunicación estrictamente profesional con el cliente. Sin embargo, en algunas secciones se usará también un tono entusiasta o sereno para atraer al cliente a probar el producto.
+
+### 4.1.2 General Style Guidelines
+
+**Selección de colores:**
+En nuestra elección de colores, nos centramos en garantizar la legibilidad y la estética atractiva de nuestra página de inicio. Utilizamos el color #002e43 como primario para resaltar elementos importantes, mientras que el color #406378 se reserva para subtítulos y otras secciones de menor relevancia. El tono #6a90a9 se emplea en el cuerpo del texto y en otras áreas para contrastar con los títulos y subtítulos. Por último, los colores #b2c3d3 y #d7dce0 se destinan al fondo. Esta selección de colores se utiliza de manera estratégica para presentar una jerarquía visual clara y fácil de entender.
+
+<div align="center">
+  <img src="img/paletaColores.png" alt="paletaColores" width="50%">
+</div>
+
+**Branding:**
+Para establecer una identidad sólida y destacada en el mercado, hemos creado la marca VEHICUTECH INNOVATIONS. Como parte de nuestro branding, hemos diseñado un logo que nos permitirá una identificación clara y memorable.
+
+<div align="center">
+  <img src="img/logoVehicuTech.png" alt="logoVehicuTech" width="50%">
+</div>
+
+**Tipografía:**
+Optamos por la fuente “Reboto Mono” para dar un toque distintivo a nuestra marca. Esta fuente ofrece una amplia variedad de estilos y se convertirá en un símbolo de nuestra identidad visual, transmitiendo información de manera sólida y reconocible. Además, su uso contribuirá a un diseño cohesivo y equilibrado que refuerce nuestro posicionamiento en el mercado objetivo.
+
+<div align="center">
+  <img src="img/robotoMonoFont.png" alt="robotoMonoFont" width="100%">
+</div>
+
+**Espaciado:**
+Nos aseguraremos de utilizar un espaciado adecuado para evitar saturar al cliente con textos densos que no contribuyan a la estética. Un espaciado bien utilizado no solo mejora la legibilidad, sino que también crea una impresión de limpieza y modernidad en nuestra página, uno de nuestros objetivos principales.
+
+**Tono de comunicación:**
+Adoptaremos un tono formal y respetuoso en nuestra comunicación con los clientes, manteniendo un nivel profesional en todo momento. Sin embargo, en ciertas secciones, incorporaremos un tono entusiasta o sereno para generar interés en nuestro producto y atraer a los clientes a probarlo.
 
 ## 4.2 Information Architecture
 ### 4.2.1 Organization Systems:
@@ -1193,6 +1221,94 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
 <div align="center">
   <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
 </div>
+
+## 4.3 Landing Page UI Design.
+### 4.3.1. Landing Page Wireframe.
+
+El Landing Page está compuesto por seis secciones: Inicio, Sobre Nosotros, Comunidad, Planes, Contáctanos y Nuestra Aplicación. En términos de diseño inclusivo, las imágenes están acompañadas de descripciones alternativas y los colores se han seleccionado cuidadosamente para garantizar un contraste adecuado que resalte tanto los textos como las imágenes. Se ha prestado atención al tamaño de los títulos y se ha limitado la cantidad de texto para mantener la atención del usuario y evitar la monotonía. Además, se ha incorporado una barra de navegación para facilitar la navegación del usuario por la página web, junto con un pie de página al final de la misma. 
+
+La sección de Inicio presenta una frase que encapsula el propósito de nuestra startup y la aplicación.
+
+<div align="center">
+  <img src="img/wireframe_index.png" alt="Wireframe Index" width="100%">
+</div>
+
+Página Sobre nosotros: Contiene información nuestra startup
+
+<div align="center">
+  <img src="img/wireframe_about_us.png" alt="Wireframe About Us" width="100%">
+</div>
+
+Página Sobre Community: Contiene reseñas de supuestos usuarios de la aplicación
+
+<div align="center">
+  <img src="img/wireframe_community.png" alt="Wireframe Community" width="100%">
+</div>
+
+Página Sobre Plans: Contiene los planes de suscripción de la aplicación
+
+<div align="center">
+  <img src="img/wireframe_plans.png" alt="Wireframe Plans" width="100%">
+</div>
+
+Página Sobre Plans: Contiene medios de contacto y formulario para comunicarte con nuestro soporte
+
+<div align="center">
+  <img src="img/wireframe_contact_us.png" alt="Wireframe Contact Us" width="100%">
+</div>
+
+Página Sobre Our App: En donde invitamos al usuario a visitar nuestra aplicacion
+
+<div align="center">
+  <img src="img/wireframe_ourapp.png" alt="Wireframe Our App" width="100%">
+</div>
+
+### 4.3.2. Landing Page Mock-up.
+
+Basándonos en los Wireframes, hemos adoptado una estructura uniforme para todas las páginas, integrando la paleta de colores definida, la tipografía seleccionada y otros recursos como las imágenes de fondo.
+
+Home:
+
+<div align="center">
+  <img src="img/mocks-up_index.png" alt="Mocks-up Home" width="100%">
+</div>
+
+About Us:
+
+<div align="center">
+  <img src="img/mocks-up_about_us.png" alt="Mocks-up About Us" width="100%">
+</div>
+
+Community:
+
+<div align="center">
+  <img src="img/mocks-up_community.png" alt="Mocks-up Community" width="100%">
+</div>
+
+Plans:
+
+<div align="center">
+  <img src="img/mocks-up_plans.png" alt="Mocks-up Plans" width="100%">
+</div>
+
+Contact Us:
+
+<div align="center">
+  <img src="img/contact_us.png" alt="Mocks-up Contact Us" width="100%">
+</div>
+
+Our App:
+
+<div align="center">
+  <img src="img/mocks-up_ourapp.png" alt="Mocks-up Our App" width="100%">
+</div>
+
+## 4.4. Web Applications UX/UI Design.
+### 4.4.1. Web Applications Wireframes.
+### 4.4.2. Web Applications Wireflow Diagrams.
+### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications User Flow Diagrams.
+## 4.5. Web Applications Prototyping.
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
