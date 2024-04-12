@@ -399,9 +399,9 @@ Los técnicos y administradores de automotrices experimentarán una mayor facili
 
 Se han identificado dos segmentos objetivos:
 
-**Técnicos/Administradores de Automotrices:** Este segmento está compuesto por profesionales encargados de la gestión de clientes y registros dentro de una automotriz. Actúan como representantes de la empresa automotriz en la aplicación y tienen acceso privilegiado a funciones avanzadas para la manipulación y gestión de registros.
+**Administradores de Taller:** Este segmento está compuesto por profesionales encargados de la gestión de clientes y registros dentro de una automotriz. Actúan como representantes de la empresa automotriz en la aplicación y tienen acceso privilegiado a funciones avanzadas para la manipulación y gestión de registros.
 
-**Clientes de Automotrices:** Este segmento incluye a los propietarios de vehículos que visitan las automotrices. Son los usuarios finales de la aplicación y se encargan de proporcionar información relevante para los registros. Además, reciben mensajes y notificaciones dentro de la aplicación relacionados con el estado de sus vehículos y otros servicios ofrecidos por la automotriz.
+**Propietarios de Vehiculos:** Este segmento incluye a los propietarios de vehículos que visitan las automotrices. Son los usuarios finales de la aplicación y se encargan de proporcionar información relevante para los registros. Además, reciben mensajes y notificaciones dentro de la aplicación relacionados con el estado de sus vehículos y otros servicios ofrecidos por la automotriz.
 
 # Capítulo II: Requirements Elicitation & Analysis.
 ## 2.1 Competidores
@@ -659,7 +659,7 @@ Preguntas para: Propietarios de vehículos
 9. ¿Cómo cree que una aplicación móvil puede ayudarle a mantener su vehículo en buen estado y prolongar su vida útil?
 10. ¿Qué características de seguridad considera importantes al utilizar una aplicación web para el mantenimiento de su vehículo?
 
-Preguntas para: Técnicos y administradores del taller
+Preguntas para: Administradores del taller
 
 1. ¿Qué métodos utiliza actualmente para gestionar las operaciones del taller?
 2. ¿Qué desafíos enfrenta al coordinar las citas de los clientes y el trabajo en el taller?
@@ -839,7 +839,7 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
   <img src="img/UserPersona1.png" alt="UserPersona1" width="100%">
 </div>
 
-**Segmento Objetivo: Gerente de Taller**
+**Segmento Objetivo: Administrador de Taller**
 <div align="center">
   <img src="img/UserPersona2.png" alt="UserPersona2" width="100%">
 </div>
@@ -907,7 +907,7 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
   <img src="img/UserJourneyMapping1.JPG" alt="UserPersona1" width="100%">
 </div>
 
-**Segmento Objetivo: Gerente de Taller**
+**Segmento Objetivo: Administrador del Taller**
 <div align="center">
   <img src="img/UserJourneyMapping2.JPG" alt="UserPersona2" width="100%">
 </div>
@@ -920,7 +920,7 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
   <img src="img/EmpathyMapping1.JPG" alt="EmpathyMapping1" width="100%">
 </div>
 
-**Segmento Objetivo: Gerente de Taller**
+**Segmento Objetivo: Administrador del Taller de Taller**
 <div align="center">
   <img src="img/EmpathyMapping2.JPG" alt="EmpathyMapping2" width="100%">
 </div>
@@ -982,7 +982,7 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
   - Solicitar Servicios: Acción de pedir una revisión técnica o mantenimiento para su vehículo.
   - Comunicarse con la Empresa: Interacción para obtener información sobre servicios, precios, horarios, etc.
 
-**Entidad: Técnico y administrador del taller**
+**Entidad: Administrador del taller**
 
 - Definición: Empresa que ofrece servicios relacionados con vehículos automotores.
 - Atributos:
@@ -1393,7 +1393,11 @@ Por otro lado, para el segmento de administradores de talleres, se prefiere un e
   <img src="img/f15_wireframes.png" alt="Wireframes" width="100%">
 </div>
 
+Figma: [https://www.figma.com/file/JeBZe5xfEIFAsovY2qrNH9/Web-Application?type=design&node-id=207%3A8737&mode=design&t=4pVz3Fpl7HF59K9W-1](https://www.figma.com/file/JeBZe5xfEIFAsovY2qrNH9/Web-Application?type=design&node-id=207%3A8737&mode=design&t=4pVz3Fpl7HF59K9W-1)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+Figma: [https://www.figma.com/file/DdBGsVPqioCdDEJ7Ol7ZO8/Untitled?type=design&node-id=0%3A1&mode=design&t=I0ZOgrRyiWo4NXwf-1](https://www.figma.com/file/DdBGsVPqioCdDEJ7Ol7ZO8/Untitled?type=design&node-id=0%3A1&mode=design&t=I0ZOgrRyiWo4NXwf-1)
 
 Propietarios de Vehiculo:
 
@@ -1427,18 +1431,238 @@ Administradores del Taller:
   <img src="img/u7_wireframe.png" alt="User Goal 7" width="100%">
 </div>
 
+<div align="center">
+  <img src="img/u8_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u9_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u10_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u11_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u12_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u13_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u14_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u14_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u15_wireframe.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u16_wireframe.png" alt="User Goal 8" width="100%">
+</div>
 
 
 ### 4.4.2. Web Applications Mock-ups.
-### 4.4.3. Web Applications User Flow Diagrams.
-## 4.5. Web Applications Prototyping.
 
-**Link del video:**
+Se empleó la estructura definida en los wireframes como base para cada una de las vistas, pero se adaptó al estilo establecido en el styles guidelines.
 
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte
+Propietarios de Vehiculos:
 
 <div align="center">
-  <img src="img/CapturaVideoWebApplicationPrototyping.png" alt="CapturaVideoWebApplicationPrototyping" width="75%">
+  <img src="img/f1_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+
+<div align="center">
+  <img src="img/f2_mocsk-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f3_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+Administradores de Taller:
+
+<div align="center">
+  <img src="img/f5_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f6_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f7_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f8_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f9_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f10_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f11_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f12_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f13_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f14_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f15_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f16_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f17_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f18_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f19_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f20_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f21_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f22_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f23_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f24_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f25_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f26_mocks-up.png" alt="Mocks-up" width="100%">
+</div>
+
+Figma: [https://www.figma.com/file/JeBZe5xfEIFAsovY2qrNH9/Web-Application?type=design&node-id=207%3A8737&mode=design&t=4pVz3Fpl7HF59K9W-1](https://www.figma.com/file/JeBZe5xfEIFAsovY2qrNH9/Web-Application?type=design&node-id=207%3A8737&mode=design&t=4pVz3Fpl7HF59K9W-1)
+
+### 4.4.3. Web Applications User Flow Diagrams.
+
+Figma: [https://www.figma.com/file/DdBGsVPqioCdDEJ7Ol7ZO8/Untitled?type=design&node-id=0%3A1&mode=design&t=I0ZOgrRyiWo4NXwf-1](https://www.figma.com/file/DdBGsVPqioCdDEJ7Ol7ZO8/Untitled?type=design&node-id=0%3A1&mode=design&t=I0ZOgrRyiWo4NXwf-1)
+
+Propietarios de Vehiculos:
+
+<div align="center">
+  <img src="img/u1_mocks-up.png" alt="User Goal 1" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u2_mocks-up.png" alt="User Goal 2" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u3_mocks-up.png" alt="User Goal 3" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u4_mocks-up.png" alt="User Goal 4" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u5_mocks-up.png" alt="User Goal 5" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u6_mocks-up.png" alt="User Goal 6" width="100%">
+</div>
+
+Administradores de Taller:
+
+<div align="center">
+  <img src="img/u7_mocks-up.png" alt="User Goal 7" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u8_mocks-up.png" alt="User Goal 8" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u9_mocks-up.png" alt="User Goal 9" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u10_mocks-up.png" alt="User Goal 10" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u11_mocks-up.png" alt="User Goal 11" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u12_mocks-up.png" alt="User Goal 12" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u13_mocks-up.png" alt="User Goal 13" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u14_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u15_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u16_mocks-up.png" alt="User Goal 14" width="100%">
+</div>
+
+## 4.5. Web Applications Prototyping.
+
+Basándonos en los flujos de usuario definidos previamente, desarrollamos el prototipo funcional utilizando Figma. Se detalla el funcionamiento en el video adjunto.
+
+**Link del video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte)
+
+<div align="center">
+  <img src="img" alt="CapturaVideoWebApplicationPrototyping" width="75%">
 </div>
 
 ## 4.6. Domain-Driven Software Architecture
