@@ -1214,14 +1214,39 @@ Usaremos la organización visual de contenido de forma jerárquica para el inici
   <img src="img/labelingWebDesktop2.png" alt="labelingWebDesktop2" width="100%">
 </div>
 
-### 4.2.3 Searching Systems
+### 4.2.3. SEO Tags and Meta Tag
+A continuación, mostraremos las etiquetas que representarán el contenido presentado tanto en nuestra aplicación web como en nuestra página de inicio. Estas etiquetas facilitarán la identificación y localización de AutoPro Tracker.
+
+Landing Page:
+
+**Title:**  AutoPro Tracker
+
+**Description:**  AutoPro Tracker- VehicleTec Oficial Landing Page
+
+**Keywords:** Inventory,workshops,service,mechanics,tracking.
+
+**Authors:** AutoPro Tracker team
+
+Web application:
+
+**Title:**  AutoPro Tracker
+
+**Description:**  AutoPro Tracker- VehicleTec Oficial Web Site
+
+**Keywords:** Workshops, mechanics, products, inventory, tracking, service, technicians,warehousing,vehicles,repairs.
+
+**Authors:** AutoPro Tracker team
+
+
+ 
+### 4.2.4. Searching Systems
 Se  implementaron dos funcionalidades de búsqueda similares con el objetivo de mejorar la experiencia de usuario al facilitar la búsqueda de información deseada.
 
 El primero de estos sistemas se encuentra en la sección de "Invoices" de la aplicación. Aquí, los usuarios tienen acceso a una lista completa de todas las facturas emitidas. Para agilizar la localización de una factura específica, se ha incorporado una barra de búsqueda que permite introducir términos clave para encontrar rápidamente la factura deseada.
 
 Por otro lado, el segundo sistema de búsqueda se encuentra en la sección de "Vehicles". En esta sección, los usuarios pueden buscar vehículos utilizando diversos criterios. Además de la búsqueda por el nombre del propietario, se han implementado filtros adicionales que permiten refinar la búsqueda según la marca, modelo, número de reparaciones y servicios recientes del vehículo. Esta funcionalidad proporciona a los usuarios una manera eficiente de encontrar información específica sobre los vehículos registrados en la plataforma.
 
-### 4.2.4. Navigation Systems
+### 4.2.5. Navigation Systems
 Para facilitar la navegación del usuario dentro de la aplicación, proporcionamos un menú desplegable intuitivo que le permite moverse entre las distintas áreas de la misma:
 
 -Home: Página de inicio del menú.
