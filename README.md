@@ -1294,7 +1294,7 @@ Plans:
 Contact Us:
 
 <div align="center">
-  <img src="img/contact_us.png" alt="Mocks-up Contact Us" width="100%">
+  <img src="img/mocks-up_contact_us.png" alt="Mocks-up Contact Us" width="100%">
 </div>
 
 Our App:
@@ -1305,7 +1305,106 @@ Our App:
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+Según los resultados de las encuestas, hemos identificado que el segmento objetivo, compuesto por propietarios de vehículos, muestra una preferencia por las plataformas móviles que ofrecen funcionalidades como inicio de sesión, menú desplegable, chat con el taller, lista de vehículos, notificaciones, estado del vehículo y tareas pendientes de mantenimiento, así como una lista de las piezas necesarias para su vehículo.
+
+<div align="center">
+  <img src="img/f1_wirframes.png" alt="Wireframes" width="100%">
+</div>
+<div align="center">
+  <img src="img/f2_wireframes.png" alt="Wireframes" width="100%">
+</div>
+<div align="center">
+  <img src="img/f3_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+Por otro lado, para el segmento de administradores de talleres, se prefiere un entorno de escritorio en el que hemos integrado funcionalidades como la gestión de facturas, gestión de clientes, chats con clientes, gestión de vehículos de los clientes, inventario y, por último, planes de suscripción.
+
+<div align="center">
+  <img src="img/f4_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f5_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f6_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f7_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f8_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+
+<div align="center">
+  <img src="img/f9_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f10_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f11_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f12_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f13_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f14_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/f15_wireframes.png" alt="Wireframes" width="100%">
+</div>
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+Propietarios de Vehiculo:
+
+<div align="center">
+  <img src="img/u1_wireframe.png" alt="User Goal 1" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u2_wireframe.png" alt="User Goal 2" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u3_wireframe.png" alt="User Goal 3" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u4_wireframe.png" alt="User Goal 4" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u5_wireframe.png" alt="User Goal 5" width="100%">
+</div>
+
+<div align="center">
+  <img src="img/u6_wireframe.png" alt="User Goal 6" width="100%">
+</div>
+
+Administradores del Taller:
+
+<div align="center">
+  <img src="img/u7_wireframe.png" alt="User Goal 7" width="100%">
+</div>
+
+
+
 ### 4.4.2. Web Applications Mock-ups.
 ### 4.4.3. Web Applications User Flow Diagrams.
 ## 4.5. Web Applications Prototyping.
