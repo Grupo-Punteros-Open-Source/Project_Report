@@ -1686,7 +1686,7 @@ Basándonos en los flujos de usuario definidos previamente, desarrollamos el pro
 **Link del video:** [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213384_upc_edu_pe/ETtTe3PSDbtCiRyqYnvD1lUBntkByOXEN2mqUH6uA-IO_Q?e=eDpSte)
 
 <div align="center">
-  <img src="img" alt="CapturaVideoWebApplicationPrototyping" width="75%">
+  <img src="img/CapturaVideoWebApplicationPrototyping.png" alt="CapturaVideoWebApplicationPrototyping" width="75%">
 </div>
 
 ## 4.6. Domain-Driven Software Architecture
