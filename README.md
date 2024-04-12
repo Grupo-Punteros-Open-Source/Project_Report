@@ -2264,5 +2264,5 @@ Mollahosseini, A. (2021). Make your Gherkin Specifications More Readable. BDD Fr
 
 Videos de exposiciones
 
-- Exposición TB1: []()
+- Exposición TB1: [upc-pre-202401-si729-sw51-vehicutech-expo-tb1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214162_upc_edu_pe/EWF6_Wqiy09AkybA6RzECFYB9vIu5NzYTP6O9TJeaVRlIA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=gyJdEF)
 
