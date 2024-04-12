@@ -692,7 +692,7 @@ Link del Video de la Entrevista:[link](link)
 - Minuto de Inicio: 
 - Minuto de Fin: 
 
-<img src="img/CapturaEntrevistaAlvaro.png" alt="CapturaEntrevistaAlvaro" width="100%">
+<img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
 Resumen de la Entrevista:
 
