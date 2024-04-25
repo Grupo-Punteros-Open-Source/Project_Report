@@ -72,13 +72,27 @@ Abril 2024
 </table>
 
 # **Project Report Collaboration Insights**
-URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](https://github.com/Grupo-Punteros-Open-Source/Project_Report)
 
-Commits en reporte avance TB1
+El informe del proyecto se encuentra alojado en el repositorio de GitHub del equipo. El URL del repositorio es: [https://github.com/Grupo-Punteros-Open-Source](https://github.com/Grupo-Punteros-Open-Source/Project_Report)
+
+Durante el desarrollo del proyecto, el equipo ha trabajado activamente en la elaboración del informe en varias etapas. Las actividades principales incluyen:
+
+- Investigación: Se realizó una investigación exhaustiva sobre el tema del proyecto para recopilar información relevante y datos necesarios para el informe.
+
+- Redacción: Se redactaron los diferentes apartados del informe, incluyendo la introducción, los antecedentes, la metodología, los resultados y las conclusiones.
+
+- Revisión y Edición: Se llevaron a cabo revisiones periódicas del informe para mejorar la claridad, coherencia y precisión del contenido.
+
+
+Commits en reporte avance TB1:
 
 <div align="center">
   <img src="img/commits.png" alt="Commits" width="100%">
+  <img src="img/insights2.png" alt="Insights" width="100%">
+  <img src="img/insights.png" alt="Insights" width="100%">
 </div>
+
+
 
 
 # **Tabla de Contenido**
