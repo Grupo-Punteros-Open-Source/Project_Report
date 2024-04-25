@@ -834,8 +834,6 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 ### 2.2.3 Análisis de entrevistas.
 <u>**Segmento Objetivo: Administrador de taller**</u>
 
-Entiendo, quieres identificar los puntos en común y las diferencias entre las entrevistas de Felipe Pinto y Sasha Chávez sin asignarles un puntaje específico. Aquí está el análisis:
-
 **Coincidencias:**
 
 1. **Reconocimiento de la necesidad de actualización tecnológica:** Tanto Felipe como Sasha reconocen que las herramientas tecnológicas actuales en sus talleres son anticuadas y limitadas en eficiencia.
