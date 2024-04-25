@@ -705,7 +705,7 @@ Datos del Entrevistado:
 Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 00:03
-- Minuto de Fin: 05:23
+- Duración: 6:23 minutos
 
 <img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
@@ -729,7 +729,7 @@ Datos del entrevistado:
 Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 05:24
-- Minuto de Fin: 12:46
+- Duración: 8:10 minutos
 
 <img src="img/entrevista2.png" alt="Entrevista" width="100%">
 
@@ -748,12 +748,12 @@ Entrevistado: Alfredo Baca Lara
 Datos del Entrevistado:
 
 - Edad: 64 años
-- Distrito: Surco
+- Distrito: Surco 
 
 Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 12:48
-- Minuto de Fin: 22:05
+- Duración: 9:13 minutos
 
 <img src="img/entrevista3.png" alt="Entrevista" width="100%">
 
@@ -777,7 +777,7 @@ Datos del Entrevistado:
 Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 28:40
-- Minuto de Fin: 34:02
+- Duración: 6:10 minutos
 
 <img src="img/entrevista christiane.png" alt="Entrevista" width="100%">
 
@@ -799,7 +799,7 @@ Entrevistado: Jorge Quiñones
 Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 34:03
-- Minuto de Fin: 37:55
+- Duración: 3:53 minutos
 
 <img src="img/entrevista5.png" alt="Entrevista" width="100%">
 
@@ -822,7 +822,7 @@ Entrevistado: Leonardo Vargas
 Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 22:12
-- Minuto de Fin: 28:39
+- Duración: 6:29 minutos
 
 <img src="img/entrevista6.PNG" alt="Entrevista" width="100%">
 
