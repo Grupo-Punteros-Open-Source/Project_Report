@@ -797,7 +797,9 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen:
 
-Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
+Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años con su automóvil Kia, suele frecuentar su vehículo diariamente para desplazarse. En la entrevista, se evidenció que tenía una personalidad tranquila mientras compartía sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil.
+
+Cuando se trató el tema de la aplicación móvil para el mantenimiento del vehículo, Sebastián mencionó que espera que esta aplicación funcione de manera óptima en su celular Galaxy. Además, compartió que suele frecuentar Firefox para navegar en su celular y que tiene una preferencia por la marca de gasolina Primax. Respecto a las características deseadas en la aplicación, destacó la necesidad de funcionalidades intuitivas que le permitan registrar y programar mantenimientos de manera eficiente, así como características de seguridad que protejan su información personal y la de su vehículo.
 
 <u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
@@ -819,7 +821,7 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen:
 
-Jorge Quñones, estudiante universitario, mantiene su vehículo cada 5 o 6 meses, priorizando talleres con buena reputación y atención. A veces olvida los servicios por falta de recordatorios, pero valora el mantenimiento para prolongar la vida útil del auto y su posible valor de reventa. Considera esenciales notificaciones de kilometraje, historial detallado de servicios, y anhela herramientas como chat de soporte y diagnósticos. Busca una aplicación web que le recuerde y organice sus servicios programados junto con toda la información relacionada con sus vehículos y mantenimiento.
+Jorge Quiñones, un estudiante universitario de 22 años en Lima, Perú, se destaca por su interés en la ingeniería mecánica y su habilidad para entender conceptos técnicos relacionados con automóviles. Él prefiere marcas reconocidas en el sector automotriz y se deja influenciar por recomendaciones de amigos y expertos en mecánica. Jorge utiliza predominantemente aplicaciones móviles debido a su conveniencia y accesibilidad, confiando en su teléfono celular para la gestión diaria de tareas, incluyendo el mantenimiento de su vehículo. Sus objetivos principales incluyen mantener su automóvil en óptimas condiciones con el menor esfuerzo posible, pero se frustra con la falta de herramientas digitales que simplifiquen la organización de su mantenimiento automotriz y la gestión de recordatorios de servicios programados.
 
 
 <u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
@@ -2019,7 +2021,9 @@ Durante el desarrollo proyecto, se emplearán diversos lenguajes para la creaci�
 
 **HTML**
 
-Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más.
+Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más. 
+
+Mas Información en: [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 
 - Incluir la declaración del tipo de documento en la primera línea con `<!DOCTYPE html>`, manteniendo la estructura básica del HTML con `<html>`, `<head>`, `<body>`.
 
@@ -2035,6 +2039,8 @@ Es el idioma que se usa para organizar el contenido de una página web, proporci
 
 Es el idioma empleado para establecer el diseño de una página web, incluyendo los estilos, tipos de letra, colores, contenedores y otros aspectos visuales.
 
+Mas Información en: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
 - Utilizar la indentación de manera adecuada.
 - Utilizar nombres cortos y en minúsculas para los elementos.
 - Especificar los colores en código hexadecimal (por ejemplo, #024A86).
@@ -2045,25 +2051,33 @@ Es el idioma empleado para establecer el diseño de una página web, incluyendo 
 
 Es el idioma de programación más popular en el ámbito del desarrollo web, ya que posibilita la creación de páginas interactivas con animaciones atractivas para los usuarios.
 
+Mas Información en: [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
+
 - Utilizar nombres breves y apropiados para las variables y funciones.
 - Agregar comentarios para explicar la función de cada parte del código en la página web.
 - Asegurarse de poner un punto y coma al final de cada línea de código.
 - Definir constantes en lugar de variables cuando su valor no cambiará.
 - Emplear operadores de comparación estrictos en lugar de comparaciones regulares siempre que sea factible (por ejemplo, usar === en lugar de ==).
 
-**C#**
+**TypeScript**
 
-Es un idioma de programación ampliamente empleado en diversas áreas, incluyendo la programación web, móvil, y otros campos.
+TypeScript es un lenguaje de programación desarrollado por Microsoft que extiende y agrega funcionalidades a JavaScript. Proporciona características adicionales como tipado estático, lo que significa que puedes definir tipos para variables, parámetros de funciones y estructuras de datos.
 
-- Utilizar CamelCase para nombrar las variables, funciones y clases, asegurándose de que sean significativos y breves.
-- Emplear comillas dobles ("") para delimitar las cadenas de texto.
-- Aplicar una correcta indentación para mantener un código coherente y ordenado.
-- Incluir comentarios en cada bloque de código para explicar su funcionalidad.
-- Definir constantes para variables cuyos valores permanecerán constantes a lo largo del código.
+Mas Información en: [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+- Uso de comillas dobles para cadenas de texto: Las cadenas de texto en TypeScript generalmente se delimitan con comillas dobles (""). Por ejemplo: let mensaje: string = "Hola Mundo";
+
+- Indentación correcta: Mantener una correcta indentación es importante para mantener el código organizado y legible. Se recomienda indentar usando dos o cuatro espacios.
+
+- Comentarios explicativos: Es una buena práctica incluir comentarios en el código para explicar la funcionalidad de diferentes partes del programa. Esto ayuda a otros programadores (y a ti mismo en el futuro) a entender más fácilmente qué hace cada parte del código.
+
+- Uso de constantes: En TypeScript, puedes definir constantes utilizando la palabra clave const para valores que no cambiarán a lo largo del código. Por ejemplo: const PI: number = 3.14159;
 
 **Gherkin**
 
 Es el lenguaje utilizado para elaborar casos de prueba en función de los requerimientos establecidos por la empresa. Su aplicación se lleva a cabo durante el proceso de pruebas o testing.
+
+Mas Información en: [Make your Gherkin Specifications More Readable](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
 
 - Dividir el bloque de Given When Then en partes separadas para mejorar su legibilidad y subdivisiones apropiadas.
 - Cuando se presentan las variables de entrada y salida junto con sus ejemplos, se utilizan tablas para su representación. Sin embargo, no es necesario utilizar varias tablas para cada parte del código; es suficiente con una tabla general al final del escenario.
