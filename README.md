@@ -142,13 +142,27 @@ Abril 2024
 </table>
 
 # **Project Report Collaboration Insights**
-URL Project Report (Github): [https://github.com/Grupo-Punteros-Open-Source](https://github.com/Grupo-Punteros-Open-Source/Project_Report)
 
-Commits en reporte avance TB1
+El informe del proyecto se encuentra alojado en el repositorio de GitHub del equipo. El URL del repositorio es: [https://github.com/Grupo-Punteros-Open-Source](https://github.com/Grupo-Punteros-Open-Source/Project_Report)
+
+Durante el desarrollo del proyecto, el equipo ha trabajado activamente en la elaboración del informe en varias etapas. Las actividades principales incluyen:
+
+- Investigación: Se realizó una investigación exhaustiva sobre el tema del proyecto para recopilar información relevante y datos necesarios para el informe.
+
+- Redacción: Se redactaron los diferentes apartados del informe, incluyendo la introducción, los antecedentes, la metodología, los resultados y las conclusiones.
+
+- Revisión y Edición: Se llevaron a cabo revisiones periódicas del informe para mejorar la claridad, coherencia y precisión del contenido.
+
+
+Commits en reporte avance TB1:
 
 <div align="center">
   <img src="img/commits.png" alt="Commits" width="100%">
+  <img src="img/insights2.png" alt="Insights" width="100%">
+  <img src="img/insights.png" alt="Insights" width="100%">
 </div>
+
+
 
 
 # **Tabla de Contenido**
@@ -772,16 +786,16 @@ Datos del Entrevistado:
 - Edad: 41
 - Distrito: Ate
 
-Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 00:03
-- Minuto de Fin: 05:23
+- Duración: 6:23 minutos
 
 <img src="img/entrevista1.png" alt="CapturaEntrevistaAlvaro" width="100%">
 
 Resumen de la Entrevista:
 
-Felipe Pinto, es un gerente en un taller de 41 años, hace uso de una computadora con windows en la que se apoya en herramientas de software bastante anticuadas, como hojas de cálculo de Excel, para llevar a cabo las operaciones de gestión diarias de su empresa. Sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa como, por ejemplo, el aceite que usa.
+Felipe Pinto, es un gerente en un taller de 41 años, trabaja principalmente con el sistema operativo de windows en laptop y pc, además se contacta a con sus clientes mediante el uso de whatsapp en su celular android, hace uso del browser de google mediante el cuál realiza búsquedas y se mantiene al pendiente de las ultimas noticias del mundo de la mecatrónica. Felipe es una persona extrovertida que tiene mucha facilidad para comunicarse con sus clientes, por la naturaleza de su trabajo posee una buena habilidad con el manejo de tecnología. Para la administración de su taller se apoya en hojas de cálculo de Excel, sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa.
 
 <u>**Entrevista: 2 - Segmento Objetivo: Administrador de taller**</u>
 
@@ -796,10 +810,10 @@ Datos del entrevistado:
 - Edad: 39 años
 - Distrito: Miraflores
 
-Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 05:24
-- Minuto de Fin: 12:46
+- Duración: 8:10 minutos
 
 <img src="img/entrevista2.png" alt="Entrevista" width="100%">
 
@@ -818,12 +832,12 @@ Entrevistado: Alfredo Baca Lara
 Datos del Entrevistado:
 
 - Edad: 64 años
-- Distrito: Surco
+- Distrito: Surco 
 
-Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](lhttps://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 12:48
-- Minuto de Fin: 22:05
+- Duración: 9:13 minutos
 
 <img src="img/entrevista3.png" alt="Entrevista" width="100%">
 
@@ -844,16 +858,18 @@ Datos del Entrevistado:
 - Edad: 22 años
 - Distrito: San Juan de Miraflores
 
-Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 28:40
-- Minuto de Fin: 34:02
+- Duración: 6:10 minutos
 
 <img src="img/entrevista christiane.png" alt="Entrevista" width="100%">
 
 Resumen:
 
-Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años, utiliza su vehículo diariamente para desplazarse. En la entrevista, Sebastián compartió sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil. Además, Sebastián compartió las funcionalidades deseadas en dicha aplicación, su percepción sobre cómo puede ayudar una aplicación móvil al mantenimiento del vehículo, y las características de seguridad que considera esenciales en dicha aplicación.
+Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años con su automóvil Kia, suele frecuentar su vehículo diariamente para desplazarse. En la entrevista, se evidenció que tenía una personalidad tranquila mientras compartía sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil.
+
+Cuando se trató el tema de la aplicación móvil para el mantenimiento del vehículo, Sebastián mencionó que espera que esta aplicación funcione de manera óptima en su celular Galaxy. Además, compartió que suele frecuentar Firefox para navegar en su celular y que tiene una preferencia por la marca de gasolina Primax. Respecto a las características deseadas en la aplicación, destacó la necesidad de funcionalidades intuitivas que le permitan registrar y programar mantenimientos de manera eficiente, así como características de seguridad que protejan su información personal y la de su vehículo.
 
 <u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
@@ -866,16 +882,16 @@ Entrevistado: Jorge Quiñones
 - Edad: 19 años
 - Distrito: San Juan de Lurigancho
 
-Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 34:03
-- Minuto de Fin: 37:55
+- Duración: 3:53 minutos
 
 <img src="img/entrevista5.png" alt="Entrevista" width="100%">
 
 Resumen:
 
-Jorge Quñones, estudiante universitario, mantiene su vehículo cada 5 o 6 meses, priorizando talleres con buena reputación y atención. A veces olvida los servicios por falta de recordatorios, pero valora el mantenimiento para prolongar la vida útil del auto y su posible valor de reventa. Considera esenciales notificaciones de kilometraje, historial detallado de servicios, y anhela herramientas como chat de soporte y diagnósticos. Busca una aplicación web que le recuerde y organice sus servicios programados junto con toda la información relacionada con sus vehículos y mantenimiento.
+Jorge Quiñones, un estudiante universitario de 22 años en Lima, Perú, se destaca por su interés en la ingeniería mecánica y su habilidad para entender conceptos técnicos relacionados con automóviles. Él prefiere marcas reconocidas en el sector automotriz y se deja influenciar por recomendaciones de amigos y expertos en mecánica. Jorge utiliza predominantemente aplicaciones móviles debido a su conveniencia y accesibilidad, confiando en su teléfono celular para la gestión diaria de tareas, incluyendo el mantenimiento de su vehículo. Sus objetivos principales incluyen mantener su automóvil en óptimas condiciones con el menor esfuerzo posible, pero se frustra con la falta de herramientas digitales que simplifiquen la organización de su mantenimiento automotriz y la gestión de recordatorios de servicios programados.
 
 
 <u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
@@ -889,10 +905,10 @@ Entrevistado: Leonardo Vargas
 - Edad: 26 años
 - Distrito: Ate
 
-Link del Video de la Entrevista:[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/ERgWucoUHo9GmV5FxXTvL7UBubTFtGmGwE-B05yVuxhU0Q?e=khq6gg)
+Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T](https://upcedupe-my.sharepoint.com/:v:/r/personal/u202213208_upc_edu_pe/Documents/upc-pre-202401-si729--SW51-VehicelTec-needfinding-sprint1.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=wHve8T)
 
 - Minuto de Inicio: 22:12
-- Minuto de Fin: 28:39
+- Duración: 6:29 minutos
 
 <img src="img/entrevista6.PNG" alt="Entrevista" width="100%">
 
@@ -903,8 +919,6 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 
 ### 2.2.3 Análisis de entrevistas.
 <u>**Segmento Objetivo: Administrador de taller**</u>
-
-Entiendo, quieres identificar los puntos en común y las diferencias entre las entrevistas de Felipe Pinto y Sasha Chávez sin asignarles un puntaje específico. Aquí está el análisis:
 
 **Coincidencias:**
 
@@ -2047,7 +2061,9 @@ Durante el desarrollo proyecto, se emplearán diversos lenguajes para la creaci�
 
 **HTML**
 
-Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más.
+Es el idioma que se usa para organizar el contenido de una página web, proporcionando una diversidad de elementos potenciales como texto, imágenes, formularios, y más. 
+
+Mas Información en: [HTML Style Guide](https://www.w3schools.com/html/html5_syntax.asp)
 
 - Incluir la declaración del tipo de documento en la primera línea con `<!DOCTYPE html>`, manteniendo la estructura básica del HTML con `<html>`, `<head>`, `<body>`.
 
@@ -2063,6 +2079,8 @@ Es el idioma que se usa para organizar el contenido de una página web, proporci
 
 Es el idioma empleado para establecer el diseño de una página web, incluyendo los estilos, tipos de letra, colores, contenedores y otros aspectos visuales.
 
+Mas Información en: [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
+
 - Utilizar la indentación de manera adecuada.
 - Utilizar nombres cortos y en minúsculas para los elementos.
 - Especificar los colores en código hexadecimal (por ejemplo, #024A86).
@@ -2073,25 +2091,33 @@ Es el idioma empleado para establecer el diseño de una página web, incluyendo 
 
 Es el idioma de programación más popular en el ámbito del desarrollo web, ya que posibilita la creación de páginas interactivas con animaciones atractivas para los usuarios.
 
+Mas Información en: [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp)
+
 - Utilizar nombres breves y apropiados para las variables y funciones.
 - Agregar comentarios para explicar la función de cada parte del código en la página web.
 - Asegurarse de poner un punto y coma al final de cada línea de código.
 - Definir constantes en lugar de variables cuando su valor no cambiará.
 - Emplear operadores de comparación estrictos en lugar de comparaciones regulares siempre que sea factible (por ejemplo, usar === en lugar de ==).
 
-**C#**
+**TypeScript**
 
-Es un idioma de programación ampliamente empleado en diversas áreas, incluyendo la programación web, móvil, y otros campos.
+TypeScript es un lenguaje de programación desarrollado por Microsoft que extiende y agrega funcionalidades a JavaScript. Proporciona características adicionales como tipado estático, lo que significa que puedes definir tipos para variables, parámetros de funciones y estructuras de datos.
 
-- Utilizar CamelCase para nombrar las variables, funciones y clases, asegurándose de que sean significativos y breves.
-- Emplear comillas dobles ("") para delimitar las cadenas de texto.
-- Aplicar una correcta indentación para mantener un código coherente y ordenado.
-- Incluir comentarios en cada bloque de código para explicar su funcionalidad.
-- Definir constantes para variables cuyos valores permanecerán constantes a lo largo del código.
+Mas Información en: [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html)
+
+- Uso de comillas dobles para cadenas de texto: Las cadenas de texto en TypeScript generalmente se delimitan con comillas dobles (""). Por ejemplo: let mensaje: string = "Hola Mundo";
+
+- Indentación correcta: Mantener una correcta indentación es importante para mantener el código organizado y legible. Se recomienda indentar usando dos o cuatro espacios.
+
+- Comentarios explicativos: Es una buena práctica incluir comentarios en el código para explicar la funcionalidad de diferentes partes del programa. Esto ayuda a otros programadores (y a ti mismo en el futuro) a entender más fácilmente qué hace cada parte del código.
+
+- Uso de constantes: En TypeScript, puedes definir constantes utilizando la palabra clave const para valores que no cambiarán a lo largo del código. Por ejemplo: const PI: number = 3.14159;
 
 **Gherkin**
 
 Es el lenguaje utilizado para elaborar casos de prueba en función de los requerimientos establecidos por la empresa. Su aplicación se lleva a cabo durante el proceso de pruebas o testing.
+
+Mas Información en: [Make your Gherkin Specifications More Readable](https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/)
 
 - Dividir el bloque de Given When Then en partes separadas para mejorar su legibilidad y subdivisiones apropiadas.
 - Cuando se presentan las variables de entrada y salida junto con sus ejemplos, se utilizan tablas para su representación. Sin embargo, no es necesario utilizar varias tablas para cada parte del código; es suficiente con una tabla general al final del escenario.
