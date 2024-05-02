@@ -1000,7 +1000,7 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/UserpPersona1.png" alt="UserPersona1" width="100%">
+  <img src="img/UserPersona1.png" alt="UserPersona1" width="100%">
 </div>
 
 **Segmento Objetivo: Administrador de Taller**
