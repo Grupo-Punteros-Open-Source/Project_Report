@@ -1135,28 +1135,16 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
 
 ## 2.4. Ubiquitous Language
 
-**Entidad: Propietario de vehículo**
+Elegimos este conjunto de términos para nuestro glosario, ya que refleja el lenguaje estándar en nuestro negocio de la mecánica automotriz:
 
-- Definición: Persona que posee un vehículo y utiliza los servicios de las compañías automotrices.
-- Atributos:
-  - Datos Personales: Información personal del cliente, incluyendo nombre, dirección, número de contacto, etc.
-  - Detalles del Vehículo: Información específica sobre el vehículo del cliente, como marca, modelo, año, número de serie, etc.
-  - Historial de Servicio: Registro de todas las interacciones y servicios proporcionados al cliente.
-- Comportamientos:
-  - Solicitar Servicios: Acción de pedir una revisión técnica o mantenimiento para su vehículo.
-  - Comunicarse con la Empresa: Interacción para obtener información sobre servicios, precios, horarios, etc.
-
-**Entidad: Administrador del taller**
-
-- Definición: Empresa que ofrece servicios relacionados con vehículos automotores.
-- Atributos:
-  - Datos de la Empresa: Información básica sobre la compañía automotriz, como nombre, ubicación, contacto, etc.
-  - Servicios Ofrecidos: Lista de servicios disponibles para los clientes.
-  - Recursos Disponibles: Equipos, personal y herramientas utilizados para llevar a cabo los servicios.
-- Comportamientos:
-  - Programar Citas: Acción de asignar fechas y horarios para servicios solicitados por los clientes.
-  - Informar Precios y Tiempos: Proporcionar detalles sobre los costos y la duración de los servicios.
-  - Registrar Interacciones: Documentar todas las comunicaciones y servicios proporcionados a los clientes.
+-Maintenance(Mantenimiento):Conjunto de acciones preventivas y correctivas realizadas de manera periódica en un vehículo con el fin de garantizar su funcionamiento seguro y eficiente a lo largo del tiempo.
+-Repair(Reparación): Proceso mediante el cual se restaura o corrige un problema o defecto en un vehículo o componente mecánico con el objetivo de devolverlo a un estado funcional óptimo.
+-Diagnostic(Diagnóstico ): Proceso de identificación y análisis de problemas o fallos en un vehículo mediante la evaluación de sus sistemas y componentes.
+-Spare Part(Pieza de Repuesto):Componente o parte mecánica que se utiliza para reemplazar una pieza dañada o defectuosa en un vehículo durante el proceso de reparación.
+-Work Order(Orden de Trabajo):Documento que detalla las tareas específicas a realizar durante el proceso de reparación o mantenimiento de un vehículo, incluyendo la mano de obra, piezas necesarias, y tiempo estimado.
+-Maintenance Schedule(Programación de Mantenimiento):Planificación y calendarización de actividades de mantenimiento periódico en un vehículo, como cambios de aceite, inspecciones, y ajustes, con el fin de prevenir averías y prolongar su vida útil.
+-Exhaust System(Sistema de Escape):Conjunto de componentes que guían los gases de escape desde el motor hasta el exterior del vehículo, incluyendo el tubo de escape, catalizador, y silenciador.
+-Suspension(Suspensión):Conjunto de componentes que absorben impactos y proporcionan confort de marcha al vehículo, incluyendo amortiguadores, muelles y brazos de suspensión.
 
 # Capítulo III: Requirements Specification.
 ## 3.1 To-Be Scenario Mapping.
