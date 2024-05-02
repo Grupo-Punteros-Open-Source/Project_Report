@@ -35,40 +35,110 @@ Abril 2024
 </div>
 
 <table>
-  <thead>
-    <tr>
-        <th>Versión</th>
-        <th>Fecha</th>
-        <th>Autor</th>
-        <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
   <tr>
-      <td><strong>TB1</strong></td>
-      <td>Miércoles 10 de Abril</td>
-      <td>
-        <ul>
-          <li>De la Piedra Quintanilla, Erwin Miquel</li>
-          <li>Pinto Fuentes Rivera, Alvaro Felipe</li>
-          <li>Espinoza Saenz,Christian Renato</li>
-          <li>Méndez Vargas, Sebastian Orlando</li>
-          <li>Matos Ferrnandez, Christian André</li>
-        </ul>
-      </td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-          <li>Capítulo IV: Product Design</li>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-        </ul>
-      </td>
+    <th>Versión</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de Modificación</th>
   </tr>
-  </tbody>
+  <tr>
+    <td>1.0</td>
+    <td>25/03/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Creación del documento de trabajo en formato markdown</td>
+  </tr>
+  <tr>
+    <td>1.1</td>
+    <td>28/03/24</td>
+    <td>De la Piedra</td>
+    <td>Redacción del startup profile y solution profile.</td>
+  </tr>
+  <tr>
+    <td>1.2</td>
+    <td>29/03/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Delimitación de segmentos objetivo, redacción de preguntas para el diseño de entrevistas</td>
+  </tr>
+  <tr>
+    <td>1.3</td>
+    <td>03/04/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Elaboración y registro de entrevistas a segmentos objetivo, análisis de entrevistas</td>
+  </tr>
+  <tr>
+    <td>1.4</td>
+    <td>05/04/24</td>
+    <td>Pinto</td>
+    <td>Elaboración de  user personas.</td>
+  </tr>
+  <tr>
+    <td>1.5</td>
+    <td>06/04/24</td>
+    <td>Espinoza</td>
+    <td>Elaboración de impact mapping, to-be</td>
+  </tr>
+  <tr>
+    <td>1.6</td>
+    <td>08/04/24</td>
+    <td>Mendez</td>
+    <td>Elaboración de empathy mapping y as-is.</td>
+  </tr>
+  <tr>
+    <td>1.7</td>
+    <td>09/04/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Elaboración de user stories</td>
+  </tr>
+  <tr>
+    <td>1.8</td>
+    <td>09/04/24</td>
+    <td>Matos</td>
+    <td>Elaboración de product backlog</td>
+  </tr>
+  <tr>
+    <td>1.9</td>
+    <td>09/04/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Elaboración de prototipos de wireframes y mockups</td>
+  </tr>
+  <tr>
+    <td>1.10</td>
+    <td>10/04/24</td>
+    <td>Pinto, Espinoza</td>
+    <td>Redacción de style guidelines e information architecture</td>
+  </tr>
+  <tr>
+    <td>1.11</td>
+    <td>10/04/24</td>
+    <td>De la Piedra</td>
+    <td>Elaboración de diagrama de base de datos, diagrama de clases, diccionario de clases.</td>
+  </tr>
+  <tr>
+    <td>1.12</td>
+    <td>11/04/24</td>
+    <td>Mendez</td>
+    <td>Elaboración de diagramas de contenedores, diagramas de contexto, diagramas de componentes</td>
+  </tr>
+  <tr>
+    <td>1.13</td>
+    <td>11/04/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Registro de evidencias del Sprint 1</td>
+  </tr>
+  <tr>
+    <td>1.14</td>
+    <td>12/04/24</td>
+    <td>Matos</td>
+    <td>Redacción de software configuration management</td>
+  </tr>
+
+  <tr>
+    <td>1.15</td>
+    <td>12/04/24</td>
+    <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
+    <td>Redacción de conclusiones</td>
+  </tr>
+  
 </table>
 
 # **Project Report Collaboration Insights**
@@ -190,8 +260,8 @@ Commits en reporte avance TB1:
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 | :- | :- | :- |
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** Participe activamente y de manera colaborativa en equipos multidisciplinarios durante el desarrollo del proyecto. Además, he estado pendiente de todas las reuniones y avances a lo largo del trabajo, manteniendo así la puntualidad de las fechas establecidas con el equipo.</p><p></p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1:** Aporté al grupo constantemente con ideas en las reuniones y cumpliendo con los puntos del reporte que me fueron asignados dentro del tiempo establecido. También apoyé a compañeros con sus partes en caso de que tuvieran alguna dificultad de forma que cumplieramos todos con las fechas establecidas de progreso. </p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** Realice diferentes aportes en las reuniones planificadas de nuestro grupo en donde avanzamos el trabajo dividiéndolo para que todos colaboren.</p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** Pude cumplir con las tareas que me fueron asignadas, además de ayudar a establecer bien nuestra startup y producto. Apoyé a mis compañeros y trabajamos colaborativamente en cada reunión. Por último, logramos cumplir con todos los requerimientos a tiempo y estamos listos para próximas iteraciones.</p><p></p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** En las reuniones, he organizado la distribución de tareas para el informe, asignando responsabilidades a cada miembro del equipo. Además, he participado activamente en las actividades del equipo, garantizando una colaboración simultánea y eficiente para lograr una entrega rápida y de calidad.</p>|**TB1:** En esta fase inicial, la comunicación eficiente ha sido crucial debido a la gran cantidad de contenido que debíamos presentar. Asimismo, llevar a cabo reuniones de grupo ha sido beneficioso para mejorar nuestra eficiencia en la gestión de los progresos y cumplir con los requisitos establecidos.|
-|Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** Durante este proyecto, me informe e investigue acerca del sector automotriz en lima, esto me llevó a conocer a diversos expertos en este campo, los cuales pude entrevistar y conocer mejor acerca de sus áreas, brindando así un mayor conocimiento de este sector, mejorando mi perspectiva para la realización del proyecto.</p><p></p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1:** Para el desarrollo de este informe reforcé mis conocimientos sobre el rubro del software de gestión de negocios, en este caso más específicamente sobre los procesos de gestión de un taller automotriz. Gracias a mi investigación sobre aplicaciones similares, líderes en el mercado y entrevistas aprendí más sobre las necesidades que deben suplir estas soluciones de software destinadas al sector empresarial.</p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** Al planificar la estructura de la solución, se llevó a cabo una investigación exhaustiva del sector automotriz, permitiendo una comprensión más profunda de sus dinámicas y necesidades. Esta exploración detallada proporcionó un conocimiento que facilita la identificación de ventajas competitivas y áreas de oportunidad dentro del mercado, con un enfoque particular en las condiciones específicas de nuestro país.</p><p></p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** A la hora de entrevistar, llegué a la conclusión de que, en el ámbito automotriz, a veces ocurren cosas detrás del telón que le son ocultadas a los clientes. Es por esta razón que luego de entrevistar a usuarios que brindan mantenimiento a sus vehículos, pude empatizar con ellos y sus experiencias, lo cual influyó en nuestra decisión como equipo de adaptar nuestra solución al problema por el que pasan ellos.</p><p></p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** Para este proyecto, llevé a cabo una investigación exhaustiva en el ámbito empresarial relacionado con el transporte de carga. Durante este proceso, pude entrevistar a expertos con una vasta experiencia en este sector, lo que me brindó una comprensión más profunda de sus necesidades y me proporcionó una nueva perspectiva para el desarrollo de nuestra aplicación.</p>|<p>**TB1:** En esta fase de entrega, llevamos a cabo una investigación exhaustiva sobre los principales competidores en el ámbito de las aplicaciones para la gestión del transporte terrestre. Además, nos hemos comunicado con individuos involucrados en este sector para obtener una perspectiva valiosa que nos ha ayudado en el desarrollo del proyecto.</p><p></p>|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** texto</p><p>**TB2:** texto</p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1:** texto </p><p>**TB2:** texto</p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** texto</p><p>**TB2:** texto</p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** texto </p><p>**TB2:** texto</p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** texto</p><p>**TB2:** texto</p>|<p>**TB1:** texto</p><p>**TB2:** texto</p>|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** texto</p><p>**TB2:** texto</p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1:** texto</p><p>**TB2:** texto</p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** texto</p><p>**TB2:** texto</p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** texto</p><p>**TB2:** texto</p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** texto</p><p>**TB2:** texto</p>|<p>**TB1:** texto</p><p>**TB2:** texto</p>
 
 
 # Capítulo I: Introducción
@@ -1100,47 +1170,17 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
 
 
 ## 3.2 User Stories
-
-<table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
-<tr><td rowspan="2" valign="top">E01</td><td rowspan="2" valign="top">Como propietario de un vehículo quiero un sistema que me notifique para realizar mantenimiento preventivo en mi vehículo.</td><td valign="top">US01</td><td valign="top">Integración con Kilometraje del Vehículo</td></tr>
-<tr><td valign="top">US02</td><td valign="top">Visualización de Historial de Mantenimiento</td></tr>
-<tr><td rowspan="4" valign="top">E02</td><td rowspan="4" valign="top"><b>Como</b> propietario de un vehículo, <b>quiero</b> poder gestionar todos los aspectos relacionados con mi(s) vehículo(s) dentro de la plataforma. Para obtener para tener un control completo sobre el mantenimiento.</td><td valign="top">US03</td><td valign="top">Listado de Vehículos</td></tr>
-<tr><td valign="top">US04</td><td valign="top">Ver Tiempo Estimado de Reparación</td></tr>
-<tr><td valign="top">US05</td><td valign="top">Detalle de Tareas de Mantenimiento</td></tr>
-<tr><td valign="top">US06</td><td valign="top">Visualización del Costo de Reparaciones</td></tr>
-<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><b>Como administrador del taller quiero</b> poder crear una cuenta, modificar y eliminar los datos de los clientes p<b>ara</b> poder actualizar la información de nuestros clientes y agregar nuevos.</td><td valign="top">US07</td><td valign="top">Registrar técnico o administrador</td></tr>
-<tr><td valign="top">US08</td><td valign="top">Registrar nuevo cliente</td></tr>
-<tr><td valign="top">US09</td><td valign="top">Actualización de clientes</td></tr>
-<tr><td valign="top">US10</td><td valign="top">Eliminar cliente</td></tr>
-<tr><td valign="top">US11</td><td valign="top">Búsqueda de clientes</td></tr>
-<tr><td valign="top">US12</td><td valign="top">Creación y administración de informes</td></tr>
-<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><b>Como</b> administrador de taller <b>quiero</b> que el uso de la aplicación lleve consigo un aumento en la eficiencia y rentabilidad de nuestro taller mediante las soluciones digitales o funciones que ofrezca <b>para</b> lograr una mayor productividad.</td><td valign="top">US13</td><td valign="top">Facturar y cobrar al cliente</td></tr>
-<tr><td valign="top">US14</td><td valign="top">Marketing Digital</td></tr>
-<tr><td valign="top">US15</td><td valign="top">Acceso simple y rápido al chat con los clientes</td></tr>
-<tr><td valign="top">US16</td><td valign="top">Recompensas por fidelidad al taller</td></tr>
-<tr><td valign="top">US17</td><td valign="top">Búsqueda y visualización de diagramas</td></tr>
-<tr><td valign="top">US18</td><td valign="top">Optimizar la gestión de inventario y compras</td></tr>
-<tr><td rowspan="4" valign="top">E05</td><td rowspan="4" valign="top"><p>Como administrador del taller</p><p>Quiero poder gestionar los vehículos de los clientes en la base de datos de la aplicación</p><p>Para mantener un registro actualizado de los vehículos que se encuentran en el taller y facilitar la gestión de servicios.</p><p></p></td><td valign="top">US19</td><td valign="top">Agregar un vehículo de Cliente</td></tr>
-<tr><td valign="top">US20</td><td valign="top">Eliminar vehículo de Cliente</td></tr>
-<tr><td valign="top">US21</td><td valign="top">Editar vehículo de Cliente</td></tr>
-<tr><td valign="top">US22</td><td valign="top">Listado de Vehículos de Cliente</td></tr>
-<tr><td rowspan="7" valign="top">E06</td><td rowspan="7" valign="top">Como cliente, quiero acceder a una Landing Page que brinde información detallada sobre la aplicación y sus características.</td><td valign="top">US23</td><td valign="top">NavBar</td></tr>
-<tr><td valign="top">US24</td><td valign="top">Página de Inicio</td></tr>
-<tr><td valign="top">US25</td><td valign="top">Sección “About us”</td></tr>
-<tr><td valign="top">US26</td><td valign="top">Sección “Community”</td></tr>
-<tr><td valign="top">US27</td><td valign="top">Sección “Contact Us”</td></tr>
-<tr><td valign="top">US28</td><td valign="top">Sección “Our App”</td></tr>
-<tr><td valign="top">US29</td><td valign="top">Sección “Plans”</td></tr>
-<tr><td rowspan="3">E07</td><td rowspan="3">Como usuario quiero poder iniciar sesión para acceder a mi cuenta y cerrar sesión para salir de ella para garantizar la seguridad de mis datos personales y acceder a las funciones exclusivas de mi cuenta cuando lo necesite.</td><td valign="top">US30</td><td valign="top">Inicio de Sesión</td></tr>
-<tr><td valign="top">US31</td><td valign="top">Cerrar Sesión</td>
-</tr>
-<tr><td valign="top">US32</td><td valign="top">Elegir plan de suscripción</td></tr>
-</table>
-
 Se presentan los siguientes user stories: 
 
-|User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
+|Epic/User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
+|EP01|Implementación de Notificaciones de Mantenimiento Preventivo|Como propietario de un vehículo quiero un sistema que me notifique para realizar mantenimiento preventivo en mi vehículo|No corresponde|No corresponde
+|EP02|Gestión Integral de Vehículos|Como propietario de un vehículo, quiero poder gestionar todos los aspectos relacionados con mi(s) vehículo(s) dentro de la plataforma. Para obtener para tener un control completo sobre el mantenimiento|No corresponde|No corresponde
+|EP03|Gestión y administraciones de cuentas en la aplicación|Como administrador del taller quiero poder crear una cuenta, modificar y eliminar los datos de los clientes para poder actualizar la información de nuestros clientes y agregar nuevos|No corresponde|No corresponde
+|EP04|Aumento de eficiencia y rentabilidad del taller mediante soluciones digitales|Como gerente de taller quiero que el uso de la aplicación lleve consigo un aumento en la eficiencia y rentabilidad de nuestro taller mediante las soluciones digitales o funciones que ofrezca para lograr una mayor productividad|No corresponde|No corresponde
+|EP05|Gestión y actualización del proceso de mantenimiento|Como técnico del taller, quiero poder contar con herramientas en la plataforma que mantengan al día a mi cliente con cada cambio realizado en su vehículo para que se pueda evidenciar el cumplimiento de la totalidad del servicio y mejorar la confiabilidad respecto al trabajo realizado en el taller|No corresponde|No corresponde
+|EP06|Creación de Landing Page Informativa para Clientes|Como cliente, quiero acceder a una Landing Page que brinde información detallada sobre la aplicación y sus características|No corresponde|No corresponde
+|EP07|Gestión de Sesiones de Usuario para Acceso Seguro y Funcionalidades Personalizadas|Como usuario quiero poder iniciar sesión para acceder a mi cuenta y cerrar sesión para salir de ella para garantizar la seguridad de mis datos personales y acceder a las funciones exclusivas de mi cuenta cuando lo necesite|No corresponde|No corresponde
 |US01|Integración con Kilometraje del Vehículo|Como usuario, quiero notificaciones de mantenimiento preventivo se basen en el kilometraje actual de mi vehículo.|<p>**Escenario 1: Actualización del Kilometraje**</p><p>- Dado que el usuario necesita mantener actualizado el kilometraje de su vehículo.</p><p>- Cuando el usuario ingresa al sistema y actualiza el kilometraje.</p><p>- Entonces el sistema calcula automáticamente los intervalos de mantenimiento basados en el nuevo kilometraje registrado.</p><p>**Escenario 2: Registro de Kilometraje Incorrecto**</p><p>- Dado que el usuario ingresa un kilometraje incorrecto por error.</p><p>- Cuando el usuario intenta actualizar el kilometraje del vehículo.</p><p>- Entonces el sistema le alerta sobre el error y le permite corregirlo.</p><p>**Escenario 3: Registro de Kilometraje Excedido**</p><p>- Dado que el usuario ingresa un kilometraje que excede el esperado para el mantenimiento.</p><p>- Cuando el usuario actualiza el kilometraje del vehículo.</p><p>- Entonces el sistema le alerta sobre la necesidad de un mantenimiento inmediato.</p><p></p>|01|
 |US02|Visualización de Historial de Mantenimiento|Como usuario, quiero poder ver un historial de mantenimiento preventivo de mi vehículo en la plataforma.|<p>**Escenario 1: Acceso al Historial de Mantenimiento**</p><p>- Dado que el usuario necesita ver el historial de mantenimiento de su vehículo.</p><p>- Cuando el usuario ingresa al sistema y selecciona la opción de historial de mantenimiento.</p><p>- Entonces la plataforma le permite ver una lista detallada de todos los servicios de mantenimiento previos realizados en su vehículo.</p><p>**Escenario 2: Filtrado por Tipo de Servicio**</p><p>- Dado que el usuario quiere revisar un tipo específico de servicio realizado en su vehículo.</p><p>- Cuando el usuario accede al historial de mantenimiento.</p><p>- Entonces la plataforma le permite filtrar los registros por tipo de servicio, como cambios de aceite, inspecciones, reparaciones, etc.</p>|01|
 |US03|Listado de Vehículos|<p>Como propietario de un vehículo quiero poder visualizar mi vehículo en la plataforma para gestionar todos los aspectos relacionados con el mantenimiento y cuidado de mi vehículo de manera organizada.</p><p></p>|<p>Escenario 1: Ver Listado de Vehículos </p><p></p><p>Dado que soy propietario de un vehículo y deseo registrar mi vehículo en la plataforma</p><p>.</p><p>Cuando el usuario ingresa a la sección de "Vehicles" </p><p></p><p>Entonces la plataforma le muestra la lista de sus vehículos</p><p><br></p>|02|
@@ -1191,19 +1231,19 @@ La gestión del Product Backlog se lleva a cabo mediante la plataforma Pivotal T
 
 |**# Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1/2/3/5/8)**|
 | :- | :- | :- | :- | :- |
-|1|US23|NavBar|Como usuario quiero usar visualizar una barra de navegación para navegar fácilmente a través de la página.|3|
-|2|US24|Página de Inicio|Como usuario, quiero poder visualizar una página de inicio para comprender la idea principal de la aplicación.|3|
-|3|US25|Sección “About us”|Como usuario, quiero poder acceder a una página "About Us" para comprender la problemática principal y el propósito de la aplicación.|3|
-|4|US26|Sección “Community”|Como usuario, quiero poder acceder a una página "Community" para ver reseñas de la aplicación.|3|
-|5|US27|Sección “Contact Us”|Como usuario, deseo acceder a una página "Contact Us" para poder conocer los medios de comunicación con la empresa y así realizar preguntas sobre dudas, problemas o sugerencias.|3|
-|6|US28|Sección “Our App”|Como usuario, deseo acceder a una página "Our App" para poder ir a probar la plataforma.|3|
-|7|US29|Sección “Plans”|Como administrador del taller, quiero tener una página de “Plans” Seleccionar el plan de suscripción más para acceder a las funcionalidades y características que se adapten mejor a mi negocio.|3|
+|1|US23|NavBar|Como usuario quiero usar visualizar una barra de navegación para navegar fácilmente a través de la página.|1|
+|2|US24|Página de Inicio|Como usuario, quiero poder visualizar una página de inicio para comprender la idea principal de la aplicación.|2|
+|3|US25|Sección “About us”|Como usuario, quiero poder acceder a una página "About Us" para comprender la problemática principal y el propósito de la aplicación.|1|
+|4|US26|Sección “Community”|Como usuario, quiero poder acceder a una página "Community" para ver reseñas de la aplicación.|1|
+|5|US27|Sección “Contact Us”|Como usuario, deseo acceder a una página "Contact Us" para poder conocer los medios de comunicación con la empresa y así realizar preguntas sobre dudas, problemas o sugerencias.|2|
+|6|US28|Sección “Our App”|Como usuario, deseo acceder a una página "Our App" para poder ir a probar la plataforma.|1|
+|7|US29|Sección “Plans”|Como administrador del taller, quiero tener una página de “Plans” Seleccionar el plan de suscripción más para acceder a las funcionalidades y características que se adapten mejor a mi negocio.|2|
 |8|US03|Listado de Vehículos|<p>Como propietario de un vehículo quiero poder visualizar mi vehículo en la plataforma para gestionar todos los aspectos relacionados con el mantenimiento y cuidado de mi vehículo de manera organizada.</p><p></p>|5|
 |9|US04|Ver Tiempo Estimado de Reparación|<p>Como propietario de un vehículo que está siendo reparado en un taller quiero poder ver el tiempo estimado que tomará la reparación de mi vehículo para tener una idea clara de cuándo mi vehículo va a estar listo.</p><p></p>|5|
 |10|US05|Detalle de Tareas de Mantenimiento|Como propietario de un vehículo, deseo poder ver una lista detallada de las tareas de mantenimiento y reparación programadas para mi vehículo, para comprender el trabajo.|3|
 |11|US06|Visualización del Costo de Reparaciones|<p>Como propietario de un vehículo, quiero poder ver el costo estimado de las reparaciones pendientes de mi vehículo para tener una idea clara de los gastos asociados.</p><p></p>|1|
-|12|US22|Listado de Vehículos de Cliente|<p>Como administrador del taller  </p><p>quiero poder ver un listado de los vehículos de los clientes que se encuentran registrados en la aplicación para tener una visión general de los vehículos presentes en el taller y gestionar eficientemente los servicios.</p>|8|
-|13|US19|Agregar un vehículo de Cliente|Como administrador del taller quiero poder agregar un vehículo de un cliente para mantener un registro actualizado de los vehículos que se encuentran en el taller|8|
+|12|US22|Listado de Vehículos de Cliente|<p>Como administrador del taller  </p><p>quiero poder ver un listado de los vehículos de los clientes que se encuentran registrados en la aplicación para tener una visión general de los vehículos presentes en el taller y gestionar eficientemente los servicios.</p>|5|
+|13|US19|Agregar un vehículo de Cliente|Como administrador del taller quiero poder agregar un vehículo de un cliente para mantener un registro actualizado de los vehículos que se encuentran en el taller|5|
 |14|US21|Editar vehículo de Cliente|<p>Como administrador del taller  </p><p>quiero poder editar la información de un vehículo de un cliente para corregir errores o actualizar la información según sea necesario.</p>|3|
 |15|US20|Eliminar vehículo de Cliente|<p>Como administrador del taller  </p><p>quiero poder eliminar un vehículo de un cliente para mantener un registro preciso y actualizado de los vehículos que se encuentran en el taller.</p>|3|
 |16|US07|Registrar técnico o administrador|Como administrador del taller quiero registrarme en la aplicación para gestionar la información de los clientes y utilizarla en futuras revisiones.|5|
@@ -1217,8 +1257,8 @@ La gestión del Product Backlog se lleva a cabo mediante la plataforma Pivotal T
 |24|US32|Elegir plan de suscripción|Como cliente, quiero elegir un plan de suscripción que se adapte a mis necesidades, para acceder a las funcionalidades necesarias para mí.|5|
 |25|US30|Inicio de Sesión|Como usuario de la quiero poder iniciar sesión con mis credenciales de usuario para acceder a las funciones y datos exclusivos de mi cuenta y realizar acciones personalizadas.|3|
 |26|US31|Cerrar Sesión|<p>Como usuario de la quiero poder cerrar sesión en mi cuenta </p><p>para asegurarme de que nadie más pueda acceder a mi información personal y proteger mi privacidad.</p>|3|
-|27|US18|Optimizar la gestión de inventario y compras|Como administrador quiero que la aplicación pueda ayudarme a gestionar el stock y cuando reabastecerse.|8|
-|28|US17|Búsqueda y visualización de diagramas|Como administrador de taller quiero tener acceso a diagramas de distintas piezas y modelos de autos para facilitar mi trabajo.|8|
+|27|US18|Optimizar la gestión de inventario y compras|Como administrador quiero que la aplicación pueda ayudarme a gestionar el stock y cuando reabastecerse.|5|
+|28|US17|Búsqueda y visualización de diagramas|Como administrador de taller quiero tener acceso a diagramas de distintas piezas y modelos de autos para facilitar mi trabajo.|5|
 |29|US13|Facturar y cobrar al cliente|Como administrador de taller quiero tener acceso a un método simple de facturación para agilizar la cobranza a clientes, además de poder adjuntar una proforma detallada.|5|
 |30|US15|Acceso simple y rápido al chat con los clientes|Como administrador de taller quiero poder tener una comunicación activa para informarle de cualquier tipo de suceso o nuevo problema que pueda surgir durante la reparación o revisión de su vehículo. Además de la posibilidad de incluir archivos como imágenes o multimedia.|3|
 |31|US16|Recompensas por fidelidad al taller|Como administrador de taller quiero retener a una buena clientela y que acudan únicamente a nuestros servicios.|3|
