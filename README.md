@@ -1000,12 +1000,12 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/Userpersona1.png" alt="UserPersona1" width="100%">
+  <img src="img/UserPersona1.png" alt="UserPersona1" width="100%">
 </div>
 
 **Segmento Objetivo: Administrador de Taller**
 <div align="center">
-  <img src="img/Userpersona2.png" alt="UserPersona2" width="100%">
+  <img src="img/UserPersona2.png" alt="UserPersona2" width="100%">
 </div>
 
 ### 2.3.2. User Task Matrix
