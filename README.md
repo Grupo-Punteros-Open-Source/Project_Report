@@ -725,7 +725,7 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen de la Entrevista:
 
-Felipe Pinto, es un gerente en un taller de 41 años, trabaja principalmente con el sistema operativo de windows en laptop y pc, además se contacta a con sus clientes mediante el uso de whatsapp en su celular android, hace uso del browser de google mediante el cuál realiza búsquedas y se mantiene al pendiente de las ultimas noticias del mundo de la mecatrónica. Felipe es una persona extrovertida que tiene mucha facilidad para comunicarse con sus clientes, por la naturaleza de su trabajo posee una buena habilidad con el manejo de tecnología. Para la administración de su taller se apoya en hojas de cálculo de Excel, sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa.
+Felipe Pinto, es un gerente en un taller de 41 años, trabaja principalmente con el sistema operativo de windows en laptop y pc, utiliza un celular android, hace uso del browser de google mediante el cuál realiza búsquedas y se mantiene al pendiente de las ultimas noticias del mundo de la mecatrónica. Felipe es una persona extrovertida que tiene mucha facilidad para comunicarse con sus clientes, por la naturaleza de su trabajo posee una buena habilidad con el manejo de tecnología. Para la administración de su taller se apoya en hojas de cálculo de Excel, sin embargo, estas prácticas tradicionales están demostrando ser cada vez más ineficientes y lentas. Felipe reconoce que la implementación de una aplicación especializada puede proporcionar una solución eficaz y ágil para gestionar todas las operaciones del taller. Durante la entrevista se le presentó la idea de nuestro proyecto que implicaría el desarrollo de una aplicación diseñada específicamente para satisfacer las necesidades de gestión de su taller. Felipe se mostró interesado en invertir en una suscripción que le brinde acceso a esta herramienta tecnológica innovadora puesto que la función que consideró necesaria para una aplicación ya está implementada en nuestra idea de proyecto que sería el registro o historial de cada vehículo del cliente además de su información completa.
 
 <u>**Entrevista: 2 - Segmento Objetivo: Administrador de taller**</u>
 
@@ -749,7 +749,7 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen: 
 
- Sasha Chávez, es una administradora de automotriz de 39 años, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
+ Sasha Chávez, es una administradora de automotriz de 39 años, utiliza el buscador de google, además de una computadora windows y un celular android, nos comenta que mediante el uso de un software pagado, pueden llevar un registro de datos de sus clientes, sin embargo nos comenta que el tema relacionado a la comunicación con sus clientes, es informal, ya que se utiliza distintos medios como mensajes de texto y llamadas telefónicas. Durante la entrevista, se le mostró la idea de nuestro proyecto, que ayudaría a mejorar la interacción con el cliente, además de mejorar el registro de sus clientes. Sasha mostró interés por probar un software más actualizado para una interacción y manejo de registros más moderno, además que ayude a formalizar la interacción con sus clientes.
 
 <u>**Entrevista: 3 - Segmento Objetivo: Administrador de taller**</u>
 
@@ -773,7 +773,7 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen: 
 
-  Alfredo Baca Lara, es una administradora de automotriz de 64 años, mediante las preguntas, hemos logrado determinar que no se encuentran tan acostumbrados al uso de software tan avanzados para el manejo de sus registros, además que utilizan medios informales como mensajes directos, correos y llamadas para comunicarse con sus clientes. Durante la entrevista se comentó acerca de la aplicación del proyecto. Alfredo mostró un pensamiento de aceptación, ya que nos dice que hoy en día todo funciona con la ayuda de la tecnología y esto seria de gran ayuda para mejorar el método de registro que poseen.
+  Alfredo Baca Lara, es una administradora de automotriz de 64 años, utiliza principalmente google como buscador, hace uso de una computadora de apple MacOs y usa un celular android, mediante las preguntas, hemos logrado determinar que no se encuentran tan acostumbrados al uso de software tan avanzados para el manejo de sus registros, además que utilizan medios informales como mensajes directos, correos y llamadas para comunicarse con sus clientes. Durante la entrevista se comentó acerca de la aplicación del proyecto. Alfredo mostró un pensamiento de aceptación, ya que nos dice que hoy en día todo funciona con la ayuda de la tecnología y esto seria de gran ayuda para mejorar el método de registro que poseen.
 
 <u>**Entrevista: 4 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
@@ -799,7 +799,7 @@ Resumen:
 
 Sebastián Palacios, un estudiante universitario de 22 años, que ha estado manejando durante dos años con su automóvil Kia, suele frecuentar su vehículo diariamente para desplazarse. En la entrevista, se evidenció que tenía una personalidad tranquila mientras compartía sus prácticas de mantenimiento preventivo y su método para registrar el mantenimiento de su vehículo. Además, discutió sobre las dificultades encontradas en el mantenimiento regular, la importancia de mantener registros precisos, sus preferencias respecto a las notificaciones para el mantenimiento, y su disposición a pagar por servicios adicionales en una aplicación móvil.
 
-Cuando se trató el tema de la aplicación móvil para el mantenimiento del vehículo, Sebastián mencionó que espera que esta aplicación funcione de manera óptima en su celular Galaxy. Además, compartió que suele frecuentar Firefox para navegar en su celular y que tiene una preferencia por la marca de gasolina Primax. Respecto a las características deseadas en la aplicación, destacó la necesidad de funcionalidades intuitivas que le permitan registrar y programar mantenimientos de manera eficiente, así como características de seguridad que protejan su información personal y la de su vehículo.
+Cuando se trató el tema de la aplicación móvil para el mantenimiento del vehículo, Sebastián mencionó que espera que esta aplicación funcione de manera óptima en su celular Galaxy. Además, compartió que utiliza una computadora mac de marca apple y un celular apple, suele frecuentar Firefox para navegar en su celular y que tiene una preferencia por la marca de gasolina Primax. Respecto a las características deseadas en la aplicación, destacó la necesidad de funcionalidades intuitivas que le permitan registrar y programar mantenimientos de manera eficiente, así como características de seguridad que protejan su información personal y la de su vehículo.
 
 <u>**Entrevista: 5 - Segmento Objetivo: Propietarios de Vehiculo**</u>
 
@@ -821,7 +821,7 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen:
 
-Jorge Quiñones, un estudiante universitario de 22 años en Lima, Perú, se destaca por su interés en la ingeniería mecánica y su habilidad para entender conceptos técnicos relacionados con automóviles. Él prefiere marcas reconocidas en el sector automotriz y se deja influenciar por recomendaciones de amigos y expertos en mecánica. Jorge utiliza predominantemente aplicaciones móviles debido a su conveniencia y accesibilidad, confiando en su teléfono celular para la gestión diaria de tareas, incluyendo el mantenimiento de su vehículo. Sus objetivos principales incluyen mantener su automóvil en óptimas condiciones con el menor esfuerzo posible, pero se frustra con la falta de herramientas digitales que simplifiquen la organización de su mantenimiento automotriz y la gestión de recordatorios de servicios programados.
+Jorge Quiñones, un estudiante universitario de 22 años en Lima, Perú, hace uso del navegador de google, tiene una computadora MacOs y un celular apple, se destaca por su interés en la ingeniería mecánica y su habilidad para entender conceptos técnicos relacionados con automóviles. Él prefiere marcas reconocidas en el sector automotriz y se deja influenciar por recomendaciones de amigos y expertos en mecánica. Jorge utiliza predominantemente aplicaciones móviles debido a su conveniencia y accesibilidad, confiando en su teléfono celular para la gestión diaria de tareas, incluyendo el mantenimiento de su vehículo. Sus objetivos principales incluyen mantener su automóvil en óptimas condiciones con el menor esfuerzo posible, pero se frustra con la falta de herramientas digitales que simplifiquen la organización de su mantenimiento automotriz y la gestión de recordatorios de servicios programados.
 
 
 <u>**Entrevista: 6 - Segmento Objetivo: Propietarios de Vehiculo**</u>
@@ -844,11 +844,33 @@ Link del Video de la Entrevista: [https://upcedupe-my.sharepoint.com/:v:/r/perso
 
 Resumen:
 
-Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de la importancia que tiene para él llevar un registro al día del mantenimiento de su vehículo. Tras finalizar la entrevista, Leonardo indicó que él requiere de anotar y tener varias consideraciones para con su vehículo y así evitar cualquier inconveniente mientras esté viajando. Asimismo, considera que le gustaría poder contar con un servicio de mantenimiento confiable debido a una mala experiencia que tuvo con un taller que cambió partes de un vehículo de uno de sus familiares. Luego, agregó que el uso de una aplicación móvil le facilitaría mucho más el registro de eventos relacionados al mantenimiento de su vehículo, ya que él siempre está al pendiente de su teléfono. Por último, nos comentó que le gustaría conseguir esta aplicación por un bajo costo y que cuente, más que nada, con notificaciones cada que se genere cualquier actividad en su vehículo.
-
+Leonardo Vargas, un ingeniero civil de 26 años, hace uso del buscador de google, tiene una computadora windows y un celular android, nos comentó un poco acerca de la importancia que tiene para él llevar un registro al día del mantenimiento de su vehículo. Tras finalizar la entrevista, Leonardo indicó que él requiere de anotar y tener varias consideraciones para con su vehículo y así evitar cualquier inconveniente mientras esté viajando. Asimismo, considera que le gustaría poder contar con un servicio de mantenimiento confiable debido a una mala experiencia que tuvo con un taller que cambió partes de un vehículo de uno de sus familiares. Luego, agregó que el uso de una aplicación móvil le facilitaría mucho más el registro de eventos relacionados al mantenimiento de su vehículo, ya que él siempre está al pendiente de su teléfono. Por último, nos comentó que le gustaría conseguir esta aplicación por un bajo costo y que cuente, más que nada, con notificaciones cada que se genere cualquier actividad en su vehículo.
 
 ### 2.2.3 Análisis de entrevistas.
+
+
 <u>**Segmento Objetivo: Administrador de taller**</u>
+
+
+Gráfico de navegadores usados
+
+<p align="center">
+<img src="img/PorcentajenNavegadorSeg2.png" alt="PorcentajenNavegadorSeg2" width="75%">
+</p>
+
+Grafico de sistema operativo en computadoras
+
+<p align="center">
+<img src="img/PorcentajenComputadoraSeg2.png" alt="PorcentajenComputadoraSeg2" width="100%">
+</p>
+
+
+Grafico de sistema operativo en celulares
+
+<p align="center">
+<img src="img/PorcentajenCelularSeg2.png" alt="PorcentajenCelularSeg2" width="100%">
+</p>
+
 
 **Coincidencias:**
 
@@ -863,6 +885,26 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 2. **Comunicación con los clientes:** Mientras que Felipe no mencionó problemas específicos en la comunicación con los clientes, Sasha expresó que la comunicación es informal y busca una solución para mejorarla.
 
 <u>**Segmento Objetivo: Propietario de Vehiculos**</u>
+
+
+Gráfico de navegadores usados
+
+<p align="center">
+<img src="img/PorcentajenNavegadorSeg1.png" alt="PorcentajenNavegadorSeg1" width="75%">
+</p>
+
+
+Grafico de sistema operativo en computadoras
+
+<p align="center">
+<img src="img/PorcentajenComputadoraSeg1.png" alt="PorcentajenComputadoraSeg1" width="75%">
+</p>
+
+Grafico de sistema operativo en celulares
+
+<p align="center">
+<img src="img/PorcentajenCelularSeg1.png" alt="PorcentajenCelularSeg1" width="75%">
+</p>
 
 **Coincidencias:**
 
@@ -882,19 +924,18 @@ Leonardo Vargas, un ingeniero civil de 26 años, nos comentó un poco acerca de 
 
 En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importancia del registro de mantenimiento, el interés en una aplicación móvil y la necesidad de notificaciones para recordatorios, difieren en sus prácticas y frecuencia de mantenimiento, experiencias pasadas con talleres de reparación, y preferencias sobre el costo y las características de la aplicación móvil.
 
-
 ## 2.3 Needfinding.
 ### 2.3.1. User Personas.
 
 **Segmento Objetivo: Propietario de un vehiculo**
 
 <div align="center">
-  <img src="img/UserPersona1.png" alt="UserPersona1" width="100%">
+  <img src="img/Userpersona1.png" alt="UserPersona1" width="100%">
 </div>
 
 **Segmento Objetivo: Administrador de Taller**
 <div align="center">
-  <img src="img/UserPersona2.png" alt="UserPersona2" width="100%">
+  <img src="img/Userpersona2.png" alt="UserPersona2" width="100%">
 </div>
 
 ### 2.3.2. User Task Matrix
