@@ -2454,6 +2454,8 @@ Durante la implementación del FrontEnd Web Applications, todos los miembros del
 <img src="img/aaaaaaaaaaaaa.png" alt="Logo del servicio" width="100%">
 
 
+
+
 Nos dividimos de la siguiente forma para trabajar en el Landing Page:
 
 
@@ -2471,6 +2473,25 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 
 <img src="img/branches_applications.png" alt="Logo del servicio" width="100%">
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
+#### 5.2.3.2. Sprint Backlog 3
+#### 5.2.3.3. Development Evidence for Sprint Review
+#### 5.2.3.4. Testing Suite Evidence For Sprint Review
+#### 5.2.3.5. Exectuion for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence For Sprint Review
+#### 5.2.3.7. Software Deployment Evidence For Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+### 5.3.2. Registro de Entrevistas
+### 5.3.3. Evaluaciones según heuristicas
+
+## 5.4. Video About-the-Product
+
+
+
 
 # Conclusiones
 
@@ -2483,6 +2504,8 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 4. *Importancia de la Validación Continua*: La validación continua de supuestos y la retroalimentación de los usuarios son fundamentales para el desarrollo exitoso de la plataforma. Es crucial adaptarse y mejorar constantemente en función de los comentarios y datos obtenidos durante el proceso.
 
 5. *Impacto en la Eficiencia Operativa*: Finalmente, se espera que la implementación de la plataforma tenga un impacto positivo en la eficiencia operativa de las automotrices, reduciendo los tiempos de espera, mejorando la comunicación interna y externa, y aumentando la satisfacción tanto de los clientes como del personal técnico y administrativo.
+
+Video About-the-team
 
 # Bibliografía
 
