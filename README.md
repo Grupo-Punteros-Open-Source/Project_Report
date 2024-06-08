@@ -138,6 +138,27 @@ Abril 2024
     <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
     <td>Redacción de conclusiones</td>
   </tr>
+
+  <tr>
+    <td>2.1</td>
+    <td>07/06/24</td>
+    <td>Matos</td>
+    <td>Sprint 3 </td>
+  </tr>
+
+   <tr>
+    <td>2.11</td>
+    <td>07/06/24</td>
+    <td>Espinoza</td>
+    <td>Redacción de entrevistas</td>
+  </tr>
+  
+   <tr>
+    <td>2.2</td>
+    <td>07/06/24</td>
+    <td>Pinto</td>
+    <td>Realización del Development Evidence for Sprint Review</td>
+  </tr>
   
 </table>
 
