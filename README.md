@@ -138,6 +138,27 @@ Abril 2024
     <td>De la Piedra, Pinto, Espinoza, Mendez, Matos</td>
     <td>Redacción de conclusiones</td>
   </tr>
+
+  <tr>
+    <td>2.1</td>
+    <td>07/06/24</td>
+    <td>Matos</td>
+    <td>Sprint 3 </td>
+  </tr>
+
+   <tr>
+    <td>2.11</td>
+    <td>07/06/24</td>
+    <td>Espinoza</td>
+    <td>Redacción de entrevistas</td>
+  </tr>
+  
+   <tr>
+    <td>2.2</td>
+    <td>07/06/24</td>
+    <td>Pinto</td>
+    <td>Realización del Development Evidence for Sprint Review</td>
+  </tr>
   
 </table>
 
@@ -167,9 +188,9 @@ Commits en reporte avance TB1:
 
 # **Tabla de Contenido**
 
-- [Registro de Versiones](#registro-de-versiones)
-- [Student Outcome](#student-outcome)
-- [Capítulo I: Introducción](#Capítulo-I-Introducción)
+- ## [Registro de Versiones](#registro-de-versiones)
+- ## [Student Outcome](#student-outcome-1)
+- ## [Capítulo I: Introducción](#Capítulo-I-Introducción-1)
   - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -181,7 +202,7 @@ Commits en reporte avance TB1:
       - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
       - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
   - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
-- [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis)
+- ## [Capítulo II: Requirements Elicitation & Analysis](#Capítulo-II-Requirements-Elicitation--Analysis-1)
   - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -195,13 +216,13 @@ Commits en reporte avance TB1:
     - [2.3.3. User Journey Mapping](#233-user-journey-mapping)
     - [2.3.4. Empathy Mapping](#234-empathy-mapping)
     - [2.3.5. As-is Scenario Mapping](#235-as-is-scenario-mapping)
-  - [2.4. Ubiquitous Language](#23-ubiquitous-language)
-- [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification)
+  - [2.4. Ubiquitous Language](#24-ubiquitous-language)
+- ## [Capítulo III: Requirements Specification](#Capítulo-III-Requirements-Specification-1)
   - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
   - [3.2. User Stories](#32-user-stories)
   - [3.3. Impact Mapping](#33-impact-mapping)
   - [3.4. Product Backlog](#34-product-backlog)
-- [Capítulo IV: Product Design](#Capítulo-IV-Product-Design)
+- ## [Capítulo IV: Product Design](#Capítulo-IV-Product-Design-1)
   - [4.1. Style Guidelines](#41-style-guidelines)
     - [4.1.1. General Style Guidelines](#411-general-style-guidelines)
     - [4.1.2. Web Style Guidelines](#412-web-style-guidelines)
@@ -229,39 +250,57 @@ Commits en reporte avance TB1:
     - [4.7.2. Class Dictionary](#472-class-dictionary)
   - [4.8. Database Design](#48-database-design)
     - [4.8.1. Database Diagram](#481-database-diagram)
-- [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment)
+- ## [Capítulo V: Product Implementation, Validation & Deployment](#Capítulo-V-Product-Implementation-Validation--Deployment-1)
   - [5.1. Software Configuration Management](#51-software-configuration-management)
     - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
     - [5.1.2. Source Code Management](#512-source-code-management)
     - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide--conventions)
     - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
   - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
-    - [5.2.1. Sprint n](#521-sprint-n)
-      - [5.2.1.1. Sprint Planning n](#5211-sprint-planning-n)
-       -[5.2.1.2. Sprint Backlog n](#5212-sprint-backlog-n)
+    - [5.2.1. Sprint 1](#521-sprint-1)
+      - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+      - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
       - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
       - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
       - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
       - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
       - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
       - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 3](#523-sprint-3)
+      - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+      - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-2)
+      - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
   - [5.4. Video About-the-Product](#54-video-about-the-product)
-- [Conclusiones](#conclusiones)
+- ## [Conclusiones](#conclusiones-1)
   - [Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)
-- [Video About-the-Team](#video-about-the-team)
-- [Bibliografía](#bibliografía)
-- [Anexos](#anexos)
+  - [Video About-the-Team](#video-about-the-team)
+- ## [Bibliografía](#bibliografía-1)
+- ## [Anexos](#anexos-1)
 
 # Student Outcome
 
 |Criterio específico|Acciones realizadas|Conclusiones|
 | :- | :- | :- |
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1: Durante el proyecto, demostré mi capacidad para comunicar oralmente mis ideas y resultados de forma objetiva a un público diverso, incluyendo personas con diferentes especialidades y niveles jerárquicos. Durante las reuniones de equipo y las presentaciones de progreso, fui capaz de transmitir de manera clara y concisa los aspectos técnicos del proyecto, adaptando mi lenguaje según las necesidades y el conocimiento de la audiencia. Esta habilidad me permitió mantener una comunicación efectiva con los miembros del equipo y los interesados, facilitando así el avance exitoso del proyecto y fortaleciendo las relaciones interpersonales en el entorno laboral.**</p><p></p><p>**TB2: Comuniqué de manera clara y objetiva los avances a un público diverso en términos de especialidades y niveles de experiencia en ingeniería. Adapté mi discurso para garantizar la comprensión de todos los presentes, contribuyendo así a mantener al equipo alineado y comprometido con los objetivos del proyecto.**</p><p></p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1: Durante el desarrollo del proyecto pude comunicarme mediante las entrevistas con nuestro segmento objetivo de gerente de taller, lo que luego me permitió lograr realizar un mejor trabajo y expresar mejor los features necesarios para la realización de la aplicación web**</p><p></p><p>**TP: Comuniqué claramente el objetivo de mis pages en el front-end al realizar siguiendo nuestras user stories y product backlog el desarrollo de features teniendo en cuenta su jerarquía de relevancia.** </p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:** </p><p>**Me enfoqué en la investigación y análisis iniciales del proyecto, incluyendo entrevistas con propietarios y la identificación de desafíos potenciales. También investigué a competidores y diseñe estrategias. Mantuvimos una comunicación activa con otros equipos para compartir información y aprovechar el tiempo.**</p><p>**TP: Durante esta etapa, mantuve una comunicación constante con mis compañeros para identificar errores de entregas pasadas y también para comunicar los errores que surgieron durante el desarrollo del front-end, ayudándonos mutuamente en el proceso.**</p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** </p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:** </p><p>**Durante la ejecución del proyecto, tuve la oportunidad de entrevistar a los gerentes de taller que conforman nuestro público objetivo. Esta interacción me permitió mejorar mi desempeño y definir con mayor precisión las características necesarias para la creación de la aplicación web.**</p><p></p><p>**TP: Expresé de manera efectiva el propósito de mis páginas en el front-end al desarrollar las características según nuestras historias de usuario y el backlog de productos, considerando la importancia jerárquica de cada una.**</p>|<p>**TB1:** </p><p>**la comunicación oral efectiva desempeñó un papel fundamental en el éxito de los proyectos, permitiendo la comprensión técnica, el alineamiento del equipo, la mejora continua y la definición precisa de requerimientos, destacando así la importancia de esta habilidad en el contexto de la ingeniería y el trabajo colaborativo.**</p><p>**TP:**</p><p>**Una comunicación oral efectiva fue fundamental para el éxito de los proyectos, permitiendo comprender aspectos técnicos, alinear al equipo, mejorar continuamente y definir con precisión los requisitos necesarios. Esto resalta la importancia crucial de esta habilidad en el contexto de la ingeniería y el trabajo colaborativo.**</p>|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1:** </p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1: Mi enfoque consiste en redactar de manera objetiva, utilizando un lenguaje claro y preciso que sea comprensible para audiencias con diferentes niveles de experiencia y especialidades. Esto garantiza que la información se transmita de manera eficiente y que todos los miembros del equipo estén al tanto del progreso y los hallazgos del proyecto.**</p><p></p><p>**TP: En el ámbito de la ingeniería, al redactar las correcciones de nuestro documento me esfuerzo por esta vez utilizar un lenguaje claro y preciso que sea comprensible para no generar complicaciones en realización de sesiones futuras.** </p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1:En esta entrega, contribuí en la redacción de varias secciones del documento, centrándome especialmente en las áreas de diseño y en la elaboración de historias de usuario. Además, fui responsable de redactar la sección relacionada con nuestros competidores y sus estrategias.**</p><p>**TP:En esta entrega, me ocupé de corregir algunos errores en el documento anterior y en la landing page. Además, de brindar apoyo en el desarrollo de una parte del frontend.**</p><p></p><p>**Méndez Vargas, Sebastian Orlando**</p><p>**TB1:** </p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1:**.</p><p>**Durante la ejecución del proyecto, tuve la oportunidad de entrevistar a los gerentes de taller que conforman nuestro público objetivo. Esta interacción me permitió mejorar mi desempeño y definir con mayor precisión las características necesarias para la creación de la aplicación web.**</p><p>TP:**Expresé de manera efectiva el propósito de mis páginas en el front-end al desarrollar las características según nuestras historias de usuario y el backlog de productos, considerando la importancia jerárquica de cada una.**</p><p></p>|<p>**TB1:**</p><p>**La capacidad de comunicarse oralmente de manera efectiva fue crucial para el logro exitoso de los proyectos, facilitando la comprensión técnica, la cohesión del equipo, la evolución constante y la especificación clara de los requisitos, resaltando así la importancia de esta habilidad en el ámbito de la ingeniería y la colaboración laboral.**</p><p>**TP:**</p><p>**La habilidad de comunicación verbal fue clave para el éxito de los proyectos, facilitando la comprensión técnica, la alineación del equipo, la mejora continua y la definición precisa de requisitos. Esto subraya la importancia fundamental de esta destreza en el contexto de la ingeniería y la colaboración efectiva.**</p>|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1: Durante el proyecto, demostré mi capacidad para comunicar oralmente mis ideas y resultados de forma objetiva a un público diverso, incluyendo personas con diferentes especialidades y niveles jerárquicos. Durante las reuniones de equipo y las presentaciones de progreso, fui capaz de transmitir de manera clara y concisa los aspectos técnicos del proyecto, adaptando mi lenguaje según las necesidades y el conocimiento de la audiencia. Esta habilidad me permitió mantener una comunicación efectiva con los miembros del equipo y los interesados, facilitando así el avance exitoso del proyecto y fortaleciendo las relaciones interpersonales en el entorno laboral.**</p><p></p><p>**TP: Comuniqué de manera clara y objetiva los avances a un público diverso en términos de especialidades y niveles de experiencia en ingeniería. Adapté mi discurso para garantizar la comprensión de todos los presentes, contribuyendo así a mantener al equipo alineado y comprometido con los objetivos del proyecto.**</p><p></p><p>**TB2: Demostre la capacidad de comunicar oralmente mis ideas y resultados con objetividad durante el desarrollo de proyectos de ingeniería. Presente información clara y coherente, adaptada a diversas audiencias y niveles jerárquicos. Fomento el diálogo interactivo y utilizo herramientas visuales para mejorar la comprensión. Mantengo profesionalismo, confianza y claridad en mis presentaciones e interacciones.**</p><p></p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1: Durante el desarrollo del proyecto pude comunicarme mediante las entrevistas con nuestro segmento objetivo de gerente de taller, lo que luego me permitió lograr realizar un mejor trabajo y expresar mejor los features necesarios para la realización de la aplicación web**</p><p></p><p>**TP: Comuniqué claramente el objetivo de mis pages en el front-end al realizar siguiendo nuestras user stories y product backlog el desarrollo de features teniendo en cuenta su jerarquía de relevancia.** </p><p></p><p>**TB2: En esta entrega pude comunicarme con mis compañero para lograr los objetivos planteados, además de agilizar enormemente el progreso de la entrega.**</p><p></p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1: Me enfoqué en la investigación y análisis iniciales del proyecto, incluyendo entrevistas con propietarios y la identificación de desafíos potenciales. También investigué a competidores y diseñe estrategias. Mantuvimos una comunicación activa con otros equipos para compartir información y aprovechar el tiempo.**</p><p>**TP: Durante esta etapa, mantuve una comunicación constante con mis compañeros para identificar errores de entregas pasadas y también para comunicar los errores que surgieron durante el desarrollo del front-end, ayudándonos mutuamente en el proceso.**</p><p>**TB2: En esta entrega , logré mejorar significativamente mis habilidades de comunicación con mis compañeros y el equipo en general, lo que resultó en una colaboración más efectiva y una mayor cohesión grupal.**</p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1: Durante la ejecución del proyecto, tuve la oportunidad de entrevistar a los gerentes de taller que conforman nuestro público objetivo. Esta interacción me permitió mejorar mi desempeño y definir con mayor precisión las características necesarias para la creación de la aplicación web.**</p><p></p><p>**TP: Expresé de manera efectiva el propósito de mis páginas en el front-end al desarrollar las características según nuestras historias de usuario y el backlog de productos, considerando la importancia jerárquica de cada una.**</p><p>**TB2: Transmití claramente el propósito de mis páginas en el front-end al desarrollar las características basadas en nuestras historias de usuario y el backlog de productos, teniendo en cuenta la prioridad de cada una.**</p>|<p>**TB1:** </p><p>**la comunicación oral efectiva desempeñó un papel fundamental en el éxito de los proyectos, permitiendo la comprensión técnica, el alineamiento del equipo, la mejora continua y la definición precisa de requerimientos, destacando así la importancia de esta habilidad en el contexto de la ingeniería y el trabajo colaborativo.**</p><p>**TP:**</p><p>**Una comunicación oral efectiva fue fundamental para el éxito de los proyectos, permitiendo comprender aspectos técnicos, alinear al equipo, mejorar continuamente y definir con precisión los requisitos necesarios. Esto resalta la importancia crucial de esta habilidad en el contexto de la ingeniería y el trabajo colaborativo.**</p><p>**TB2:**</p><p>**La habilidad de comunicar oralmente ideas y resultados de manera objetiva a audiencias diversas es crucial en proyectos de ingeniería. Este criterio asegura que los estudiantes presenten información técnica claramente, mejorando la colaboración y entendimiento entre equipos multidisciplinarios, y fortaleciendo su liderazgo y capacidad de influencia profesional.**</p>|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.|<p>**De la Piedra Quintanilla, Erwin Miquel**</p><p>**TB1: Emplee gráficos, tablas y otras herramientas visuales para mejorar la comprensión de la información compleja en mis documentos escritos. Aseguro que mi estilo de redacción sea claro, estructurado y adecuado para audiencias de distintos niveles jerárquicos y especialidades.**</p><p>**TP: Demostre la capacidad de comunicar por escrito mis ideas y resultados con objetividad durante el desarrollo de proyectos de ingeniería. Redacte información clara y coherente, adaptada a audiencias de diferentes especialidades y niveles jerárquicos, manteniendo siempre un lenguaje preciso y profesional.**</p><p>**TB2: Demuestro la capacidad de comunicar por escrito mis ideas y resultados con objetividad durante el desarrollo de proyectos de ingeniería. Redacto información clara y coherente, adaptada a audiencias de diferentes especialidades y niveles jerárquicos. Utilizo un lenguaje preciso y profesional, empleando gráficos y tablas cuando es necesario para mejorar la comprensión. Mantengo un estilo claro y estructurado en todos mis documentos.**</p><p>**Pinto Fuentes Rivera, Alvaro Felipe**</p><p>**TB1: Mi enfoque consiste en redactar de manera objetiva, utilizando un lenguaje claro y preciso que sea comprensible para audiencias con diferentes niveles de experiencia y especialidades. Esto garantiza que la información se transmita de manera eficiente y que todos los miembros del equipo estén al tanto del progreso y los hallazgos del proyecto.**</p><p></p><p>**TP: En el ámbito de la ingeniería, al redactar las correcciones de nuestro documento me esfuerzo por esta vez utilizar un lenguaje claro y preciso que sea comprensible para no generar complicaciones en realización de sesiones futuras.** </p><p></p><p>**TB2: Pude contribuir a la creación de varios puntos de la api en el backend además incluí y mejore secciones de nuestro front end en base a lo que establecimos tanto en nuestras historias de usuario como product backlog.**</p><p>**Espinoza Saenz,Christian Renato**</p><p>**TB1: En esta entrega, contribuí en la redacción de varias secciones del documento, centrándome especialmente en las áreas de diseño y en la elaboración de historias de usuario. Además, fui responsable de redactar la sección relacionada con nuestros competidores y sus estrategias.**</p><p>**TP: En esta entrega, me ocupé de corregir algunos errores en el documento anterior y en la landing page. Además, de brindar apoyo en el desarrollo de una parte del frontend.**</p><p></p><p>**TB2: En esta entrega, logré organizar adecuadamente las entidades para su uso en el backend, teniendo en cuenta las historias de usuario y lo establecido.** </p><p>**Matos Ferrnandez, Christian André**</p><p>**TB1: Durante la ejecución del proyecto, tuve la oportunidad de entrevistar a los gerentes de taller que conforman nuestro público objetivo. Esta interacción me permitió mejorar mi desempeño y definir con mayor precisión las características necesarias para la creación de la aplicación web.**</p><p>**TP: Expresé de manera efectiva el propósito de mis páginas en el front-end al desarrollar las características según nuestras historias de usuario y el backlog de productos, considerando la importancia jerárquica de cada una.**</p><p>**TB2: Transmití claramente el propósito de mis páginas en el front-end al desarrollar las características basadas en nuestras historias de usuario y el backlog de productos, teniendo en cuenta la prioridad de cada una.**</p>|<p>**TB1:**</p><p>**La capacidad de comunicarse oralmente de manera efectiva fue crucial para el logro exitoso de los proyectos, facilitando la comprensión técnica, la cohesión del equipo, la evolución constante y la especificación clara de los requisitos, resaltando así la importancia de esta habilidad en el ámbito de la ingeniería y la colaboración laboral.**</p><p>**TP:**</p><p>**La habilidad de comunicación verbal fue clave para el éxito de los proyectos, facilitando la comprensión técnica, la alineación del equipo, la mejora continua y la definición precisa de requisitos. Esto subraya la importancia fundamental de esta destreza en el contexto de la ingeniería y la colaboración efectiva.**</p><p>**TB2:**</p><p>**La habilidad de comunicación verbal fue esencial para el éxito de los proyectos, ya que facilitó la comprensión técnica, la alineación del equipo, la mejora continua y la definición precisa de los requisitos. Esto resalta la importancia crucial de esta destreza en el ámbito de la ingeniería y la colaboración efectiva.**</p>|
 
 
 # Capítulo I: Introducción
@@ -2436,6 +2475,8 @@ Durante la implementación del FrontEnd Web Applications, todos los miembros del
 <img src="img/aaaaaaaaaaaaa.png" alt="Logo del servicio" width="100%">
 
 
+
+
 Nos dividimos de la siguiente forma para trabajar en el Landing Page:
 
 
@@ -2453,7 +2494,190 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 
 <img src="img/branches_applications.png" alt="Logo del servicio" width="100%">
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning 3
 
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-05-21|
+|Time|07:00 PM|
+|Location|Virtual|
+|Prepared by|Matos Fernandez, Christian Andre|
+|Attendees (to planning meeting)|<p>De la Piedra Quintanilla, Erwin Miquel</p><p>U202112179</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>U202213384</p><p>Espinoza Saenz,Christian Renato</p><p>U202213208</p><p>Méndez Vargas, Sebastian Orlando</p><p>U20201F140</p><p>Matos Ferrnandez, Christian André</p><p>U202214162</p>|
+|Sprint n - 2 Review Summary|En el sprint 2, se realizó la implementación de la vista del administrador del taller.|
+|Sprint n - 2 Retrospective Summary|En la última entrega, enfrentamos diversos contratiempos y demoras en los plazos establecidos para finalizar las labores asignadas a cada integrante del equipo. Por ello, hemos mantenido conversaciones para evitar una repetición de esta situación y garantizar el cumplimiento de los plazos acordados inicialmente.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar la sección final del Frontend de la aplicación web y la sección inicial del Back End|
+|Sprint 3 Velocity|28|
+|Sum of Story Points|28|
+
+
+#### 5.2.3.2. Sprint Backlog 3
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US13</td><td colspan="1" rowspan="3" valign="top">Facturar y cobrar al cliente</td><td colspan="1" valign="top">TS01</td><td colspan="1" valign="top">Lista de Facturas</td><td colspan="1" valign="top">Crear una listas de facturas</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">TS02</td><td colspan="1" valign="top">Agregar Factura</td><td colspan="1" valign="top">Agregar la factura de un cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">TS03</td><td colspan="1" valign="top">Ver factura del cliente</td><td colspan="1" valign="top">Ver factura de un cliente específico</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US02</td><td colspan="1" valign="top">Visualización del Historial de Mantenimiento</td><td colspan="1" valign="top">TS04</td><td colspan="1" valign="top">Ver historial </td><td colspan="1" valign="top">Ver historial del mantenimiento del vehiculo</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US03</td><td colspan="1" valign="top">Listado de Vehículos</td><td colspan="1" valign="top">TS05</td><td colspan="1" valign="top">Listado de vehículos</td><td colspan="1" valign="top">Ver listados de vehículos de un cliente específico</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US04</td><td colspan="1" valign="top">Ver tiempo Estimado de Reparación</td><td colspan="1" valign="top">TS06</td><td colspan="1" valign="top">Ver tiempo estimado</td><td colspan="1" valign="top">Ver tiempo estimado en reparación</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US05</td><td colspan="1" valign="top">Detalle de tareas de mantenimiento</td><td colspan="1" valign="top">TS07</td><td colspan="1" valign="top">Tareas de mantenimiento</td><td colspan="1" valign="top">Tareas de detalle de mantenimiento</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US06</td><td colspan="1" valign="top">Visualización del costo de reparaciones</td><td colspan="1" valign="top">TS08</td><td colspan="1" valign="top">Costo de Reparaciones</td><td colspan="1" valign="top">Ver las reparaciones del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US07</td><td colspan="1" valign="top">Registrar nuevo cliente</td><td colspan="1" valign="top">TS09</td><td colspan="1" valign="top">Registrar cliente</td><td colspan="1" valign="top">Registrar nuevo cliente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US10</td><td colspan="1" valign="top">Eliminar Cliente</td><td colspan="1" valign="top">TS10</td><td colspan="1" valign="top">Eliminar cliente</td><td colspan="1" valign="top">Eliminar cliente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US19</td><td colspan="1" valign="top">Agregar un vehiculo cliente</td><td colspan="1" valign="top">TS11</td><td colspan="1" valign="top">Agregar vehículo</td><td colspan="1" valign="top">Agregar vehiculo del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Eliminar vehiculo del cliente</td><td colspan="1" valign="top">TS12</td><td colspan="1" valign="top">Eliminar vehículo</td><td colspan="1" valign="top">Eliminar vehiculo del cliente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Editar vehiculo cliente</td><td colspan="1" valign="top">TS13</td><td colspan="1" valign="top">Editar vehículo</td><td colspan="1" valign="top">Editar vehiculo del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US22</td><td colspan="1" valign="top">Listado de vehiculos del cliente</td><td colspan="1" valign="top">TS14</td><td colspan="1" valign="top">Ver listado de vehículos</td><td colspan="1" valign="top">Ver listado de vehiculos del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US32</td><td colspan="1" valign="top">Elegir plan de suscripción</td><td colspan="1" valign="top">TS15</td><td colspan="1" valign="top">Elegir plan</td><td colspan="1" valign="top">Ver listado de planes de suscripción</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Alvaro Pinto</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Optimizar gestión de inventario y compras</td><td colspan="1" valign="top">TS16</td><td colspan="1" valign="top">Gestión de Inventarios</td><td colspan="1" valign="top">Ver lista de inventario de la compañía</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Espinoza</td><td colspan="1" valign="top">DONE</td></tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|823e4d5|<p>[feat: added invoices](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications/commit/71fcdbce41ca7a69fac0e5971186e95d6dc8500b)</p><p></p>|<p>[added ](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications/commit/71fcdbce41ca7a69fac0e5971186e95d6dc8500b)invoice</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|bf43852|feat: add logo image to side navegation bar|<p>added logo image to side navegation bar</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|b26bc81|<p>fix: remove carpet invoices to manager directory</p><p></p>|<p>removed carpet invoices to manager directory</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|55d1d31|feat: move directoy services and model to mangar directory & added new methods(create, update and delete)|move directoy|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|473e1be|feat: functionality to enter invoices finished|functionality to enter invoices finished|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|a48fe0c|feat: move directory services and model|move directory services and model|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f0f03c4|feat: added customer list, card and profile component|added customer list, card and profile component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|35794af|feat: added add-customer component|added add-customer component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|08b9422|feat: added delete profile customer component|added delete profile customer component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|dad0dcd|feat: added edit information on customer profile|added edit information on customer profile|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f12184e|feat: added functionality to edit invoice status and delete invoice.|added functionality to edit invoice status and delete invoice.|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|86f51d2|feat: added home and notifications|added home and notifications|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|45aa3d1|feat: finished invoices|finished invoices|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|3f1603e|fix: fixed json|fixed json|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|43e216d|feat: added createInvoice into InvoiceService|added createInvoice into InvoiceService|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f75d694|feat: added login and signin components|added login and signin components|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|637437f|build: added server script|added server script|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|086a8bd|feat: added edit information on customer and css on customer view|added edit information on customer and css on customer view|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|d6bdcb0|feat: added product|added product|23/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|2d3e5d6|feat: added carpet clients|added carpet clients|23/05/24|
+
+#### 5.2.3.4. Testing Suite Evidence For Sprint Review
+#### 5.2.3.5. Exectuion for Sprint Review
+
+Evidencia de la ejecución: [Execution](https://youtu.be/b8KMBaZOJck)
+
+<img src="img/execution_sprint3.png" alt="Logo del servicio" width="100%">
+
+#### 5.2.3.6. Services Documentation Evidence For Sprint Review
+#### 5.2.3.7. Software Deployment Evidence For Sprint Review
+
+No se realizo el deployment de front end ni de web services
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Para la parte del Front End
+
+Hemos trabajado en las siguientes ramas:
+
+<img src="img/insights1_sprint3.png" alt="Logo del servicio" width="100%">
+
+- Christian Matos: Invoices, Menu, Notifications & Db.json
+- Miquel De La Piedra: Customers
+- Christian Espinoza: Inventory
+- Alvaro Pinto: Workshop & Auth
+- Sebastian Mendez: Vehicles
+
+Como siguiente se va a mostrar los commits que hizo cada participante
+
+<img src="img/insights_sprint3.png" alt="insight" width="100%">
+
+
+Para la parte del Back End:
+
+<img src="img/insights2_sprint3.png" alt="insight" width="100%">
+<img src="img/insights3_sprint3.png" alt="insight" width="100%">
+<img src="img/insights4_sprint3.png" alt="insight" width="100%">
+
+
+## 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+#### Segmento #1: Propietarios de Vehículo
+
+##### Landing Page.
+1. ¿Cuál es tu impresión general de la landing page?
+2. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+3. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+4. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+5. ¿El llamado a la acción es directo y convincente?
+6. ¿La navegación resulta intuitiva y fácil de usar?
+7. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+8. ¿El contenido te brinda confianza en la calidad del producto ofrecido?
+9. ¿Identificas algún aspecto confuso o que no contribuya al valor de la página?
+10. ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
+
+##### Aplicación Web.
+1. ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para tus tareas diarias?
+2. ¿Te resulta agradable la combinación de colores de la aplicación mientras gestionas el taller? ¿Por qué?
+3. ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad mientras trabajas?
+4. ¿Encuentras útiles y claros los iconos e imágenes al navegar por la aplicación?
+5. ¿La organización y disposición de los elementos en la pantalla facilitan tu trabajo?
+6. ¿Percibes consistencia en el diseño estético a lo largo de toda la aplicación?
+7. ¿Cómo calificarías la armonía entre la estética visual y la funcionalidad necesaria para tus tareas?
+8. ¿Consideras la aplicación visualmente atractiva y adecuada para el entorno de un taller? ¿Qué aspectos destacarías?
+9. ¿Hay algún elemento visual que consideres innecesario o que distraiga tu atención durante el uso de la aplicación?
+10. ¿Qué recomendaciones harías para mejorar la apariencia visual de la aplicación para que sea más efectiva en tu trabajo diario?
+
+#### Segmento #2: Administradores de Taller
+##### Landing Page.
+1. ¿Cuál es tu impresión general de la landing page?
+2. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+3. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+4. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+5. ¿El llamado a la acción es directo y convincente?
+6. ¿La navegación resulta intuitiva y fácil de usar?
+7. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+8. ¿El contenido te brinda confianza en la calidad del producto ofrecido?
+9. ¿Identificas algún aspecto confuso o que no contribuya al valor de la página?
+10. ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
+##### Aplicación Web.
+1. ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para verificar el estado de tu vehículo?
+2. ¿Te parece agradable y atractiva la combinación de colores de la aplicación? ¿Por qué?
+3. ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad cuando revisas la información de tu vehículo?
+4. ¿Encuentras útiles y claros los iconos e imágenes al navegar por la aplicación?
+5. ¿La organización y disposición de los elementos en la pantalla facilitan la revisión del estado de tu vehículo?
+6. ¿Percibes consistencia en el diseño estético a lo largo de toda la aplicación?
+7. ¿Cómo calificarías el equilibrio entre la estética visual y la funcionalidad de la aplicación para tus necesidades?
+8. ¿Consideras la aplicación visualmente atractiva y adecuada para el seguimiento del estado de tu vehículo? 
+¿Qué aspectos destacarías?
+9. ¿Hay algún elemento visual que consideres innecesario o que distraiga tu atención durante el uso de la aplicación?
+10. ¿Qué recomendaciones harías para mejorar la apariencia visual de la aplicación para que sea más efectiva al revisar el estado de tu vehículo?
+
+
+
+### 5.3.2. Registro de Entrevistas
+
+#### Entrevista  - Segmento Objetivo: Administrador de taller
+
+- Fecha Entrevista: 06/06/2024 
+- Entrevistador: Miquel De la Piedra Quintanilla 
+- Entrevistado: Alfredo Baca Lara
+#### Datos del entrevistado: 	
+- Edad: 64 años
+- Distrito: Surco
+-Link del Video de la Entrevista:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/EVs5XMGH_15LiLr3vHyWHtUBp-NKFQu8Iacuxa0Obyg44A?e=iZQjUQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/EVs5XMGH_15LiLr3vHyWHtUBp-NKFQu8Iacuxa0Obyg44A?e=iZQjUQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### Resumen de la entrevista:
+
+Alfredo Baca Lara tuvo una impresión muy positiva tanto de la landing page como de la aplicación web. Destacó la claridad y concisión de la información en la landing page, así como la efectividad de los elementos visuales y el llamado a la acción. La navegación le resultó intuitiva y fácil de usar, y no encontró aspectos confusos. En cuanto a la aplicación web, Alfredo valoró su diseño atractivo y organizado, con una combinación de colores agradable y una tipografía legible. Los iconos e imágenes le parecieron claros y útiles, y percibió consistencia en todo el diseño. Recomienda añadir opciones de personalización para mejorar aún más la experiencia del usuario.
+
+### 5.3.3. Evaluaciones según heuristicas
+
+## 5.4. Video About-the-Product
+
+<img src="img/video-about-theteam.png" alt="insight" width="100%">
+
+Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214162_upc_edu_pe/Ee59v6EXa1JIpkoGcd3FuyoBH5Q7-3cO4OIhgWTXLZTlgA?e=Bqy7FH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214162_upc_edu_pe/Ee59v6EXa1JIpkoGcd3FuyoBH5Q7-3cO4OIhgWTXLZTlgA?e=Bqy7FH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 # Conclusiones
 
 1. *Identificación de una Necesidad Real*: A través de la investigación y el desarrollo de este proyecto, queda claro que existe una necesidad real en el mercado automotriz peruano de una solución tecnológica que mejore la gestión de clientes y la comunicación en las automotrices.
@@ -2465,6 +2689,11 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 4. *Importancia de la Validación Continua*: La validación continua de supuestos y la retroalimentación de los usuarios son fundamentales para el desarrollo exitoso de la plataforma. Es crucial adaptarse y mejorar constantemente en función de los comentarios y datos obtenidos durante el proceso.
 
 5. *Impacto en la Eficiencia Operativa*: Finalmente, se espera que la implementación de la plataforma tenga un impacto positivo en la eficiencia operativa de las automotrices, reduciendo los tiempos de espera, mejorando la comunicación interna y externa, y aumentando la satisfacción tanto de los clientes como del personal técnico y administrativo.
+
+Video About-the-team
+
+
+
 
 # Bibliografía
 
