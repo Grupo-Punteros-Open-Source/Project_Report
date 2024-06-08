@@ -2475,13 +2475,108 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 
 ### 5.2.3. Sprint 3
 #### 5.2.3.1. Sprint Planning 3
+
+|**Sprint #**|Sprint 3|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-05-21|
+|Time|07:00 PM|
+|Location|Virtual|
+|Prepared by|Matos Fernandez, Christian Andre|
+|Attendees (to planning meeting)|<p>De la Piedra Quintanilla, Erwin Miquel</p><p>U202112179</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>U202213384</p><p>Espinoza Saenz,Christian Renato</p><p>U202213208</p><p>Méndez Vargas, Sebastian Orlando</p><p>U20201F140</p><p>Matos Ferrnandez, Christian André</p><p>U202214162</p>|
+|Sprint n - 2 Review Summary|En el sprint 2, se realizó la implementación de la vista del administrador del taller.|
+|Sprint n - 2 Retrospective Summary|En la última entrega, enfrentamos diversos contratiempos y demoras en los plazos establecidos para finalizar las labores asignadas a cada integrante del equipo. Por ello, hemos mantenido conversaciones para evitar una repetición de esta situación y garantizar el cumplimiento de los plazos acordados inicialmente.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar la sección final del Frontend de la aplicación web y la sección inicial del Back End|
+|Sprint 3 Velocity|28|
+|Sum of Story Points|28|
+
+
 #### 5.2.3.2. Sprint Backlog 3
+
+<table><tr><th colspan="1" valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 3</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Id</td><td colspan="1" valign="top">Title</td><td colspan="1" valign="top">Description</td><td colspan="1" valign="top">Estimation (Hours)</td><td colspan="1" valign="top">Assigned To</td><td colspan="1" valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td colspan="1" rowspan="3" valign="top">US13</td><td colspan="1" rowspan="3" valign="top">Facturar y cobrar al cliente</td><td colspan="1" valign="top">TS01</td><td colspan="1" valign="top">Lista de Facturas</td><td colspan="1" valign="top">Crear una listas de facturas</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">TS02</td><td colspan="1" valign="top">Agregar Factura</td><td colspan="1" valign="top">Agregar la factura de un cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">TS03</td><td colspan="1" valign="top">Ver factura del cliente</td><td colspan="1" valign="top">Ver factura de un cliente específico</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Matos</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US02</td><td colspan="1" valign="top">Visualización del Historial de Mantenimiento</td><td colspan="1" valign="top">TS04</td><td colspan="1" valign="top">Ver historial </td><td colspan="1" valign="top">Ver historial del mantenimiento del vehiculo</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US03</td><td colspan="1" valign="top">Listado de Vehículos</td><td colspan="1" valign="top">TS05</td><td colspan="1" valign="top">Listado de vehículos</td><td colspan="1" valign="top">Ver listados de vehículos de un cliente específico</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US04</td><td colspan="1" valign="top">Ver tiempo Estimado de Reparación</td><td colspan="1" valign="top">TS06</td><td colspan="1" valign="top">Ver tiempo estimado</td><td colspan="1" valign="top">Ver tiempo estimado en reparación</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US05</td><td colspan="1" valign="top">Detalle de tareas de mantenimiento</td><td colspan="1" valign="top">TS07</td><td colspan="1" valign="top">Tareas de mantenimiento</td><td colspan="1" valign="top">Tareas de detalle de mantenimiento</td><td colspan="1" valign="top">1</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US06</td><td colspan="1" valign="top">Visualización del costo de reparaciones</td><td colspan="1" valign="top">TS08</td><td colspan="1" valign="top">Costo de Reparaciones</td><td colspan="1" valign="top">Ver las reparaciones del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US07</td><td colspan="1" valign="top">Registrar nuevo cliente</td><td colspan="1" valign="top">TS09</td><td colspan="1" valign="top">Registrar cliente</td><td colspan="1" valign="top">Registrar nuevo cliente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US10</td><td colspan="1" valign="top">Eliminar Cliente</td><td colspan="1" valign="top">TS10</td><td colspan="1" valign="top">Eliminar cliente</td><td colspan="1" valign="top">Eliminar cliente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US19</td><td colspan="1" valign="top">Agregar un vehiculo cliente</td><td colspan="1" valign="top">TS11</td><td colspan="1" valign="top">Agregar vehículo</td><td colspan="1" valign="top">Agregar vehiculo del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US20</td><td colspan="1" valign="top">Eliminar vehiculo del cliente</td><td colspan="1" valign="top">TS12</td><td colspan="1" valign="top">Eliminar vehículo</td><td colspan="1" valign="top">Eliminar vehiculo del cliente</td><td colspan="1" valign="top">3</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US21</td><td colspan="1" valign="top">Editar vehiculo cliente</td><td colspan="1" valign="top">TS13</td><td colspan="1" valign="top">Editar vehículo</td><td colspan="1" valign="top">Editar vehiculo del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Sebastian Méndez</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US22</td><td colspan="1" valign="top">Listado de vehiculos del cliente</td><td colspan="1" valign="top">TS14</td><td colspan="1" valign="top">Ver listado de vehículos</td><td colspan="1" valign="top">Ver listado de vehiculos del cliente</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Miquel de la Piedra</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US32</td><td colspan="1" valign="top">Elegir plan de suscripción</td><td colspan="1" valign="top">TS15</td><td colspan="1" valign="top">Elegir plan</td><td colspan="1" valign="top">Ver listado de planes de suscripción</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Alvaro Pinto</td><td colspan="1" valign="top">DONE</td></tr>
+<tr><td colspan="1" valign="top">US18</td><td colspan="1" valign="top">Optimizar gestión de inventario y compras</td><td colspan="1" valign="top">TS16</td><td colspan="1" valign="top">Gestión de Inventarios</td><td colspan="1" valign="top">Ver lista de inventario de la compañía</td><td colspan="1" valign="top">2</td><td colspan="1" valign="top">Christian Espinoza</td><td colspan="1" valign="top">DONE</td></tr>
+</table>
+
 #### 5.2.3.3. Development Evidence for Sprint Review
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|823e4d5|<p>[feat: added invoices](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications/commit/71fcdbce41ca7a69fac0e5971186e95d6dc8500b)</p><p></p>|<p>[added ](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications/commit/71fcdbce41ca7a69fac0e5971186e95d6dc8500b)invoice</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|bf43852|feat: add logo image to side navegation bar|<p>added logo image to side navegation bar</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|b26bc81|<p>fix: remove carpet invoices to manager directory</p><p></p>|<p>removed carpet invoices to manager directory</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|55d1d31|feat: move directoy services and model to mangar directory & added new methods(create, update and delete)|move directoy|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|473e1be|feat: functionality to enter invoices finished|functionality to enter invoices finished|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|a48fe0c|feat: move directory services and model|move directory services and model|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f0f03c4|feat: added customer list, card and profile component|added customer list, card and profile component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|35794af|feat: added add-customer component|added add-customer component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|08b9422|feat: added delete profile customer component|added delete profile customer component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|dad0dcd|feat: added edit information on customer profile|added edit information on customer profile|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f12184e|feat: added functionality to edit invoice status and delete invoice.|added functionality to edit invoice status and delete invoice.|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|86f51d2|feat: added home and notifications|added home and notifications|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|45aa3d1|feat: finished invoices|finished invoices|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|3f1603e|fix: fixed json|fixed json|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|43e216d|feat: added createInvoice into InvoiceService|added createInvoice into InvoiceService|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f75d694|feat: added login and signin components|added login and signin components|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|637437f|build: added server script|added server script|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|086a8bd|feat: added edit information on customer and css on customer view|added edit information on customer and css on customer view|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|d6bdcb0|feat: added product|added product|23/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|2d3e5d6|feat: added carpet clients|added carpet clients|23/05/24|
+
 #### 5.2.3.4. Testing Suite Evidence For Sprint Review
 #### 5.2.3.5. Exectuion for Sprint Review
+
+Evidencia de la ejecución: [Execution](https://youtu.be/b8KMBaZOJck)
+
+<img src="img/execution_sprint3.png" alt="Logo del servicio" width="100%">
+
 #### 5.2.3.6. Services Documentation Evidence For Sprint Review
 #### 5.2.3.7. Software Deployment Evidence For Sprint Review
+
+No se realizo el deployment de front end ni de web services
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Para la parte del Front End
+
+Hemos trabajado en las siguientes ramas:
+
+<img src="img/insights1_sprint3.png" alt="Logo del servicio" width="100%">
+
+- Christian Matos: Invoices, Menu, Notifications & Db.json
+- Miquel De La Piedra: Customers
+- Christian Espinoza: Inventory
+- Alvaro Pinto: Workshop & Auth
+- Sebastian Mendez: Vehicles
+
+Como siguiente se va a mostrar los commits que hizo cada participante
+
+<img src="img/insights_sprint3.png" alt="insight" width="100%">
+
+
+Para la parte del Back End:
+
+<img src="img/insights2_sprint3.png" alt="insight" width="100%">
+<img src="img/insights3_sprint3.png" alt="insight" width="100%">
+<img src="img/insights4_sprint3.png" alt="insight" width="100%">
+
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
@@ -2490,9 +2585,9 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 
 ## 5.4. Video About-the-Product
 
+<img src="img/video-about-theteam.png" alt="insight" width="100%">
 
-
-
+Link: [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214162_upc_edu_pe/Ee59v6EXa1JIpkoGcd3FuyoBH5Q7-3cO4OIhgWTXLZTlgA?e=Bqy7FH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214162_upc_edu_pe/Ee59v6EXa1JIpkoGcd3FuyoBH5Q7-3cO4OIhgWTXLZTlgA?e=Bqy7FH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 # Conclusiones
 
 1. *Identificación de una Necesidad Real*: A través de la investigación y el desarrollo de este proyecto, queda claro que existe una necesidad real en el mercado automotriz peruano de una solución tecnológica que mejore la gestión de clientes y la comunicación en las automotrices.
@@ -2506,6 +2601,9 @@ En línea con el flujo de trabajo de Gitflow, empleamos las ramas main, develop 
 5. *Impacto en la Eficiencia Operativa*: Finalmente, se espera que la implementación de la plataforma tenga un impacto positivo en la eficiencia operativa de las automotrices, reduciendo los tiempos de espera, mejorando la comunicación interna y externa, y aumentando la satisfacción tanto de los clientes como del personal técnico y administrativo.
 
 Video About-the-team
+
+
+
 
 # Bibliografía
 
