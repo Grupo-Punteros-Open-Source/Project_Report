@@ -2580,7 +2580,76 @@ Para la parte del Back End:
 
 ## 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+#### Segmento #1: Propietarios de Vehículo
+
+##### Landing Page.
+1. ¿Cuál es tu impresión general de la landing page?
+2. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+3. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+4. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+5. ¿El llamado a la acción es directo y convincente?
+6. ¿La navegación resulta intuitiva y fácil de usar?
+7. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+8. ¿El contenido te brinda confianza en la calidad del producto ofrecido?
+9. ¿Identificas algún aspecto confuso o que no contribuya al valor de la página?
+10. ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
+
+##### Aplicación Web.
+1. ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para tus tareas diarias?
+2. ¿Te resulta agradable la combinación de colores de la aplicación mientras gestionas el taller? ¿Por qué?
+3. ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad mientras trabajas?
+4. ¿Encuentras útiles y claros los iconos e imágenes al navegar por la aplicación?
+5. ¿La organización y disposición de los elementos en la pantalla facilitan tu trabajo?
+6. ¿Percibes consistencia en el diseño estético a lo largo de toda la aplicación?
+7. ¿Cómo calificarías la armonía entre la estética visual y la funcionalidad necesaria para tus tareas?
+8. ¿Consideras la aplicación visualmente atractiva y adecuada para el entorno de un taller? ¿Qué aspectos destacarías?
+9. ¿Hay algún elemento visual que consideres innecesario o que distraiga tu atención durante el uso de la aplicación?
+10. ¿Qué recomendaciones harías para mejorar la apariencia visual de la aplicación para que sea más efectiva en tu trabajo diario?
+
+#### Segmento #2: Administradores de Taller
+##### Landing Page.
+1. ¿Cuál es tu impresión general de la landing page?
+2. ¿Es fácil comprender la naturaleza de nuestro producto al revisar la página?
+3. ¿Los elementos visuales, como imágenes y colores, son atractivos y relevantes?
+4. ¿Consideras que la información proporcionada es clara y concisa, o percibes que hay demasiada o muy poca?
+5. ¿El llamado a la acción es directo y convincente?
+6. ¿La navegación resulta intuitiva y fácil de usar?
+7. ¿Qué opinas sobre la organización y disposición de los elementos en la página?
+8. ¿El contenido te brinda confianza en la calidad del producto ofrecido?
+9. ¿Identificas algún aspecto confuso o que no contribuya al valor de la página?
+10. ¿Qué sugerencias tendrías para mejorar la experiencia de usuario en la Landing Page estática de la aplicación, especialmente en cuanto a la navegación y presentación de información?
+##### Aplicación Web.
+1. ¿Cómo te sientes con el diseño general de la interfaz de usuario de la aplicación para verificar el estado de tu vehículo?
+2. ¿Te parece agradable y atractiva la combinación de colores de la aplicación? ¿Por qué?
+3. ¿Qué opinas sobre la tipografía y el tamaño del texto en términos de legibilidad cuando revisas la información de tu vehículo?
+4. ¿Encuentras útiles y claros los iconos e imágenes al navegar por la aplicación?
+5. ¿La organización y disposición de los elementos en la pantalla facilitan la revisión del estado de tu vehículo?
+6. ¿Percibes consistencia en el diseño estético a lo largo de toda la aplicación?
+7. ¿Cómo calificarías el equilibrio entre la estética visual y la funcionalidad de la aplicación para tus necesidades?
+8. ¿Consideras la aplicación visualmente atractiva y adecuada para el seguimiento del estado de tu vehículo? 
+¿Qué aspectos destacarías?
+9. ¿Hay algún elemento visual que consideres innecesario o que distraiga tu atención durante el uso de la aplicación?
+10. ¿Qué recomendaciones harías para mejorar la apariencia visual de la aplicación para que sea más efectiva al revisar el estado de tu vehículo?
+
+
+
 ### 5.3.2. Registro de Entrevistas
+
+#### Entrevista  - Segmento Objetivo: Administrador de taller
+
+- Fecha Entrevista: 06/06/2024 
+- Entrevistador: Miquel De la Piedra Quintanilla 
+- Entrevistado: Alfredo Baca Lara
+#### Datos del entrevistado: 	
+- Edad: 64 años
+- Distrito: Surco
+-Link del Video de la Entrevista:
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/EVs5XMGH_15LiLr3vHyWHtUBp-NKFQu8Iacuxa0Obyg44A?e=iZQjUQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213208_upc_edu_pe/EVs5XMGH_15LiLr3vHyWHtUBp-NKFQu8Iacuxa0Obyg44A?e=iZQjUQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+#### Resumen de la entrevista:
+
+Alfredo Baca Lara tuvo una impresión muy positiva tanto de la landing page como de la aplicación web. Destacó la claridad y concisión de la información en la landing page, así como la efectividad de los elementos visuales y el llamado a la acción. La navegación le resultó intuitiva y fácil de usar, y no encontró aspectos confusos. En cuanto a la aplicación web, Alfredo valoró su diseño atractivo y organizado, con una combinación de colores agradable y una tipografía legible. Los iconos e imágenes le parecieron claros y útiles, y percibió consistencia en todo el diseño. Recomienda añadir opciones de personalización para mejorar aún más la experiencia del usuario.
+
 ### 5.3.3. Evaluaciones según heuristicas
 
 ## 5.4. Video About-the-Product
