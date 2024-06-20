@@ -1066,35 +1066,35 @@ En resumen, aunque Sebastián Palacios y Leonardo Vargas comparten la importanci
           <th>Importancia</th>
         </tr>
         <tr>
-          <td valign="top">Preocupación por el estado del vehículo</td>
+          <td valign="top">Revisa el estado de su vehiculo</td>
           <td>Con frecuencia</td>
           <td>Alta</td>
           <td>Rara Vez</td>
           <td>Alta</td>
         </tr>
         <tr>
-          <td valign="top">Intranquilidad por no poder conocer el estado actual del vehículo</td>
+          <td valign="top">Piensa en tener controlado el estado actual del vehículo</td>
           <td>Rara vez</td>
           <td>Media</td>
           <td>Rara vez</td>
           <td>Media</td>
         </tr>
         <tr>
-          <td valign="top">Frustración por no lograr una mejor comunicación</td>
+          <td valign="top">Desea estar en constante comunicación con el cliente/gerente</td>
           <td>Con frecuencia</td>
           <td>Alta</td>
           <td>Con frecuencia</td>
           <td>Alta</td>
         </tr>
         <tr>
-          <td valign="top">Ansiedad por la salida del vehículo del taller</td>
+          <td valign="top">Minimizar el tiempo que toma el mantenimiento</td>
           <td>Con frecuencia</td>
           <td>Alta</td>
           <td>Con frecuencia</td>
           <td>Alta</td>
         </tr>
         <tr>
-          <td valign="top">Se plantea hacer uso de un software especializado en vehículos</td>
+          <td valign="top">Hace uso de software relacionado al mantenimiento de vehiculos</td>
           <td>Rara vez</td>
           <td>Media</td>
           <td>Con frecuencia</td>
