@@ -159,6 +159,20 @@ Abril 2024
     <td>Pinto</td>
     <td>Realización del Development Evidence for Sprint Review</td>
   </tr>
+
+  <tr>
+    <td>3.1</td>
+    <td>20/06/24</td>
+    <td>Christian Matos</td>
+    <td>Realización del Development Evidence for Sprint Review</td>
+  </tr>
+
+  <tr>
+    <td>3.2</td>
+    <td>21/06/24</td>
+    <td>Miquel de la Piedra</td>
+    <td>Realización del Deployment</td>
+  </tr>
   
 </table>
 
@@ -175,7 +189,7 @@ Durante el desarrollo del proyecto, el equipo ha trabajado activamente en la ela
 - Revisión y Edición: Se llevaron a cabo revisiones periódicas del informe para mejorar la claridad, coherencia y precisión del contenido.
 
 
-Commits en reporte avance TB1:
+Commits en reporte avance TB2:
 
 <div align="center">
   <img src="img/commits.png" alt="Commits" width="100%">
@@ -183,6 +197,15 @@ Commits en reporte avance TB1:
   <img src="img/insights.png" alt="Insights" width="100%">
 </div>
 
+Commits en reporte avance TF1:
+
+Para esta TF1 hemos avanzado tanto el front end como backend.
+
+- Insights
+<img src="img/insights4.png" alt="Insights" width="100%">
+
+- Commits
+<img src="img/commits12.png" alt="Insights" width="100%">
 
 
 
@@ -2635,12 +2658,138 @@ Para la parte del Back End:
 <tr><td valign="top">TS06</td><td valign="top">Implementación de IAM en Frontend</td><td valign="top">Actualizar método de inicio de sesión y registro en Frontend para que funcione con IAM.</td><td valign="top">1</td><td valign="top">Miquel de la Piedra</td><td valign="top">TO-DO</td></tr>
 <tr><td valign="top">TS07</td><td valign="top">Modificación de modelos y servicios en Frontend</td><td valign="top">Modificar los modelos y servicios necesarios con la nueva forma de autenticación (IAM).</td><td valign="top">1</td><td valign="top">Miquel de la Piedra</td><td valign="top">TO-DO</td></tr>
 </table>
+
 #### 5.2.4.3. Development Evidence for Sprint Review.
+
+|**Repository**|**Branch**|**Commit Id**|**Commit Message**|**Commit Message Body**|**Commited on (Date)**|
+| :- | :- | :- | :- | :- | :- |
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|823e4d5|<p>[feat: added invoices](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications/commit/71fcdbce41ca7a69fac0e5971186e95d6dc8500b)</p><p></p>|<p>[added ](https://github.com/Grupo-Punteros-Open-Source/Frontend_Web_Applications/commit/71fcdbce41ca7a69fac0e5971186e95d6dc8500b)invoice</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|bf43852|feat: add logo image to side navegation bar|<p>added logo image to side navegation bar</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|b26bc81|<p>fix: remove carpet invoices to manager directory</p><p></p>|<p>removed carpet invoices to manager directory</p><p></p>|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|55d1d31|feat: move directoy services and model to mangar directory & added new methods(create, update and delete)|move directoy|17/05/2024|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|473e1be|feat: functionality to enter invoices finished|functionality to enter invoices finished|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|a48fe0c|feat: move directory services and model|move directory services and model|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f0f03c4|feat: added customer list, card and profile component|added customer list, card and profile component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|35794af|feat: added add-customer component|added add-customer component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|08b9422|feat: added delete profile customer component|added delete profile customer component|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|dad0dcd|feat: added edit information on customer profile|added edit information on customer profile|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f12184e|feat: added functionality to edit invoice status and delete invoice.|added functionality to edit invoice status and delete invoice.|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|86f51d2|feat: added home and notifications|added home and notifications|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|45aa3d1|feat: finished invoices|finished invoices|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|3f1603e|fix: fixed json|fixed json|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|43e216d|feat: added createInvoice into InvoiceService|added createInvoice into InvoiceService|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|f75d694|feat: added login and signin components|added login and signin components|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|637437f|build: added server script|added server script|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|086a8bd|feat: added edit information on customer and css on customer view|added edit information on customer and css on customer view|22/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|d6bdcb0|feat: added product|added product|23/05/24|
+|<p>Grupo-Punteros-Open-Source</p><p>/</p><p>Mejora</p>|development|2d3e5d6|feat: added carpet clients|added carpet clients|23/05/24|
+
 #### 5.2.4.4. Testing Suite Evidence For Sprint Review
 #### 5.2.4.5. Exectuion for Sprint Review
+
+Evidencia de la ejecución: [Execution](https://youtu.be/b8KMBaZOJck)
+
 #### 5.2.3.6. Services Documentation Evidence For Sprint Review
+
+|Método|Endpoint (https://cargoappwebservice.azurewebsites.net)|Descripción|
+| :- | :- | :- |
+|GET|/api/v1/users|Se obtiene toda la lista de usuarios|
+|GET|/api/v1/customers|Se obtiene toda la lista de customers|
+|GET|/api/v1/workshops|Se obtiene toda la lista de workshops|
+|GET|/api/v1/maintenances|Se obtiene toda la lista de maintenances|
+|GET|/api/v1/vehicles|Se obtiene toda la lista de vehículos|
+|GET|/api/v1/invoices|Se obtiene toda la lista de boletas/facturas|
+|GET|/api/v1/products|Se obtiene toda la lista de productos|
+|GET|/api/v1/advertising|Se obtiene toda la lista de avisos|
+|GET|/api/v1/details|Se obtiene toda la lista de detalles|
+|GET|/api/v1/notifications|Se obtiene toda la lista de notificaciones|
+|GET|/api/v1/Roles|Se obtiene toda la lista de roles|
+|GET|/api/v1/histories|Se obtiene toda la lista de historiales|
+|GET|/api/v1/users/{userId}|Se obtiene la información de un usuario por ID|
+|GET|/api/v1/customer/{customerID}|Se obtiene la información de un customer por ID|
+|GET|/api/v1/workshop/{workshopID}|Se obtiene la información de un workshop por ID|
+|GET|/api/v1/maintenances/{maintenanceID} |Se obtiene la información de un mantenimiento por ID|
+|GET|/api/v1/vehicles/{vehicleID} |Se obtiene la información de un vehículo por ID|
+|<p>GET</p><p></p>|<p>/api/v1/invoices/{invoiceID}</p><p></p>|Se obtiene la información de una boleta/factura por ID|
+|GET|/api/v1/products/{productID}|Se obtiene la información de un producto por ID|
+|GET|/api/v1/advertising/{advertisingID}|Se obtiene la información de un aviso por ID|
+|GET|/api/v1/details/{detailID}|Se obtiene la información de un detalle por ID|
+|GET|/api/v1/notifications/{notificationID}|Se obtiene la información de una notificación por ID|
+|GET|/api/v1/histories/{historyID}|` `Se obtiene la información de un historial por ID|
+|PUT|/api/v1/customers/{customerId}|Se modifica la información de un customer por ID|
+|PUT|/api/v1/workshop/{workshopId}|Se modifica la información de un workshop por ID|
+|PUT|/api/v1/maintenances/{maintenanceId} |Se modifica la información de un mantenimiento por ID|
+|PUT|/api/v1/vehicles/{vehicleId} |Se modifica la información de un vehículo por ID |
+|PUT|<p>/api/v1/invoices/{invoiceId} </p><p></p>|Se modifica la información de una boleta/factura por ID |
+|PUT|/api/v1/products/{productId} |Se modifica la información de un producto por ID|
+|PUT|/api/v1/advertising/{advertisingId} |Se modifica la información de un aviso por ID |
+|PUT|/api/v1/details/{detailId} |Se modifica la información de un detalle por ID |
+|PUT|/api/v1/notifications/{notificationId} |Se modifica la información de una notificación por ID|
+|PUT|/api/v1/histories/{historyId} |Se modifica la información de un historial por ID|
+|DELETE |/api/v1/customers/{customerId} |Se elimina un customer por ID|
+|DELETE |/api/v1/workshops/{workshopId}|Se elimina un workshop por ID|
+|DELETE |/api/v1/maintenances/{maintenanceId} |Se elimina un mantenimiento por ID|
+|DELETE |/api/v1/vehicles/{vehicleId} |Se elimina un vehículo por ID|
+|DELETE |/api/v1/invoices/{invoiceId} |Se elimina una boleta/factura por ID|
+|DELETE |/api/v1/products/{productId} |Se elimina un producto por ID|
+|DELETE |/api/v1/advertising/{advertisingId} |Se elimina un aviso por ID|
+|DELETE |/api/v1/details/{detailId} |Se elimina un detalle por ID|
+|DELETE |/api/v1/notifications/{notificationId} |Se elimina una notificación por ID|
+|DELETE |/api/v1/histories/{historyId} |Se elimina un historial por ID|
+|POST|/api/v1/user|Se crea un nuevo usuario|
+|POST|/api/v1/customer|Se crea un nuevo customer|
+|POST|/api/v1/workshops |Se crea un nuevo workshop|
+|POST|/api/v1/maintenances |Se crea un nuevo mantenimiento|
+|POST|/api/v1/vehicles |Se crea un nuevo vehículo|
+|POST|/api/v1/invoices|Se crea una nueva boleta/factura |
+|POST|/api/v1/products|Se crea un nuevo producto|
+|POST|/api/v1/advertising|` `Se crea un nuevo aviso|
+|POST|/api/v1/details|Se crea un nuevo detalle POST |
+|POST|/api/v1/notifications|Se crea una nueva notificación|
+|POST|/api/v1/roles |Se crea un nuevo rol|
+|POST|/api/v1/histories|Se crea un nuevo historial|
+|POST|/api/v1/authentication/sign-up|Se registra un usuario nuevo|
+|POST|/api/v1/authentication/sign-in|Se loguea un usuario y recibe su token|
+
 #### 5.2.3.7. Software Deployment Evidence For Sprint Review
+
+Para el deploy del Front End se utilizo Fire Base
+
+<img src="img/insights4_sprint3.png" alt="insight" width="100%">
+
+Evidencia del deploy frontned: [FrontEnd](https://autoprotracker-f58cd.web.app/)
+
+Para el deploy del Back End se utilizo Railway
+
+<img src="img/insights4_sprint3.png" alt="insight" width="100%">
+
+Evidencia del deploy backend: [Backend](https://webservices-production-ac9c.up.railway.app/swagger-ui/index.html#/)
+
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+
+Para la parte del Front End
+
+Hemos trabajado en las siguientes ramas:
+
+<img src="img/insights1_sprint3.png" alt="Logo del servicio" width="100%">
+
+- Christian Matos: Invoices, Menu, Notifications & Db.json
+- Miquel De La Piedra: Customers
+- Christian Espinoza: Inventory
+- Alvaro Pinto: Workshop & Auth
+- Sebastian Mendez: Vehicles
+
+Como siguiente se va a mostrar los commits que hizo cada participante
+
+<img src="img/insights_sprint3.png" alt="insight" width="100%">
+
+
+Para la parte del Back End:
+
+<img src="img/insights2_sprint3.png" alt="insight" width="100%">
+<img src="img/insights3_sprint3.png" alt="insight" width="100%">
+<img src="img/insights4_sprint3.png" alt="insight" width="100%">
 
 
 
