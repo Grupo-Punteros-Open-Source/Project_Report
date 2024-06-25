@@ -284,6 +284,15 @@ Commits en reporte avance TB1:
       - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
       - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
       - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 4](#523-sprint-4)
+      - [5.2.4.1. Sprint Planning 4](#5231-sprint-planning-4)
+      - [5.2.4.2. Sprint Backlog 4](#5232-sprint-backlog-4)
+      - [5.2.4.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+      - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+      - [5.2.4.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+      - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+      - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+      - [5.2.4.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
   - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -2597,6 +2606,45 @@ Para la parte del Back End:
 <img src="img/insights2_sprint3.png" alt="insight" width="100%">
 <img src="img/insights3_sprint3.png" alt="insight" width="100%">
 <img src="img/insights4_sprint3.png" alt="insight" width="100%">
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4
+|**Sprint #**|Sprint 4|
+| :- | :- |
+|**Sprint Planning Background**||
+|Date|2024-06-02|
+|Time|07:00 PM|
+|Location|Virtual|
+|Prepared by|Matos Fernandez, Christian Andre|
+|Attendees (to planning meeting)|<p>De la Piedra Quintanilla, Erwin Miquel</p><p>U202112179</p><p>Pinto Fuentes Rivera, Alvaro Felipe</p><p>U202213384</p><p>Espinoza Saenz,Christian Renato</p><p>U202213208</p><p>Méndez Vargas, Sebastian Orlando</p><p>U20201F140</p><p>Matos Ferrnandez, Christian André</p><p>U202214162</p>|
+|Sprint n - 3 Review Summary|En el sprint 3, se realizó la implementación de la vista del administrador del taller.|
+|Sprint n - 3 Retrospective Summary|En la última entrega, enfrentamos diversos contratiempos y demoras en los plazos establecidos para finalizar las labores asignadas a cada integrante del equipo. Por ello, hemos mantenido conversaciones para evitar una repetición de esta situación y garantizar el cumplimiento de los plazos acordados inicialmente.|
+|**Sprint Goal & User Stories**||
+|Sprint 3 Goal|Desarrollar la sección final del Frontend de la aplicación web y la sección inicial del Back End|
+|Sprint 3 Velocity|28|
+|Sum of Story Points|28|
+#### 5.2.4.2. Sprint Backlog 4
+<table><tr><th valign="top">Sprint #</th><th colspan="7" valign="top">Sprint 4</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top">Status (To-Do / In-Process / Review / Done)</td></tr>
+<tr><td rowspan="3" valign="top">US30</td><td rowspan="3" valign="top">Uso de nuestra API para gestionar usuarios</td><td valign="top">TS01</td><td valign="top">Implementación de consulta de Cliente y Empresario por Id de usuario</td><td valign="top">Implementar consulta (query) para obtener el cliente o usuario a partir del id del usuario.</td><td valign="top">2</td><td valign="top">Christian Matos</td><td valign="top">DONE</td></tr>
+<tr><td valign="top">TS02</td><td valign="top">Implementación de consulta de Configuración por Id de usuario</td><td valign="top">Implementar consulta (query) para obtener la configuración de un usuario a partir de su id.</td><td valign="top">2</td><td valign="top">Miquel de la Piedra</td><td valign="top">DONE</td></tr>
+<tr><td valign="top">TS03</td><td valign="top">Implementación de consulta de viajes por Id de cliente o usuario</td><td valign="top">Implementar consulta (query) para obtener los viajes de un cliente o empresario a partir de su id.</td><td valign="top">2</td><td valign="top">Christian Matos</td><td valign="top">DONE</td></tr>
+<tr><td valign="top">US31</td><td valign="top">Uso de nuestra API para gestionar los mantenimientos</td><td valign="top">TS04</td><td valign="top">Implementación para obtener los productos del workshop por nombre</td><td valign="top">Implementar consulta (query) para obtener los productos por nombre.</td><td valign="top">1</td><td valign="top">Christian Espinoza</td><td valign="top">DONE</td></tr>
+<tr><td rowspan="3" valign="top">US32</td><td rowspan="3" valign="top">Seguridad y autenticación en nuestra API</td><td valign="top">TS04</td><td valign="top">Implementación de IAM en Backend</td><td valign="top">Implementar la autenticación con Token de seguridad para tener acceso a las peticiones HTTP.</td><td valign="top">2</td><td valign="top">Christian Matos</td><td valign="top">DONE</td></tr>
+<tr><td valign="top">TS06</td><td valign="top">Implementación de IAM en Frontend</td><td valign="top">Actualizar método de inicio de sesión y registro en Frontend para que funcione con IAM.</td><td valign="top">1</td><td valign="top">Miquel de la Piedra</td><td valign="top">TO-DO</td></tr>
+<tr><td valign="top">TS07</td><td valign="top">Modificación de modelos y servicios en Frontend</td><td valign="top">Modificar los modelos y servicios necesarios con la nueva forma de autenticación (IAM).</td><td valign="top">1</td><td valign="top">Miquel de la Piedra</td><td valign="top">TO-DO</td></tr>
+</table>
+#### 5.2.4.3. Development Evidence for Sprint Review.
+#### 5.2.4.4. Testing Suite Evidence For Sprint Review
+#### 5.2.4.5. Exectuion for Sprint Review
+#### 5.2.3.6. Services Documentation Evidence For Sprint Review
+#### 5.2.3.7. Software Deployment Evidence For Sprint Review
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+
+
+
 
 
 ## 5.3. Validation Interviews
