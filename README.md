@@ -2112,7 +2112,7 @@ Usuarios de GitHub:
 |   De la Piedra Quintanilla, Erwin Miquel   |    Miquel    |
 |  Pinto Fuentes Rivera, Alvaro Felipe  |    Alvaro    |
 |   Espinoza Saenz,Christian Renato  |    Christian    |
-|  Méndez Vargas, Sebastian Orlando   |    Chivicita   |
+|  Méndez Vargas, Sebastian Orlando   |    Sebastian   |
 |   Matos Ferrnandez, Christian André   |    FerKlox34   |
 
 *URL de repositorio Landing Page*: [https://github.com/Grupo-Punteros-Open-Source/Landing_Page](https://github.com/Grupo-Punteros-Open-Source/Landing_Page)
